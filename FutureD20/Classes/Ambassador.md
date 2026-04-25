@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Ambassador]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Ambassador](./Ambassador.md)
 
 ## Ambassador
 

@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Swindler]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Swindler](./Swindler.md)
 
 ## Swindler
 

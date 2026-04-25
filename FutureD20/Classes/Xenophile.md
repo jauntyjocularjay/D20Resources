@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Xenophile]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Xenophile](./Xenophile.md)
 
 # Xenophile
 

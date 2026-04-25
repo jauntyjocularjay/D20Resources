@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Dreadnought]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Dreadnought](./Dreadnought.md)
 
 # Dreadnought
 

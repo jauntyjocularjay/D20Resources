@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Mecha Jockey]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Mecha Jockey](./MechaJockey.md)
 
 ## Mecha Jockey
 

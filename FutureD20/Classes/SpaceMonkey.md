@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes]() > [Space Monkey]()
+[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Space Monkey](./SpaceMonkey.md)
 
 ## Space Monkey
 
