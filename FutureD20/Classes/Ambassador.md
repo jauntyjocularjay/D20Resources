@@ -20,7 +20,7 @@ The following information pertains to the Ambassador advanced class.
 
 **Hit Die**
 
-The Ambassador gains 1d6 hit points per level. The character�s Constitution modifier applies.
+The Ambassador gains 1d6 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Ambassador gains a number of action points equal to 6 + one-half her charact
 
 **Class Skills**
 
-The Ambassador�s class skills are as follows.
+The Ambassador's class skills are as follows.
 
 Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha), Knowledge (behavioral sciences, civics, current events, history, theology and philosophy) (Int), Profession (Wis), Read/Write Language (none), Research (Int), Sense Motive (Wis), and Speak Language (none).
 
@@ -57,7 +57,7 @@ The following class features pertain to the Ambassador advanced class.
 
 Starting at 1st level, if the Ambassador is arrested for a crime, she can make a Diplomacy check to invoke her diplomatic credentials and not suffer the usual legal penalty or punishment. The severity of the crime determines the DC of the Diplomacy check, and how authorities react if the Ambassador succeeds. See Table: Diplomatic Immunity for Diplomacy check DCs based on the severity of the crime.
 
-If one of the Ambassador�s consuls (see the select consul class feature, below) is arrested for a crime and unable to secure her own release, the Ambassador may intercede on the consul�s behalf. One may aid the other�s Diplomacy check.An Ambassador who routinely invokes the privilege of diplomatic immunity�either on her own behalf or to protect her selected consuls�is likely to be recalled or terminated by those she has sworn to represent.
+If one of the Ambassador's consuls (see the select consul class feature, below) is arrested for a crime and unable to secure her own release, the Ambassador may intercede on the consul's behalf. One may aid the other's Diplomacy check.An Ambassador who routinely invokes the privilege of diplomatic immunity'either on her own behalf or to protect her selected consuls'is likely to be recalled or terminated by those she has sworn to represent.
 
 ## Table: Diplomatic Immunity
 
@@ -91,6 +91,6 @@ At 7th level, the Ambassador gains clearance to access restricted files or class
 
 **Select Consuls**
 
-At 10th level, the Ambassador may appoint a number of individuals equal to her Reputation bonus as �consuls� or �attach�s.� These appointed individuals gain all the benefits of the diplomatic immunity, information access, and restricted access class features (described above). The Ambassador may revoke these privileges at any time and appoint replacement consuls as she sees fit. It takes 1d4 hours for an Ambassador to invoke or revoke a consul�s or attach�s privileges.
+At 10th level, the Ambassador may appoint a number of individuals equal to her Reputation bonus as 'consuls' or 'attach's.' These appointed individuals gain all the benefits of the diplomatic immunity, information access, and restricted access class features (described above). The Ambassador may revoke these privileges at any time and appoint replacement consuls as she sees fit. It takes 1d4 hours for an Ambassador to invoke or revoke a consul's or attach's privileges.
 
 > Written with [StackEdit](https://stackedit.io/).

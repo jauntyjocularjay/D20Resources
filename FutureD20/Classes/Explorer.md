@@ -18,7 +18,7 @@ The following information pertains to the Explorer advanced class.
 
 **Hit Die**
 
-The Explorer gains 1d8 hit points per level. The character�s Constitution modifier applies.
+The Explorer gains 1d8 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -26,7 +26,7 @@ The Explorer gains a number of action points equal to 6 + one-half her character
 
 **Class Skills**
 
-The Explorer�s class skills are as follows.
+The Explorer's class skills are as follows.
 
 Balance (Dex), Bluff (Cha), Climb (Str), Decipher Script (Int), Disable Device (Int), Drive (Dex), Gather Information (Cha), Handle Animal (Cha), Investigate (Int), Jump (Str), Knowledge (arcane lore, art, earth and life sciences, history, physical sciences, theology and philosophy) (Int), Listen (Wis), Navigate (Int), Pilot (Dex), Read/Write Language ( none) , Research (Int) , Ride ( Dex) , Search ( Int) , Sense Motive (Wis), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str), Treat Injury (Wis).
 
@@ -96,7 +96,7 @@ An Explorer of 5th level or higher can spend an action point to take an extra 5-
 
 At 10th level, the Explorer can take the extra 5-foot step without spending an action point.
 
-**Explorer�s Evasion**
+**Explorer's Evasion**
 
 If an Explorer of 8th level or higher is exposed to any effect that normally allows a character to attempt a Reflex saving throw for half damage, the Explorer suffers no damage if she makes a successful saving throw. If the Explorer already has evasion, she gains improved evasion instead. Improved evasion works similar to evasion, except the Explorer suffers only half damage on a failed saving throw.
 > Written with [StackEdit](https://stackedit.io/).

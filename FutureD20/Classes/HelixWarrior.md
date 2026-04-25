@@ -20,7 +20,7 @@ The following information pertains to the Helix Warrior advanced class.
 
 **Hit Die**
 
-The Helix Warrior gains 1d10 hit points per level. The character�s Constitution modifier applies.
+The Helix Warrior gains 1d10 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Helix Warrior gains a number of action points equal to 6 + one-half her char
 
 **Class Skills**
 
-The Helix Warrior�s class skills are as follows.
+The Helix Warrior's class skills are as follows.
 
 Balance (Dex), Climb (Str), Computer Use (Int), Demolitions (Int), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Navigate (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex). Skill Points at Each Level: 3 + Int modifier (2 + Int modifier for nonhumans).
 
@@ -53,11 +53,11 @@ The following class features pertain to the Helix Warrior advanced class.
 
 **Haul**
 
-Helix Warriors can carry more heavy gear than the typical soldier. A Helix Warrior�s Strength is considered 4 points higher for the purpose of determining her carrying capacity.
+Helix Warriors can carry more heavy gear than the typical soldier. A Helix Warrior's Strength is considered 4 points higher for the purpose of determining her carrying capacity.
 
 **Light Sleeper**
 
-Helix Warriors are light sleepers and can make Listen checks even while asleep, without penalty. (A sleeping character normally takes a �10 penalty on Listen checks.)
+Helix Warriors are light sleepers and can make Listen checks even while asleep, without penalty. (A sleeping character normally takes a '10 penalty on Listen checks.)
 
 **Survivor**
 
@@ -67,7 +67,7 @@ When a Helix Warrior spends an action point to modify the result of a saving thr
 
 Beginning at 2nd level, a Helix Warrior gains darkvision. She can see in total darkness out to a range of 60 feet. Darkvision is black-andwhite only, but is otherwise like normal sight.
 
-The range of the Helix Warrior�s darkvision improves to 90 feet at 5th level and 120 feet at 8th level.
+The range of the Helix Warrior's darkvision improves to 90 feet at 5th level and 120 feet at 8th level.
 
 **Bonus Feats**
 
@@ -77,11 +77,11 @@ Advanced Combat Martial Arts, Advanced Firearms Proficiency, Armor Proficiency (
 
 **Strong As An Ox**
 
-At 4th level and beyond, the Helix Warrior�s carrying capacity increases as if she were one size category larger (Large instead of Medium-size, for example).
+At 4th level and beyond, the Helix Warrior's carrying capacity increases as if she were one size category larger (Large instead of Medium-size, for example).
 
 **Superior Conditioning**
 
-Beginning at 5th level, a Helix Warrior learns how to shake off adverse conditions. When a Helix Warrior is subjected to one of the following conditions, the duration of the condition�s effect is halved: cowering, dazed, exhausted, fatigued, nauseated, panicked, paralyzed, shaken, and stunned. If the condition�s duration is only 1 round, the Helix Warrior is not affected at all.
+Beginning at 5th level, a Helix Warrior learns how to shake off adverse conditions. When a Helix Warrior is subjected to one of the following conditions, the duration of the condition's effect is halved: cowering, dazed, exhausted, fatigued, nauseated, panicked, paralyzed, shaken, and stunned. If the condition's duration is only 1 round, the Helix Warrior is not affected at all.
 
 **Improved Reaction**
 

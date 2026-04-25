@@ -20,7 +20,7 @@ The following information pertains to the Tracer advanced class.
 
 **Hit Die**
 
-The Tracer gains 1d8 hit points per level. The character�s Constitution modifier applies.
+The Tracer gains 1d8 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Tracer gains a number of action points equal to 6 + one-half his character l
 
 **Class Skills**
 
-The Tracer�s class skills are as follows.
+The Tracer's class skills are as follows.
 
 Climb (Str), Computer Use (Int), Disable Device (Int), Disguise (Cha), Drive (Dex), Gather Information (Cha), Hide (Dex), Investigate (Int), Jump (Str), Knowledge (behavioral sciences, civics, streetwise, tactics) (Int), Listen (Wis), Move Silently (Dex), Navigate (Int), Pilot (Dex), Research (Int), Search (Int), Sense Motive (Wis), Spot (Wis), Survival (Wis), Swim (Str).
 
@@ -66,7 +66,7 @@ At 1st level, a Tracer gains the bonus feat Urban Tracking.
 
 **Swift Strike**
 
-At 2nd level, the Tracer becomes skilled at taking down unwary targets quickly. He deals +1d6 points of damage on successful melee and ranged weapon attacks made against a flat-footed opponent. This extra damage can be lethal or nonlethal, as determined by the choice of weapon and the manner in which it�s used.
+At 2nd level, the Tracer becomes skilled at taking down unwary targets quickly. He deals +1d6 points of damage on successful melee and ranged weapon attacks made against a flat-footed opponent. This extra damage can be lethal or nonlethal, as determined by the choice of weapon and the manner in which it's used.
 
 The extra damage increases to +2d6 at 5th level and +3d6 at 8th level.
 
@@ -80,10 +80,10 @@ Advanced Combat Martial Arts, Advanced Firearms Proficiency, Aircraft Operation 
 
 Tracers learn to move quickly yet quietly.
 
-At 4th level, a Tracer no longer suffers the �5 penalty on Hide and Move Silently checks while moving at full speed. At 7th level, a Tracer suffers only a �10 penalty on Hide and Move Silently checks while running or charging (instead of the normal �20 penalty).
+At 4th level, a Tracer no longer suffers the '5 penalty on Hide and Move Silently checks while moving at full speed. At 7th level, a Tracer suffers only a '10 penalty on Hide and Move Silently checks while running or charging (instead of the normal '20 penalty).
 
 **Swift Tracking**
 
-At 10th level, the Tracer can move a full speed without penalty when using the Survival skill to track. He can move at twice normal speed while tracking, but takes a �10 penalty on the check when doing so.
+At 10th level, the Tracer can move a full speed without penalty when using the Survival skill to track. He can move at twice normal speed while tracking, but takes a '10 penalty on the check when doing so.
 
 > Written with [StackEdit](https://stackedit.io/).

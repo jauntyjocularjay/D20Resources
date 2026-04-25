@@ -20,7 +20,7 @@ The following information pertains to the Space Monkey advanced class.
 
 **Hit Die**
 
-The Space Monkey gains 1d10 hit points per level. The character�s Constitution modifier applies.
+The Space Monkey gains 1d10 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Space Monkey gains a number of action points equal to 6 + one-half his chara
 
 **Class Skills**
 
-The Space Monkey�s class skills are as follows.
+The Space Monkey's class skills are as follows.
 
 Balance (Dex), Bluff (Cha), Climb (Str), Computer Use (Int), Craft (mechanical, structural) (Int), Demolitions (Int), Disable Device (Int), Drive (Dex), Escape Artist (Dex), Jump (Str), Knowledge (earth and life sciences, technology) (Int), Navigate (Int), Pilot (Dex), Repair (Int), Search (Int), Survival (Wis), Treat Injury (Wis), Tumble (Dex).
 
@@ -59,9 +59,9 @@ The following class features pertain to the Space Monkey advanced class.
 
 A Space Monkey can enter a deep trance that allows him to gain the full benefits of sleep or bed rest in half the usual time.
 
-**Monkey�s Wrench**
+**Monkey's Wrench**
 
-Space Monkeys use tools expertly and creatively. Starting at 2nd level, a Space Monkey gains a competence bonus equal to one-half his Space Monkey class level on skill checks made when using a tool kit. This bonus stacks with the tool kit�s normal equipment bonus.
+Space Monkeys use tools expertly and creatively. Starting at 2nd level, a Space Monkey gains a competence bonus equal to one-half his Space Monkey class level on skill checks made when using a tool kit. This bonus stacks with the tool kit's normal equipment bonus.
 
 **Bonus Feats**
 
@@ -83,7 +83,7 @@ At 5th level, a Space Monkey gains a +2 competence bonus on Navigate and Surviva
 
 Upon reaching 7th level, a Space Monkey has learned sneaky tactics. He can use the Bluff technique of feinting in combat as a move action, allowing him to feint and attack in the same round.
 
-If the Space Monkey also has the Improved Feint feat, he gains a +4 bonus (instead of the feat�s usual +2 bonus) on Bluff checks made to feint in combat.
+If the Space Monkey also has the Improved Feint feat, he gains a +4 bonus (instead of the feat's usual +2 bonus) on Bluff checks made to feint in combat.
 
 **Space Suitable**
 

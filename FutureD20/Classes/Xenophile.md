@@ -18,7 +18,7 @@ The following information pertains to the Xenophile advanced class.
 
 ### Hit Die
 
-The Xenophile gains 1d8 hit points per level. The character�s Constitution modifier applies.
+The Xenophile gains 1d8 hit points per level. The character's Constitution modifier applies.
 
 ### Action Points
 
@@ -52,9 +52,9 @@ The following class features pertain to the Xenophile advanced class.
 
 **Xenolore**
 
-A Xenophile can make a Knowledge check to identify certain characteristics of a xenomorph, including any special attacks, special qualities, or vulnerabilities. In general, the DC of the Knowledge check equals 10 + the xenomorph�s Hit Dice. A successful check allows the Xenophile to unlock a single fact about the xenomorph. For every 5 points by which her check result exceeds the DC, the Xenophile learns another piece of useful information.
+A Xenophile can make a Knowledge check to identify certain characteristics of a xenomorph, including any special attacks, special qualities, or vulnerabilities. In general, the DC of the Knowledge check equals 10 + the xenomorph's Hit Dice. A successful check allows the Xenophile to unlock a single fact about the xenomorph. For every 5 points by which her check result exceeds the DC, the Xenophile learns another piece of useful information.
 
-The type of Knowledge check depends on the xenomorph�s creature type, as shown below:
+The type of Knowledge check depends on the xenomorph's creature type, as shown below:
 
 Knowledge (arcane lore): Fey, magical beasts.
 
@@ -106,7 +106,7 @@ Alien Weapons Proficiency, Combat Reflexes, Dodge, Educated, Medical Expert, Mob
 
 **Xenodefense**
 
-At 5th level, during her action, the Xenophile can designate an opponent and receive a +1 insight bonus to Defense against any subsequent attacks from that opponent. The opponent must belong to one of the Xenophile�s chosen xenotypes (see Xenotype, above).
+At 5th level, during her action, the Xenophile can designate an opponent and receive a +1 insight bonus to Defense against any subsequent attacks from that opponent. The opponent must belong to one of the Xenophile's chosen xenotypes (see Xenotype, above).
 
 The Xenophile can select a new opponent on any action. At 10th level, the insight bonus to Defense increases to +2.
 

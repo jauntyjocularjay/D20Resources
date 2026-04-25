@@ -18,7 +18,7 @@ The following information pertains to the Mecha Jockey advanced class.
 
 **Hit Die**
 
-The Mecha Jockey gains 1d10 hit points per level. The character�s Constitution modifier applies.
+The Mecha Jockey gains 1d10 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -26,7 +26,7 @@ The Mecha Jockey gains a number of action points equal to 6 + one-half his chara
 
 **Class Skills**
 
-The Mecha Jockey�s class skills are as follows. Bluff (Cha), Computer Use (Int), Drive (Dex), Knowledge (current events, popular culture, streetwise, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/Write Language (none), Repair (Int), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Tumble (Dex).
+The Mecha Jockey's class skills are as follows. Bluff (Cha), Computer Use (Int), Drive (Dex), Knowledge (current events, popular culture, streetwise, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/Write Language (none), Repair (Int), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Tumble (Dex).
 
 Skill Points at Each Level: 5 + Int modifier.
 
@@ -55,9 +55,9 @@ At 1st level, the Mecha Jockey gains the bonus feat Mecha Weapon Proficiency.
 
 **Luv My Mecha**
 
-Starting at 2nd level, a Mecha Jockey gains a bonus on Drive, Pilot, and Repair checks when applied to a mecha he designates as familiar. The same bonus is applied to the Mecha Jockey�s attack rolls with the mecha�s ranged weapons. This bonus is +1 at 2nd level and increases by 1 every three levels thereafter (+2 at 5th level, +3 at 8th level).
+Starting at 2nd level, a Mecha Jockey gains a bonus on Drive, Pilot, and Repair checks when applied to a mecha he designates as familiar. The same bonus is applied to the Mecha Jockey's attack rolls with the mecha's ranged weapons. This bonus is +1 at 2nd level and increases by 1 every three levels thereafter (+2 at 5th level, +3 at 8th level).
 
-To designate a mecha as familiar, the Mecha Jockey must have operated it for at least one month. Minor changes and upgrades to the mecha don�t affect familiarity, but if the Mecha Jockey switches to a mecha with a different size, different superstructure, different flight system, or more than one new weapon, he must operate it for at least one month before he is familiar with it. A Mecha Jockey can be familiar with only one mecha at a time.
+To designate a mecha as familiar, the Mecha Jockey must have operated it for at least one month. Minor changes and upgrades to the mecha don't affect familiarity, but if the Mecha Jockey switches to a mecha with a different size, different superstructure, different flight system, or more than one new weapon, he must operate it for at least one month before he is familiar with it. A Mecha Jockey can be familiar with only one mecha at a time.
 
 **Bonus Feat**
 
@@ -75,6 +75,6 @@ At 7th level, the Mecha Jockey can make a Drive, Pilot, or Tumble check (as appr
 
 **Improved Evasive Action**
 
-At 10th level, the Mecha Jockey�s evasive action ability improves. A successful Drive, Pilot, or Tumble check negates all damage dealt by the attack.
+At 10th level, the Mecha Jockey's evasive action ability improves. A successful Drive, Pilot, or Tumble check negates all damage dealt by the attack.
 
 > Written with [StackEdit](https://stackedit.io/).

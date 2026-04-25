@@ -16,7 +16,7 @@ The following information pertains to the Technosavant advanced class.
 
 **Hit Die**
 
-The Technosavant gains 1d6 hit points per level. The character�s Constitution modifier applies.
+The Technosavant gains 1d6 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -24,7 +24,7 @@ The Technosavant gains a number of action points equal to 6 + one-half her chara
 
 **Class Skills**
 
-The Technosavant�s class skills are as follows.
+The Technosavant's class skills are as follows.
 
 Computer Use (Int), Craft (electrical, mechanical) (Int), Demolitions (Int), Disable Device (Int), Drive (Dex), Knowledge (behavioral sciences, earth and life sciences, physical sciences, popular culture, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/ Write Language (none), Repair (Int), Research (Int), Speak Language (none), Spot (Wis).
 
@@ -61,7 +61,7 @@ The Read/Write Technocant and Speak Technocant skills each cost 1 skill rank.
 
 **Robomancer**
 
-At 2nd level, the Technosavant becomes a master of robotics. With the help of some mechanical �magic,� she takes half the normal time to build or repair a robot�s frame or a robotic component.
+At 2nd level, the Technosavant becomes a master of robotics. With the help of some mechanical 'magic,' she takes half the normal time to build or repair a robot's frame or a robotic component.
 
 **Technophile**
 
@@ -75,7 +75,7 @@ Alien Weapon Proficiency, Armor Proficiency (light), Armor Proficiency (medium),
 
 **Cybermancer**
 
-Starting at 4th level, the Technosavant becomes a master of cybernetics. With the help of some mechanical �magic,� she takes half the normal time to build or repair a cybernetic attachment.
+Starting at 4th level, the Technosavant becomes a master of cybernetics. With the help of some mechanical 'magic,' she takes half the normal time to build or repair a cybernetic attachment.
 
 **Skilled Salvager**
 
@@ -91,7 +91,7 @@ At 8th level, the bonus to damage against robots increases to +2d6, and the bonu
 
 **Exotic Weapon Adept**
 
-Starting at 5th level, the Technosavant becomes more adept at handling exotic weapons without any formal training. She suffers only a �2 penalty (instead of the usual �4 penalty) when wielding an exotic melee weapon or exotic ranged weapon with which she is not proficient.
+Starting at 5th level, the Technosavant becomes more adept at handling exotic weapons without any formal training. She suffers only a '2 penalty (instead of the usual '4 penalty) when wielding an exotic melee weapon or exotic ranged weapon with which she is not proficient.
 
 **Super Cybersurgeon**
 
@@ -103,7 +103,7 @@ A Technosavant of 7th level or higher can perform small wonders with a computer.
 
 Find File, Degrade Programming, or Write Program: When attempting to find a file, degrade a computer program, or write a program, a Technosavant who exceeds the Computer Use check DC by 5 or more accomplishes her intended task in half the normal time (minimum 1 round).
 
-Cover Tracks: A Technosavant who successfully covers her tracks while hacking into a computer system imposes a �10 penalty (instead of the normal �5 penalty) on any attempt made to identify her.
+Cover Tracks: A Technosavant who successfully covers her tracks while hacking into a computer system imposes a '10 penalty (instead of the normal '5 penalty) on any attempt made to identify her.
 
 **Expeditious Salvager**
 

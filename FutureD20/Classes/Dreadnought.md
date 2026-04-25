@@ -20,7 +20,7 @@ The following information pertains to the Dreadnought advanced class.
 
 **Hit Die**
 
-The Dreadnought gains 1d12 hit points per level. The character�s Constitution modifier applies.
+The Dreadnought gains 1d12 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Dreadnought gains a number of action points equal to 6 + one-half her charac
 
 **Class Skills**
 
-The Dreadnought�s class skills are as follows.
+The Dreadnought's class skills are as follows.
 
 Balance (Dex), Climb (Str), Concentration (Con), Intimidate (Cha), Jump (Str), Profession (Wis), Survival (Wis), Swim (Str), Tumble (Dex).
 
@@ -67,7 +67,7 @@ The Dreadnought treats any suit of armor worn as though its armor penalty is 2 b
 
 At 2nd level, the Dreadnought can temporarily increase her Strength, but at a penalty to Defense. At 5th and 8th level, she can use this ability more frequently.
 
-The Dreadnought gains a +8 morale bonus to Strength, but takes a �2 penalty to Defense. Activating ability surge is a free action, and the surge lasts for a number of rounds equal to the Dreadnought�s class level. Following the ability surge, the Dreadnought is fatigued for as many rounds as she surged, but may negate this penalty as a free action by spending an action point. The Dreadnought may use the ability surge once per day at 2nd level, twice per day at 5th level, and three times per day at 8th level.
+The Dreadnought gains a +8 morale bonus to Strength, but takes a '2 penalty to Defense. Activating ability surge is a free action, and the surge lasts for a number of rounds equal to the Dreadnought's class level. Following the ability surge, the Dreadnought is fatigued for as many rounds as she surged, but may negate this penalty as a free action by spending an action point. The Dreadnought may use the ability surge once per day at 2nd level, twice per day at 5th level, and three times per day at 8th level.
 
 **Steamroller**
 

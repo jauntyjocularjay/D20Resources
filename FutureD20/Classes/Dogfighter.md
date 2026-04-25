@@ -20,7 +20,7 @@ The following information pertains to the Dogfighter advanced class.
 
 **Hit Die**
 
-The Dogfighter gains 1d8 hit points per level. The character�s Constitution modifier applies.
+The Dogfighter gains 1d8 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -28,7 +28,7 @@ The Dogfighter gains a number of action points equal to 6 + one-half his charact
 
 **Class Skills**
 
-The Dogfighter�s class skills are as follows.
+The Dogfighter's class skills are as follows.
 
 Bluff (Cha), Computer Use (Int), Craft (electronic, mechanical) (Int), Knowledge (popular culture, streetwise, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Repair (Int). Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
@@ -63,15 +63,15 @@ Starting at 2nd level, a Dogfighter applies his Reputation bonus to the die resu
 
 **Shake, Rattle, And Roll**
 
-At 4th level, a Dogfighter learns how rock an enemy starship with weapons fire. The Dogfighter must declare that he is using this ability before making the attack roll (thus, a failed attack roll ruins the attempt). A starship damaged by the Dogfighter�s attack is shaken for 1 round; all passengers and crewmembers (pilots and gunners included) aboard the shaken ship take a �2 penalty on attack rolls, saving throws, and skill checks for 1 round. A Dogfighter may use this ability once per day at 4th level, twice per day at 7th level, and three times per day at 10th level.
+At 4th level, a Dogfighter learns how rock an enemy starship with weapons fire. The Dogfighter must declare that he is using this ability before making the attack roll (thus, a failed attack roll ruins the attempt). A starship damaged by the Dogfighter's attack is shaken for 1 round; all passengers and crewmembers (pilots and gunners included) aboard the shaken ship take a '2 penalty on attack rolls, saving throws, and skill checks for 1 round. A Dogfighter may use this ability once per day at 4th level, twice per day at 7th level, and three times per day at 10th level.
 
 **To the max!**
 
-At 5th level and beyond, a Dogfighter can coax more thrust out of a ship�s engines, increasing its tactical speed by +500 feet. The Dogfighter must be piloting the ship to increase its tactical speed.
+At 5th level and beyond, a Dogfighter can coax more thrust out of a ship's engines, increasing its tactical speed by +500 feet. The Dogfighter must be piloting the ship to increase its tactical speed.
 
 **Keep It Together**
 
-At 8th level, a Dogfighter can continue to operate a starship even after it has been reduced to negative hit points and has begun breaking apart. The ship may take one move action or one attack action each round. However, the ship cannot be repaired and continues to lose 1 hit point per round, exploding once it reaches its destruction threshold. The Dogfighter and all other personnel aboard the ship are considered shaken, taking a �2 penalty on attack rolls, saving throws, and skill checks.
+At 8th level, a Dogfighter can continue to operate a starship even after it has been reduced to negative hit points and has begun breaking apart. The ship may take one move action or one attack action each round. However, the ship cannot be repaired and continues to lose 1 hit point per round, exploding once it reaches its destruction threshold. The Dogfighter and all other personnel aboard the ship are considered shaken, taking a '2 penalty on attack rolls, saving throws, and skill checks.
 
 
 > Written with [StackEdit](https://stackedit.io/).

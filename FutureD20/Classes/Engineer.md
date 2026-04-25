@@ -16,7 +16,7 @@ The following information pertains to the Engineer advanced class.
 
 **Hit Die**
 
-The Engineer gains 1d6 hit points per level. The character�s Constitution modifier applies.
+The Engineer gains 1d6 hit points per level. The character's Constitution modifier applies.
 
 **Action Points**
 
@@ -24,7 +24,7 @@ The Engineer gains a number of action points equal to 6 + one-half his character
 
 **Class Skills**
 
-The Engineer�s class skills are as follows.
+The Engineer's class skills are as follows.
 
 Computer Use (Int), Craft (electronic, mechanical, structural) (Int), Disable Device (Int), Drive (Dex), Knowledge (physical sciences, technology) ( Int) , Navigate ( Int) , Pilot (Dex) , Profession (Wis), Read/Write Language (none), Repair (Int), Search (Int), Speak Language (none).
 
@@ -77,7 +77,7 @@ At 5th level, the Engineer reduces the building time of ordinary objects and mas
 
 At 2nd level, an Engineer learns improved ways of repairing robots, vehicles, mecha, starships, and cybernetic attachments.
 
-An Engineer with a mechanical tool kit and an appropriate facility (a workshop, garage, or hangar) can repair damage to a robot, vehicle, mecha, starship, or cybernetic attachment. (Without a mechanical tool kit, the Engineer takes a �4 penalty on the Repair check.) With 1 hour of work, the engineer can restore a number of hit points based on his Repair check result, as shown in Table: Superior Repair. If damage remains, the Engineer may continue to make repairs for as many hours as needed to fully repair the damaged robot, vehicle, mecha, starship, or cybernetic attachment.
+An Engineer with a mechanical tool kit and an appropriate facility (a workshop, garage, or hangar) can repair damage to a robot, vehicle, mecha, starship, or cybernetic attachment. (Without a mechanical tool kit, the Engineer takes a '4 penalty on the Repair check.) With 1 hour of work, the engineer can restore a number of hit points based on his Repair check result, as shown in Table: Superior Repair. If damage remains, the Engineer may continue to make repairs for as many hours as needed to fully repair the damaged robot, vehicle, mecha, starship, or cybernetic attachment.
 
 ## Table: Superior Repair
 
@@ -100,27 +100,27 @@ At 4th level, the Engineer can assemble mastercraft (+2) electrical and mechanic
 
 **Reconfigure Weapon**
 
-At 4th level, an Engineer can reconfigure a melee or ranged weapon, improving one aspect of it. Reconfiguring a weapon requires 1 hour of work and a successful Repair check (DC 20); reconfiguring a mastercraft weapon is slightly harder (DC 20 + the weapon�s mastercraft bonus feature). An Engineer may take 10 or take 20 on this check.
+At 4th level, an Engineer can reconfigure a melee or ranged weapon, improving one aspect of it. Reconfiguring a weapon requires 1 hour of work and a successful Repair check (DC 20); reconfiguring a mastercraft weapon is slightly harder (DC 20 + the weapon's mastercraft bonus feature). An Engineer may take 10 or take 20 on this check.
 
-The reconfiguration imposes a �1 penalty on attack rolls made with the weapon but grants one of the following benefits indefinitely:
+The reconfiguration imposes a '1 penalty on attack rolls made with the weapon but grants one of the following benefits indefinitely:
 
-Changed Rate of Fire: The reconfiguration changes the weapon�s rate of fire. A semiautomatic-only weapon switches to an automatic-only weapon, or vice versa. This benefit applies only to a ranged weapon with either a semiautomatic or automatic fire setting.
+Changed Rate of Fire: The reconfiguration changes the weapon's rate of fire. A semiautomatic-only weapon switches to an automatic-only weapon, or vice versa. This benefit applies only to a ranged weapon with either a semiautomatic or automatic fire setting.
 
 Greater Ammo Capacity: The reconfigured weapon can hold 50% more ammunition than normal. This benefit applies only to weapons that take ammunition.
 
 Greater Concealment: The reconfiguration grants a +2 bonus on Sleight of Hand checks made to conceal the reconfigured weapon.
 
-Greater Range Increment: The reconfigured weapon�s range increment increases by 10 feet. This benefit applies only to weapons with range increments.
+Greater Range Increment: The reconfigured weapon's range increment increases by 10 feet. This benefit applies only to weapons with range increments.
 
-Signature Shooter: The weapon is reconfigured for a single individual�s use only and is treated as a unique exotic weapon. Anyone else who uses the weapon takes a �4 nonproficient penalty on attack rolls.
+Signature Shooter: The weapon is reconfigured for a single individual's use only and is treated as a unique exotic weapon. Anyone else who uses the weapon takes a '4 nonproficient penalty on attack rolls.
 
-Weapons can be reconfigured multiple times; each time a weapon is reconfigured, it imparts a new benefit. Undoing an Engineer�s weapon reconfiguration requires 1 hour and a successful Disable Device check (DC 20 + the Engineer�s class level).
+Weapons can be reconfigured multiple times; each time a weapon is reconfigured, it imparts a new benefit. Undoing an Engineer's weapon reconfiguration requires 1 hour and a successful Disable Device check (DC 20 + the Engineer's class level).
 
 **Sabotage**
 
-At 4th level and beyond, the Engineer can sabotage an electrical or mechanical object so that it operates poorly. The Engineer must succeed on a Disable Device check (DC 20) to accomplish the downgrade, and sabotaging a mastercraft object is slightly harder (DC 20 + the mastercraft object�s bonus feature). Noticing the Engineer�s handiwork without first testing the sabotaged device requires a successful Search check (DC = the Engineer�s Disable Device check result). Fixing the sabotaged item requires a successful Repair.
+At 4th level and beyond, the Engineer can sabotage an electrical or mechanical object so that it operates poorly. The Engineer must succeed on a Disable Device check (DC 20) to accomplish the downgrade, and sabotaging a mastercraft object is slightly harder (DC 20 + the mastercraft object's bonus feature). Noticing the Engineer's handiwork without first testing the sabotaged device requires a successful Search check (DC = the Engineer's Disable Device check result). Fixing the sabotaged item requires a successful Repair.
 
-Sabotage Device: As a full-round action, the Engineer can reconfigure a device with electrical or mechanical components so that anyone who uses it suffers a penalty equal to the Engineer�s class level on skill checks made to use the device.
+Sabotage Device: As a full-round action, the Engineer can reconfigure a device with electrical or mechanical components so that anyone who uses it suffers a penalty equal to the Engineer's class level on skill checks made to use the device.
 
 Sabotage Weapon: As a full-round action, the Engineer can sabotage a weapon so that it misfires or breaks the next time it is used. A sabotaged weapon cannot be used effectively until repaired. This use of sabotage also applies to vehicle and starship weapons.
 
@@ -128,7 +128,7 @@ Sabotage Weapon: As a full-round action, the Engineer can sabotage a weapon so t
 
 Starting at 5th level, an Engineer with the Mastercrafter feat can build mastercraft electronic and mechanical devices without investing as much of himself in the process.
 
-At 5th level and every level thereafter, an Engineer gains a special reserve of experience points equal to 100 � his Engineer class level. These extra experience points are separate from experience gained through level advancement and can only be used to make mastercraft items; they do not count toward level gain.
+At 5th level and every level thereafter, an Engineer gains a special reserve of experience points equal to 100 ' his Engineer class level. These extra experience points are separate from experience gained through level advancement and can only be used to make mastercraft items; they do not count toward level gain.
 
 An Engineer must spend the extra experience points he gains at each level, for when the Engineer gains a level, he loses any unspent experience points in his reserve.
 
@@ -164,7 +164,7 @@ The Engineer must spend 1 hour tinkering with the weapon, after which he must su
 
 **Unflustered**
 
-A 10th-level Engineer can perform complicated tasks without provoking attacks of opportunity from adjacent foes. During any round in which the Engineer uses the Computer Use, Craft, Demolitions, Disable Device, or Repair skill, he can first make a Concentration check (DC 15) to use the desired skill without provoking attacks of opportunity. Making the Concentration check doesn�t cost the Engineer an action. He may take 10 on the Concentration check, but he cannot take 20.
+A 10th-level Engineer can perform complicated tasks without provoking attacks of opportunity from adjacent foes. During any round in which the Engineer uses the Computer Use, Craft, Demolitions, Disable Device, or Repair skill, he can first make a Concentration check (DC 15) to use the desired skill without provoking attacks of opportunity. Making the Concentration check doesn't cost the Engineer an action. He may take 10 on the Concentration check, but he cannot take 20.
 
 
 > Written with [StackEdit](https://stackedit.io/).
