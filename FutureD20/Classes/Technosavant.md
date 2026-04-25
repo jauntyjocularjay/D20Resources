@@ -1,16 +1,16 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Technosavant](./Technosavant.md)
 
-## Technosavant
+# Technosavant
 
 The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Technosavant, a character must fulfill the following criteria.
 
 Skills: Computer Use 6 ranks, Craft (electrical or mechanical) 6 ranks, Disable Device 6 ranks, Knowledge (technology) 6 ranks.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Technosavant advanced class.
 
@@ -30,7 +30,7 @@ Computer Use (Int), Craft (electrical, mechanical) (Int), Demolitions (Int), Dis
 
 Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 
-## Table: The Technosavant
+# Table: The Technosavant
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -45,7 +45,7 @@ Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 | 9th | +6 | +3 | +4 | +4 | Bonus feat | +5 | +2 |
 | 10th | +7 | +3 | +5 | +5 | Build prototype | +5 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Technosavant advanced class.
 

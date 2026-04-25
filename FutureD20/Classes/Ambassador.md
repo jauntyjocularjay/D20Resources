@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Ambassador](./Ambassador.md)
 
-## Ambassador
+# Ambassador
 
 The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are conceivable.
 
-### Requirements
+## Requirements
 
 To qualify to become an Ambassador, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Charismatic Hero Talents: Charm, favor.
 
 Allegiance: An Ambassador must pledge her primary allegiance to a faction, nation, world, or empire and remain a dutiful servant of this body; if the Ambassador breaks this allegiance, she loses all the benefits of the Diplomatic Immunity and Open Arms class features (see Class Features, below).
 
-### Class Information
+## Class Information
 
 The following information pertains to the Ambassador advanced class.
 
@@ -34,7 +34,7 @@ Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information (Cha), Inti
 
 Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
-## Table: The Ambassador
+# Table: The Ambassador
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -49,7 +49,7 @@ Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 | 9th | +6 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
 | 10th | +7 | +3 | +3 | +7 | Select
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Ambassador advanced class.
 
@@ -59,7 +59,7 @@ Starting at 1st level, if the Ambassador is arrested for a crime, she can make a
 
 If one of the Ambassador's consuls (see the select consul class feature, below) is arrested for a crime and unable to secure her own release, the Ambassador may intercede on the consul's behalf. One may aid the other's Diplomacy check.An Ambassador who routinely invokes the privilege of diplomatic immunity'either on her own behalf or to protect her selected consuls'is likely to be recalled or terminated by those she has sworn to represent.
 
-## Table: Diplomatic Immunity
+# Table: Diplomatic Immunity
 
 | Severity of Crime | Examples | DC | Effect of Successful Diplomacy Check |
 |:-----------------:|:--------:|:--:|:------------------------------------:|

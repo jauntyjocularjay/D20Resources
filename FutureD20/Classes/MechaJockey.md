@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Mecha Jockey](./MechaJockey.md)
 
-## Mecha Jockey
+# Mecha Jockey
 
 Select this advanced class if you want your character to be an expert mecha operator, in command of a massive, armored war machine equipped with terrifying weaponry. The fastest path into this advanced class is from the Fast hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Mecha Jockey, a character must fulfill all the following criteria.
 
@@ -12,7 +12,7 @@ Skills: Drive 6 ranks.
 
 Feats: Mecha Operation.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Mecha Jockey advanced class.
 
@@ -30,7 +30,7 @@ The Mecha Jockey's class skills are as follows. Bluff (Cha), Computer Use (Int),
 
 Skill Points at Each Level: 5 + Int modifier.
 
-## Table: The Mecha Jockey
+# Table: The Mecha Jockey
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -45,7 +45,7 @@ Skill Points at Each Level: 5 + Int modifier.
 | 9th | +6 | +3 | +6 | +4 | Bonus feat | +5 | +4 |
 | 10th | +7 | +3 | +7 | +5 | Improved evasive action | +5 | +4 |
 
-### Class Features
+## Class Features
 
 The following features pertain to the Mecha Jockey advanced class.
 

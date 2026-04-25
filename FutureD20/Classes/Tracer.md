@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Tracer](./Tracer.md)
 
-## Tracer
+# Tracer
 
 The fastest path into this advanced class is from the Dedicated hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Tracer, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Skills: Investigate 6 ranks, Knowledge (behavioral sciences or streetwise) 6 ran
 
 Feat: Track.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Tracer advanced class.
 
@@ -35,7 +35,7 @@ Climb (Str), Computer Use (Int), Disable Device (Int), Disguise (Cha), Drive (De
 Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
 
-## Table: The Tracer
+# Table: The Tracer
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -50,7 +50,7 @@ Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 | 9th | +9 | +3 | +6 | +3 | Bonus feat | +4 | +3 |
 | 10th | +10 | +3 | +7 | +3 | Swift tracking | +5 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Tracer advanced class.
 

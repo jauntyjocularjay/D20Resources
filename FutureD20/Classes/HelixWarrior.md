@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Helix Warrior](./HelixWarrior.md)
 
-## Helix Warrior
+# Helix Warrior
 
 The fastest path into this advanced class is from the Strong hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Helix Warrior, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Skill: Knowledge (tactics) 3 ranks.
 
 Feat: Endurance.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Helix Warrior advanced class.
 
@@ -32,7 +32,7 @@ The Helix Warrior's class skills are as follows.
 
 Balance (Dex), Climb (Str), Computer Use (Int), Demolitions (Int), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Navigate (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex). Skill Points at Each Level: 3 + Int modifier (2 + Int modifier for nonhumans).
 
-## Table: The Helix Warrior
+# Table: The Helix Warrior
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -47,7 +47,7 @@ Balance (Dex), Climb (Str), Computer Use (Int), Demolitions (Int), Escape Artist
 | 9th | +9 | +4 | +3 | +4 | Bonus feat | +5 | +3 |
 | 10th | +10 | +5 | +3 | +5 | Decisive attack | +5 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Helix Warrior advanced class.
 

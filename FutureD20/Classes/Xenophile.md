@@ -4,7 +4,7 @@
 
 The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible.
 
-## Requirements
+# Requirements
 
 To qualify to become a Xenophile, a character must fulfill the following criteria.
 
@@ -12,25 +12,25 @@ Skills: Knowledge (earth and life sciences) 6 ranks, Knowledge (technology) 6 ra
 
 Smart Hero Talent: Either linguist or exploit weakness.
 
-## Class Information
+# Class Information
 
 The following information pertains to the Xenophile advanced class.
 
-### Hit Die
+## Hit Die
 
 The Xenophile gains 1d8 hit points per level. The character's Constitution modifier applies.
 
-### Action Points
+## Action Points
 
 The Xenophile gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 
-### Class Skills
+## Class Skills
 
 The Xenophile's class skills are as follows.
 
 Bluff (Cha), Computer Use (Int), Craft (pharmaceutical) (Int), Decipher Script (Int), Diplomacy (Cha), Knowledge (arcane lore, behavioral sciences, earth and life sciences, history, technology, theology and philosophy) (Int), Read/Write Language (none), Research (Int), Sense Motive (Wis), Speak Language (none), Treat Injury (Wis). Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 
-## Table: The Xenophile
+# Table: The Xenophile
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -45,7 +45,7 @@ Bluff (Cha), Computer Use (Int), Craft (pharmaceutical) (Int), Decipher Script (
 | 9th | +6 | +4 | +3 | +6 | Bonus feat | +3 | +3 |
 | 10th | +7 | +5 | +3 | +7 | Xenodefense (+2), xenotype (4th) | +3 | +3 |
 
-### Class Features
+## Class Features
 
 
 The following class features pertain to the Xenophile advanced class.
@@ -72,7 +72,7 @@ At 1st level, a Xenophile may select a type of creature (also called a "xenotype
 
 At 4th, 7th, and 10th level, the Xenophile may select an additional xenotype from those given on the table. In addition, at each such interval, the bonus against any one xenotype (including the one just selected, if desired) increases by 2. A Xenophile who chooses humanoids as a xenotype must also specify a particular species.
 
-## Table: Xenotypes
+# Table: Xenotypes
 
 | Selected Xenotype | Special Prerequisite |
 |:-----------------:|:--------------------:|

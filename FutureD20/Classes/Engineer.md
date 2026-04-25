@@ -1,16 +1,16 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Engineer](./Engineer.md)
 
-## Engineer
+# Engineer
 
 The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become an Engineer, a character must fulfill the following criteria.
 
 Skills: Computer Use 6 ranks, Craft (electrical) 6 ranks, Craft (mechanical) 6 ranks, Knowledge (technology) 6 ranks, Repair 6 ranks.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Engineer advanced class.
 
@@ -30,7 +30,7 @@ Computer Use (Int), Craft (electronic, mechanical, structural) (Int), Disable De
 
 Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 
-## Table: The Engineer
+# Table: The Engineer
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -45,7 +45,7 @@ Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 | 9th | +6 | +4 | +4 | +3 | Bonus feat, craft XP reserve | +3 | +3 |
 | 10th | +7 | +5 | +5 | +3 | Craft XP reserve, unflustered | +3 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Engineer advanced class.
 
@@ -79,7 +79,7 @@ At 2nd level, an Engineer learns improved ways of repairing robots, vehicles, me
 
 An Engineer with a mechanical tool kit and an appropriate facility (a workshop, garage, or hangar) can repair damage to a robot, vehicle, mecha, starship, or cybernetic attachment. (Without a mechanical tool kit, the Engineer takes a '4 penalty on the Repair check.) With 1 hour of work, the engineer can restore a number of hit points based on his Repair check result, as shown in Table: Superior Repair. If damage remains, the Engineer may continue to make repairs for as many hours as needed to fully repair the damaged robot, vehicle, mecha, starship, or cybernetic attachment.
 
-## Table: Superior Repair
+# Table: Superior Repair
 
 | Repair Check Result | Damage Repaired |
 |:-------------------:|:---------------:|
@@ -144,7 +144,7 @@ At 7th level, the Engineer can repair a mechanical or electrical device in half 
 
 At 8th level, an Engineer can upgrade handheld or robot-installed weapons, as well as weapon systems aboard vehicles, mecha, or starships.
 
-## Table: Weapon Upgrade
+# Table: Weapon Upgrade
 
 | Handheld/Robot Weapon Upgrade | DC |
 |:------------------------------|:--:|

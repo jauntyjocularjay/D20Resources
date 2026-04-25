@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Swindler](./Swindler.md)
 
-## Swindler
+# Swindler
 
 The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Swindler, a character must fulfill the following criteria.
 
@@ -12,7 +12,7 @@ Skills: Bluff 6 ranks, Disguise 4 ranks, Gamble 6 ranks.
 
 Charismatic Hero Talents: Any two of the following talents: Charm, Coordinate, Fast-Talk.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Swindler advanced class.
 
@@ -32,7 +32,7 @@ Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Forgery (Int)
 
 Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 
-## Table: The Swindler
+# Table: The Swindler
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -47,7 +47,7 @@ Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 | 9th | +6 | +3 | +4 | +6 | Bonus feat | +3 | +3 |
 | 10th | +7 | +3 | +5 | +7 | Fortune's favor (+6) | +3 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Swindler advanced class.
 

@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Field Officer](./FieldOfficer.md)
 
-## Field Officer
+# Field Officer
 
 The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Field Officer, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Skills: Diplomacy 6 ranks, Knowledge (tactics) 6 ranks.
 
 Feat: Personal Firearms Proficiency.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Field Officer advanced class.
 
@@ -34,7 +34,7 @@ Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information (Cha), Inti
 
 Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
-## Table: The Field Officer
+# Table: The Field Officer
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -49,7 +49,7 @@ Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 | 9th | +9 | +3 | +3 | +6 | Bonus feat | +5 | +3 |
 | 10th | +10 | +3 | +3 | +7 | Action trust | +5 | +4 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Field Officer advanced class.
 

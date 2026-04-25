@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Dogfighter](./Dogfighter.md)
 
-## Dogfighter
+# Dogfighter
 
 The fastest path into this advanced class is from the Fast hero basic class, though other paths are certainly possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Dogfighter, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Feat: Starship Operation (ultralight).
 
 Base Reflex Save: +2.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Dogfighter advanced class.
 
@@ -32,7 +32,7 @@ The Dogfighter's class skills are as follows.
 
 Bluff (Cha), Computer Use (Int), Craft (electronic, mechanical) (Int), Knowledge (popular culture, streetwise, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Repair (Int). Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
-## Table: The Dogfighter
+# Table: The Dogfighter
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -47,7 +47,7 @@ Bluff (Cha), Computer Use (Int), Craft (electronic, mechanical) (Int), Knowledge
 | 9th | +6 | +3 | +6 | +3 | Bonus feat | +5 | +3 |
 | 10th | +7 | +3 | +7 | +3 | Shake, rattle, and roll (3/day) | +5 | +3 |
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Dogfighter advanced class.
 

@@ -1,10 +1,10 @@
 [Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Space Monkey](./SpaceMonkey.md)
 
-## Space Monkey
+# Space Monkey
 
 The fastest path into this advanced class is from the Tough hero basic class, though other paths are possible.
 
-### Requirements
+## Requirements
 
 To qualify to become a Space Monkey, a character must fulfill the following criteria.
 
@@ -14,7 +14,7 @@ Skills: Craft (mechanical or structural) 6 ranks, Survival 6 ranks.
 
 Tough Hero Talent: Any one talent from the Unbreakable Talent Tree.
 
-### Class Information
+## Class Information
 
 The following information pertains to the Space Monkey advanced class.
 
@@ -34,7 +34,7 @@ Balance (Dex), Bluff (Cha), Climb (Str), Computer Use (Int), Craft (mechanical, 
 
 Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
-## Table: The Space Monkey
+# Table: The Space Monkey
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
 |:-----------:|:-----------------:|:---------:|:--------:|:---------:|:-------:|:-------------:|:----------------:|
@@ -51,7 +51,7 @@ Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 
 
 
-### Class Features
+## Class Features
 
 The following class features pertain to the Space Monkey advanced class.
 
