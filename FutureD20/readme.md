@@ -1,6 +1,6 @@
 # Future d20 SRD
 
-- [Classes](./Classes/index.md)
+- [Classes](./Classes/readme.md)
 - [Cybernetics]()
 - [Environments]()
 - [Equipment]()
