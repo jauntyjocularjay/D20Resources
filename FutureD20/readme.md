@@ -1,7 +1,7 @@
 # Future d20 SRD
 
 - [Classes](./Classes/readme.md)
-- [Cybernetics]()
+- [Cybernetics](./Cybernetics/readme.md)
 - [Environments]()
 - [Equipment]()
 - [Expanded Skills]()

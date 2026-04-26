@@ -1,4 +1,4 @@
-[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./readme.md) > [Artificial Organ](./Organ.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Artificial Organ](./Organ.md)
 
 # Artificial Organ (PL 5)
 

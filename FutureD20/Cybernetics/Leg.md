@@ -1,4 +1,4 @@
-[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./readme.md) > [Prosthetic Leg](./Leg)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Prosthetic Leg](./Leg)
 
 # Prosthetic Leg (PL 5)
 

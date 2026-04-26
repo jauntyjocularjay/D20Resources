@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Cybernetics](./readme.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md)
 
 # Cybernetics
 
@@ -15,31 +15,31 @@
 - [Prosthetic Leg](./Leg.md)
 
 ### PL 6
-- [Artificial Organ Upgrade](./Artificial Organ Upgrade.md)
+- [Artificial Organ Upgrade](./OrganUpgrade.md)
 - [Prosthetic Arm Upgrade](./Prosthetic Arm Upgrade.md)
 - [Prosthetic Leg Upgrade](./Prosthetic Leg Upgrade.md)
 
 ### PL 7
-- [Advanced Artificial Organ](./Advanced Artificial Organ.md)
-- [Advanced Prosthetic Arm](./Advanced Prosthetic Arm.md)
-- [Advanced Prosthetic Leg](./Advanced Prosthetic Leg.md)
+- [Advanced Artificial Organ](./OrganAdvanced.md)
+- [Advanced Prosthetic Arm](./ArmAdvanced.md)
+- [Advanced Prosthetic Leg](./LegAdvanced.md)
 
 ## Enhancements
 
 - [Enhancements](./Enhancements.md)
 
 ### PL 6
-- [Anti-Shock Implant](./Anti-Shock Implant.md)
-- [External Weapon Mount](./External Weapon Mount.md)
-- [Identity Chip](./Identity Chip.md)
-- [Injector Unit](./Injector Unit.md)
-- [Nightvision Optics](./Nightvision Optics.md)
-- [Skill Implant](./Skill Implant.md)
+- [Anti-Shock Implant](./AntiShockImplant.md)
+- [External Weapon Mount](./ExternalWeaponMount.md)
+- [Identity Chip](./IdentityChip.md)
+- [Injector Unit](./InjectorUnit.md)
+- [Nightvision Optics](./NightvisionOptics.md)
+- [Skill Implant](./SkillImplant.md)
 - [Stabilizer](./Stabilizer.md)
-- [Subcutaneous Body Armor](./Subcutaneous Body Armor.md)
-- [Subcutaneous Cell Phone](./Subcutaneous Cell Phone.md)
-- [Telescopic Optics](./Telescopic Optics.md)
-- [Voice Stress Analyzer](./Voice Stress Analyzer.md)
+- [Subcutaneous Body Armor](./SubcutaneousBodyArmor.md)
+- [Subcutaneous Cell Phone](./SubcutaneousCellPhone.md)
+- [Telescopic Optics](./TelescopicOptics.md)
+- [Voice Stress Analyzer](./VoiceStressAnalyzer.md)
 
 ### PL 7
 - [Anti-Flare Implants](./Anti-Flare Implants.md)

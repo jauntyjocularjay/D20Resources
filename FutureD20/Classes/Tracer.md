@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Tracer](./Tracer.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) > [Tracer](./Tracer.md)
 
 # Tracer
 
