@@ -1,6 +1,6 @@
-# Subcutaneous Body Armor (PL 6)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Subcutaneous Body Armor](./SubcutaneousArmor.md)
 
-*Index > Future d20 SRD > Cybernetics > Subcutaneous Body Armor*
+# Subcutaneous Body Armor (PL 6)
 
 ---
 

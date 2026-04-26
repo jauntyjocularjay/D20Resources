@@ -1,6 +1,6 @@
-# Subcutaneous Cell Phone (PL 6)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Subcutaneous Cell Phone](./SubcutaneousPhone.md)
 
-*Index > Future d20 SRD > Cybernetics > Subcutaneous Cell Phone*
+# Subcutaneous Cell Phone (PL 6)
 
 ---
 

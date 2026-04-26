@@ -1,6 +1,6 @@
-# Telescopic Optics (PL 6)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Telescopic Optics](./TelescopicOptics.md)
 
-*Index > Future d20 SRD > Cybernetics > Telescopic Optics*
+# Telescopic Optics (PL 6)
 
 ---
 

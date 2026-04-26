@@ -1,4 +1,5 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Internal Weapon Mount](./InternalWeaponMount.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Internal Weapon Mount](./MountInternal.md)
+
 # Internal Weapon Mount (PL 7)
 
 The recipient has a subcutaneous weapon embedded in her body, usually in a prosthetic forearm or hand. The weapon extends from the prosthesis and is visible when in use.

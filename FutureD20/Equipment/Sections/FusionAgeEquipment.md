@@ -29,4 +29,4 @@ The following equipment is available at PL 6 and later.
 | Aquaconverter               | Medium     | 4 lb.   | 13          | —           |
 | Violet rations              | Fine       | —       | 5           | —           |
 
-...existing code...
+

@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./Cybernetics.md) > [Prosthetic Arm Upgrade](./ArmUpgrade.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Prosthetic Arm Upgrade](./ArmUpgrade.md)
 
 # Prosthetic Arm Upgrade (PL 6)
 

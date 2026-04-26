@@ -1,4 +1,4 @@
-[Index]() > [Future d20 SRD]() > [Classes](./readme.md) > [Dogfighter](./Dogfighter.md)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) >   [Dogfighter](./Dogfighter.md)
 
 # Dogfighter
 

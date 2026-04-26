@@ -2,8 +2,8 @@
 
 - [Classes](./Classes/readme.md)
 - [Cybernetics](./Cybernetics/readme.md)
-- [Environments]()
-- [Equipment]()
+- [Environments](./Environments/readme.md)
+- [Equipment](./Equipment/readme.md)
 - [Expanded Skills]()
 - [Feats]()
 - [Mecha]()

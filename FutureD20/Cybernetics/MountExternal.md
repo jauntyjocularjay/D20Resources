@@ -1,6 +1,6 @@
-# External Weapon Mount (PL 6)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [External Weapon Mount](./MountExternal.md)
 
-*Index > Future d20 SRD > Cybernetics > External Weapon Mount*
+# External Weapon Mount (PL 6)
 
 ---
 

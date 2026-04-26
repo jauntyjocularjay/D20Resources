@@ -1,6 +1,6 @@
-# Voice Stress Analyzer (PL 6)
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Voice Stress Analyzer](./VoiceStressAnalyzer.md)
 
-*Index > Future d20 SRD > Cybernetics > Voice Stress Analyzer*
+# Voice Stress Analyzer (PL 6)
 
 ---
 

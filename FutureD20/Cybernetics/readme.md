@@ -16,8 +16,8 @@
 
 ### PL 6
 - [Artificial Organ Upgrade](./OrganUpgrade.md)
-- [Prosthetic Arm Upgrade](./Prosthetic Arm Upgrade.md)
-- [Prosthetic Leg Upgrade](./Prosthetic Leg Upgrade.md)
+- [Prosthetic Arm Upgrade](./ArmUpgrade.md)
+- [Prosthetic Leg Upgrade](./LegUpgrade.md)
 
 ### PL 7
 - [Advanced Artificial Organ](./OrganAdvanced.md)
@@ -42,24 +42,24 @@
 - [Voice Stress Analyzer](./VoiceStressAnalyzer.md)
 
 ### PL 7
-- [Anti-Flare Implants](./Anti-Flare Implants.md)
-- [Anti-Stun Implant](./Anti-Stun Implant.md)
-- [Body Repair Weave](./Body Repair Weave.md)
-- [Data Archive](./Data Archive.md)
-- [Feat Implant](./Feat Implant.md)
-- [Fortified Skeleton](./Fortified Skeleton.md)
-- [Initiative Implant](./Initiative Implant.md)
-- [Internal Weapon Mount](./Internal Weapon Mount.md)
-- [Laser Optics](./Laser Optics.md)
-- [Luminous Skin](./Luminous Skin.md)
+- [Anti-Flare Implants](./AntiFlare.md)
+- [Anti-Stun Implant](./AntiStun.md)
+- [Body Repair Weave](./RepairWeave.md)
+- [Data Archive](./DataArchive.md)
+- [Feat Implant](./FeatImplant.md)
+- [Fortified Skeleton](./FortifiedSkeleton.md)
+- [Initiative Implant](./InitiativeImplant.md)
+- [Internal Weapon Mount](./InternalWeaponMount.md)
+- [Laser Optics](./LaserOptics.md)
+- [Luminous Skin](./LuminousSkin.md)
 - [Microcomputer](./Microcomputer.md)
-- [Mindscreen Implant](./Mindscreen Implant.md)
-- [Prosthetic Enhancer](./Prosthetic Enhancer.md)
-- [Rage Implant](./Rage Implant.md)
-- [Skill Plexus](./Skill Plexus.md)
-- [Targeting Optics](./Targeting Optics.md)
+- [Mindscreen Implant](./MindscreenImplant.md)
+- [Prosthetic Enhancer](./ProstheticEnhancer.md)
+- [Rage Implant](./RageImplant.md)
+- [Skill Plexus](./SkillPlexus.md)
+- [Targeting Optics](./TargetingOptics.md)
 
 ### PL 8
-- [Feat Plexus](./Feat Plexus.md)
+- [Feat Plexus](./FeatPlexus.md)
 - [Invisiware](./Invisiware.md)
-- [Psi Implant](./Psi Implant.md)
+- [Psi Implant](./PsiImplant.md)

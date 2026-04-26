@@ -1,9 +1,9 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Roles](./readme.md)
 
-
-## Classes
+## Roles
 - [Ambassador](./Ambassador.md)
 - [Dogfighter](./Dogfighter.md)
-- [Dreadnought](./Dreadnought.md)
+- [Dreadnaught](./Dreadnaught.md)
 - [Engineer](./Engineer.md)
 - [Explorer](./Explorer.md)
 - [Field Officer](./FieldOfficer.md)
