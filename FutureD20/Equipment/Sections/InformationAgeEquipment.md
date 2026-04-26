@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Information Age Equipment](./InformationAgeEquipment.md)
+
 # Information Age Equipment
 
 The following equipment is available at PL 5 and later.

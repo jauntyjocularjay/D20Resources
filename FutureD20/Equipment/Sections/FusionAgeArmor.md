@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Fusion Age Armor](./FusionAgeArmor.md)
+
 # Fusion Age Armor
 
 The following armors are available at PL 6 and later.

@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Fusion Age Weapons](./FusionAgeWeapons.md)
+
 # Fusion Age Weapons
 
 The following weapons are available at PL 6 and later.

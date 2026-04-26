@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Information Age Armor](./InformationAgeArmor.md)
+
 # Information Age Armor
 
 The following armors are available at PL 5 and later.

@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Fusion Age Equipment](./FusionAgeEquipment.md)
+
 # Fusion Age Equipment
 
 The following equipment is available at PL 6 and later.

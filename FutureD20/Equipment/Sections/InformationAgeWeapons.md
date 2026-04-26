@@ -1,3 +1,5 @@
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Equipment](./readme.md) > [Information Age Weapons](./InformationAgeWeapons.md)
+
 # Information Age Weapons
 
 The following weapons are available at PL 5 and later.
