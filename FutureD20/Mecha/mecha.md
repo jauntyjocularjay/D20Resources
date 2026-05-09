@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > Mecha
+Index > Future d20 SRD > Mecha
 
 # Mecha
 
