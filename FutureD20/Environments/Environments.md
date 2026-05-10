@@ -2,7 +2,7 @@
 
 This section covers environments in the Future d20 SRD. Each entry links to a detailed page for specific environmental hazards and conditions.
 
-## Index
+## Table of Contents
 
 - [Radiation Sickness](#radiation-sickness)
 - [Gravity](#gravity)

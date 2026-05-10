@@ -1,7 +1,7 @@
 
+[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Expanded Skills](./ExpandedSkills.md)
 
-Index > Future d20 SRD > Expanded Skills
-Expanded Skills
+# Expanded Skills
 
 The following skills are expanded to include rules specific to future campaigns.
 
