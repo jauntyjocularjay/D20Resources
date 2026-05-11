@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Cybernetics](./readme.md) > [Cybernetic Attachments](./Attachments.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./readme.md) > [Cybernetic Attachments](./Attachments.md)
 
 
 # Cybernetic Attachments

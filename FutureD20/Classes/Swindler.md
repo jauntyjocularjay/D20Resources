@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) > [Swindler](./Swindler.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Classes](../Classes.md) > [Swindler](./Swindler.md)
 
 # Swindler
 

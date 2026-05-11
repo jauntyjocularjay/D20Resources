@@ -1,13 +1,13 @@
 # Future d20 SRD
 
-- [Classes](./Classes/readme.md)
+- [Classes](./Classes.md)
 - [Cybernetics](./Cybernetics.md)
 - [Environments](./Environments.md)
 - [Equipment](./Equipment/readme.md)
-- [Expanded Skills]()
-- [Feats]()
-- [Mecha]()
-- [Mutations]()
+- [Skills](./Skills.md)
+- [Feats](./Feats.md)
+- [Mecha](./Mecha.md)
+<!-- - [Mutations]()
 - [Progress Levels]()
 - [Robots]()
 - [Scientific Engineering]()
@@ -15,4 +15,4 @@
 - [Starting Occupations]()
 - [Traveler Science]()
 - [Vehicles]()
-- [Xenobiology]()
+- [Xenobiology]() -->

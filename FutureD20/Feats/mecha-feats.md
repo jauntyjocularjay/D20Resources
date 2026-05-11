@@ -1,7 +1,8 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > Mecha-Related Feats
-
 # Mecha-Related Feats
 
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > Mecha-Related Feats
+
+- [Mecha Operation](#mecha-operation)
 - [Essential Mecha Operation](#essential-mecha-feats)
 - [Advanced Mecha Operation](#advanced-mecha-operation)
 - [Hair Trigger](#hair-trigger)
@@ -15,17 +16,17 @@
 - [Stun Mecha](#stun-mecha)
 - [Thruster Blast](#thruster-blast)
 
-## Advanced Mecha Operation
+## Mecha Operation
 
 Mecha operators can select feats that relate specifically to operating mecha. These feats are all considered bonus feats for the Mecha Jockey advanced class. Whenever the Mecha Jockey is allowed to select a bonus feat, she can choose one of these.
 
-### Essential Mecha Feats
+## Essential Mecha Feats
 
 A character without the Mecha Operation feat and Mecha Weapon Proficiency feat suffers serious penalties while operating a mecha of any size. The penalties for not having these feats are summarized below:
 
 A character without this feat takes a –4 penalty on Balance, Climb, Drive, Escape Artist, Hide, Move Silently, Pilot, and Tumble checks when operating a mecha. Furthermore, the character cannot run or charge.
 
-### Mecha Weapon Proficiency
+## Mecha Weapon Proficiency
 
 A character without this feat takes a –4 penalty on attack rolls made while operating a mecha. Furthermore, the character cannot apply the various firearm feats (such as Advanced Firearms Proficiency, Dead Aim, Double Tap, Shot on the Run, and Strafe) to a mecha’s ranged weapons.
 Mecha and Feats

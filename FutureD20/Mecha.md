@@ -1,25 +1,28 @@
-Index > Future d20 SRD > Mecha
 
 # Mecha
 
+Index > Future d20 SRD > Mecha
+
 Mecha technology can be found in societies of PL 6 or higher.
 
-Mecha Body Size
-Quadrupedal Mecha
-Mecha Superstructure
-Mecha Armor
-Mecha Equipment
-Mecha Flight Systems
-Mecha Sensor Systems
-Mecha Defense Systems
+- [Mecha Body Size](./Mecha/bodysize.md)
+- Quadrupedal Mecha
+- Mecha Superstructure
+- Mecha Armor
+- Mecha Equipment
+- Mecha Flight Systems
+- Mecha Sensor Systems
+- Mecha Defense Systems
 
 Mecha Weapons
+
 - PL 5
 - PL 6
 - PL 7
 - PL 8
 
 Miscellanious Equipment
+
 - PL 5
   - Cockpit, Copilot
   - Cockpit, Passenger

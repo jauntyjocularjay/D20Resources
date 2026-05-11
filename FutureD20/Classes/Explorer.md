@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) > [Explorer](./Explorer.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Classes](../Classes.md) > [Explorer](./Explorer.md)
 
 ## Explorer
 

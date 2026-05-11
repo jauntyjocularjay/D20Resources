@@ -1,5 +1,5 @@
 
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Expanded Skills](./ExpandedSkills.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Expanded Skills](./ExpandedSkills.md)
 
 # Expanded Skills
 

@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) > [Technosavant](./Technosavant.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Classes](../Classes.md) > [Technosavant](./Technosavant.md)
 
 # Technosavant
 

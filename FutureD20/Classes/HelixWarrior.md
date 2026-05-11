@@ -1,4 +1,4 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > [Classes](./readme.md) > [Helix Warrior](./HelixWarrior.md)
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Classes](../Classes.md) > [Helix Warrior](./HelixWarrior.md)
 
 # Helix Warrior
 

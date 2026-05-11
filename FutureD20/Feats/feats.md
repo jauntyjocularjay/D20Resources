@@ -1,38 +1,40 @@
-[Index](../../readme.md) > [Future d20 SRD](../readme.md) > Feats
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Feats]()
 
 # Feats
 
-Action Boost
-Alien Weapons Proficiency
-Armor Proficiency (Powered)
-Charismatic Plus
-Craft Cybernetics
-Cybernetic Surgery
-Cybertaker
-Dedicated Plus
-Fast Plus
-Jack of all Trades
-Mastercrafter
-Nerve Pinch
-Oathbound
-Planetary Adaptation
-Salvage
-Smart Plus
-Spacer
-Starship Battle Run
-Starship Dodge
-Starship Feint
-Starship Gunnery
-Starship Mobility
-Starship Operation
-Starship Strafe
-Strong Plus
-Tough Plus
-Ultra Immune System
-Urban Tracking
-Xenomedic
-Zero-G Training
-Mecha-Related Feats
+## Table of Contents
+
+- [Action Boost](#action-boost)
+- [Alien Weapons Proficiency](#alien-weapons-proficiency)
+- [Armor Proficiency (Powered)](#armor-proficiency-powered)
+- [Charismatic Plus](#charismatic-plus)
+- [Craft Cybernetics](#craft-cybernetics)
+- [Cybernetic Surgery](#cybernetic-surgery)
+- [Cybertaker](#cybertaker)
+- [Dedicated Plus](#dedicated-plus)
+- [Fast Plus](#fast-plus)
+- [Jack Of All Trades](#jack-of-all-trades)
+- [Mastercrafter](#mastercrafter)
+- [Nerve Pinch](#nerve-pinch)
+- [Oathbound](#oathbound)
+- [Planetary Adaptation](#planetary-adaptation)
+- [Salvage](#salvage)
+- [Smart Plus](#smart-plus)
+- [Spacer](#spacer)
+- [Starship Battle Run](#starship-battle-run)
+- [Starship Dodge](#starship-dodge)
+- [Starship Feint](#starship-feint)
+- [Starship Gunnery](#starship-gunnery)
+- [Starship Mobility](#starship-mobility)
+- [Starship Operation](#starship-operation)
+- [Starship Strafe](#starship-strafe)
+- [Strong Plus](#strong-plus)
+- [Tough Plus](#tough-plus)
+- [Ultra Immune System](#ultra-immune-system)
+- [Urban Tracking](#urban-tracking)
+- [Xenomedic](#xenomedic)
+- [Zero-G Training](#zero-g-training)
+- [Mecha Feats (separate page)](./mecha-feats.md)
 
 ---
 
@@ -41,7 +43,6 @@ Mecha-Related Feats
 You have the ability to alter your luck drastically in dire circumstances.
 
 Benefit: When you spend an action point, you roll d8s instead of d6s for the action result.
-
 
 ---
 
@@ -440,3 +441,7 @@ Benefits: You take no penalty on attack rolls in low-gravity or zero-gravity env
 Normal: Without this feat, you take a –4 penalty on attack rolls while operating in zero-gravity environments, or a –2 penalty on attack rolls while operating in low-gravity environments. In addition, you are subject to the effects of Space Adaptation Syndrome, also known as space sickness.
 
 ---
+
+## Mecha Feats
+
+[Mecha Feats (separate page)](./mecha-feats.md)
