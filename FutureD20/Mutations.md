@@ -1,90 +1,84 @@
-# d20 Future SRD — Mutations
-
-## Table of Contents
+# Mutations
 
 - [Mutation Points](#mutation-points)
 - [Mutation Descriptions](#mutation-descriptions)
-- [Ability Decay](#ability-decay-drawback)
-- [Acidic Saliva](#acidic-saliva-minor)
-- [Adrenaline Jolt](#adrenaline-jolt-minor)
-- [Blood Hunger](#blood-hunger-drawback)
-- [Brittle Bones](#brittle-bones-drawback)
-- [Claws](#claws-minor)
-- [Combat Fear](#combat-fear-drawback)
-- [Cybernetic Dependency](#cybernetic-dependency-drawback)
-- [Darkvision](#darkvision-minor)
-- [Echolocator](#echolocator-major)
-- [Elasticity](#elasticity-major)
-- [Energy Absorption](#energy-absorption-major)
-- [Energy Diffusion](#energy-diffusion-minor)
-- [Enlarged Form](#enlarged-form-major)
-- [Exoskeleton](#exoskeleton-major)
-- [Extra Arms](#extra-arms-major)
-- [Extra Digits](#extra-digits-cosmetic)
-- [Fangs](#fangs-minor)
-- [Festering Sores](#festering-sores-drawback)
-- [Fins](#fins-cosmetic)
-- [Force Barrier](#force-barrier-minor)
-- [Forked Tongue](#forked-tongue-cosmetic)
-- [Frailty](#frailty-drawback)
-- [Gazing Eye](#gazing-eye-major)
-- [Gills](#gills-minor)
-- [Great Horns](#great-horns-minor)
-- [Heat/Cold Susceptibility](#heat-cold-susceptibility-drawback)
-- [Horns](#horns-cosmetic)
-- [Hypersensitivity](#hypersensitivity-minor)
-- [Leaper](#leaper-minor)
-- [Lethargy](#lethargy-drawback)
-- [Light Sensitivity](#light-sensitivity-drawback)
-- [Lost Arm](#lost-arm-drawback)
-- [Mindslave](#mindslave-drawback)
-- [Neutrad Dependency](#neutrad-dependency-drawback)
-- [Pheromone Attraction](#pheromone-attraction-major)
-- [Pheromone Repulsion](#pheromone-repulsion-drawback)
-- [Poisonous Blood](#poisonous-blood-drawback)
-- [Prehensile Tail](#prehensile-tail-major)
-- [Prickly Pear](#prickly-pear-major)
-- [Radioactive](#radioactive-major)
-- [Rapid Aging](#rapid-aging-drawback)
-- [Reduced Speed](#reduced-speed-drawback)
-- [Scaly Armor](#scaly-armor-minor)
-- [Scaly Skin](#scaly-skin-cosmetic)
-- [Scent](#scent-minor)
-- [Second Wind](#second-wind-minor)
-- [Skeletal Reinforcement](#skeletal-reinforcement-major)
-- [Smokescreen](#smokescreen-minor)
-- [Stinger](#stinger-major)
-- [Tail](#tail-minor)
-- [Telekinetic Mind](#telekinetic-mind-major)
-- [Telepathy](#telepathy-major)
-- [Tentacle](#tentacle-major)
-- [Thick Fur Coat](#thick-fur-coat-minor)
-- [Thin Fur Coat](#thin-fur-coat-cosmetic)
-- [Thin Skin](#thin-skin-drawback)
-- [Ultra Immune System](#ultra-immune-system-minor)
-- [Ultraviolet Allergy](#ultraviolet-allergy-drawback)
-- [Unnatural Eyes](#unnatural-eyes-cosmetic)
-- [Unnatural Hair](#unnatural-hair-cosmetic)
-- [Unnatural Skin](#unnatural-skin-cosmetic)
-- [Unnatural Voice](#unnatural-voice-cosmetic)
-- [Venomous Bite](#venomous-bite-major)
-- [Vexing Voice](#vexing-voice-major)
-- [Wall Crawler](#wall-crawler-minor)
-- [Weak Immune System](#weak-immune-system-drawback)
-- [Webbed Digits](#webbed-digits-minor)
-- [Wings](#wings-major)
-- [X-Ray Vision](#x-ray-vision-major)
+  - [Ability Decay](#ability-decay)
+  - [Acidic Saliva](#acidic-saliva)
+  - [Adrenaline Jolt](#adrenaline-jolt)
+  - [Blood Hunger](#blood-hunger)
+  - [Brittle Bones](#brittle-bones)
+  - [Claws](#claws)
+  - [Combat Fear](#combat-fear)
+  - [Cybernetic Dependency](#cybernetic-dependency)
+  - [Darkvision](#darkvision)
+  - [Echolocator](#echolocator)
+  - [Elasticity](#elasticity)
+  - [Energy Absorption](#energy-absorption)
+  - [Energy Diffusion](#energy-diffusion)
+  - [Enlarged Form](#enlarged-form)
+  - [Exoskeleton](#exoskeleton)
+  - [Extra Arms](#extra-arms)
+  - [Extra Digits](#extra-digits)
+  - [Fangs](#fangs)
+  - [Festering Sores](#festering-sores)
+  - [Fins](#fins)
+  - [Force Barrier](#force-barrier)
+  - [Forked Tongue](#forked-tongue)
+  - [Frailty](#frailty)
+  - [Gazing Eye](#gazing-eye)
+  - [Gills](#gills)
+  - [Great Horns](#great-horns)
+  - [Heat/Cold Susceptibility](#heatcold-susceptibility)
+  - [Horns](#horns)
+  - [Hypersensitivity](#hypersensitivity)
+  - [Leaper](#leaper)
+  - [Lethargy](#lethargy)
+  - [Light Sensitivity](#light-sensitivity)
+  - [Lost Arm](#lost-arm)
+  - [Mindslave](#mindslave)
+  - [Neutrad Dependency](#neutrad-dependency)
+  - [Pheromone Attraction](#pheromone-attraction)
+  - [Pheromone Repulsion](#pheromone-repulsion)
+  - [Poisonous Blood](#poisonous-blood)
+  - [Prehensile Tail](#prehensile-tail)
+  - [Prickly Pear](#prickly-pear)
+  - [Radioactive](#radioactive)
+  - [Rapid Aging](#rapid-aging)
+  - [Reduced Speed](#reduced-speed)
+  - [Scaly Armor](#scaly-armor)
+  - [Scaly Skin](#scaly-skin)
+  - [Scent](#scent)
+  - [Second Wind](#second-wind)
+  - [Skeletal Reinforcement](#skeletal-reinforcement)
+  - [Smokescreen](#smokescreen)
+  - [Stinger](#stinger)
+  - [Tail](#tail)
+  - [Telekinetic Mind](#telekinetic-mind)
+  - [Telepathy](#telepathy)
+  - [Tentacle](#tentacle)
+  - [Thick Fur Coat](#thick-fur-coat)
+  - [Thin Fur Coat](#thin-fur-coat)
+  - [Thin Skin](#thin-skin)
+  - [Ultra Immune System](#ultra-immune-system)
+  - [Ultraviolet Allergy](#ultraviolet-allergy)
+  - [Unnatural Eyes](#unnatural-eyes)
+  - [Unnatural Hair](#unnatural-hair)
+  - [Unnatural Skin](#unnatural-skin)
+  - [Unnatural Voice](#unnatural-voice)
+  - [Venomous Bite](#venomous-bite)
+  - [Vexing Voice](#vexing-voice)
+  - [Wall Crawler](#wall-crawler)
+  - [Weak Immune System](#weak-immune-system)
+  - [Webbed Digits](#webbed-digits)
+  - [Wings](#wings)
+  - [X-Ray Vision](#x-ray-vision)
 
-## Missing or Unresolved Pages
+## Mutation Points
 
-No missing linked mutation pages were detected.
-
-# Mutation Points
-
-## Mutations
+### Mutations Table
 
 | d% | Mutation Type | MP Cost |
-|---|---|---|
+| -- | ------------- | ------- |
 | 0102 | Extra Digits Cosmetic | 0 |
 | 0304 | Fins Cosmetic | 0 |
 | 0506 | Forked Tongue Cosmetic | 0 |
@@ -136,10 +130,10 @@ No missing linked mutation pages were detected.
 | 9798 | Wings Major | 6 |
 | 99100 | X-Ray Vision Major | 6 |
 
-## Drawbacks
+### Drawbacks
 
 | d% | Drawback | MP Value |
-|---|---|---|
+| -- | --- | --- |
 | 0105 | Ability Decay 1 | 4 |
 | 0610 | Blood Hunger | 1 |
 | 1115 | Brittle Bones | 4 |
@@ -163,10 +157,9 @@ No missing linked mutation pages were detected.
 
 **1:** You may take this drawback multiple times. Its effects stack.
 
-
 ---
 
-# Mutation Descriptions
+## Mutation Descriptions
 
 Mutation Descriptions
 
@@ -182,7 +175,7 @@ Drawbacks: A creature with minor or major mutations also has drawbacks to offset
 
 ---
 
-# Ability Decay
+## Ability Decay
 
 **Category:** Drawback
 
@@ -198,7 +191,7 @@ Special: You may take this drawback multiple times. Its effects stack.
 
 ---
 
-# Acidic Saliva
+## Acidic Saliva
 
 **Category:** Minor
 
@@ -214,7 +207,7 @@ Special: You must have a natural bite attack to take this mutation. You cannot g
 
 ---
 
-# Adrenaline Jolt
+## Adrenaline Jolt
 
 **Category:** Minor
 
@@ -228,7 +221,7 @@ Benefit: Once per day, as a free action, you can temporarily increase either you
 
 ---
 
-# Blood Hunger
+## Blood Hunger
 
 **Category:** Drawback
 
@@ -246,7 +239,7 @@ Special: You must have a natural bite attack to take this drawback.
 
 ---
 
-# Brittle Bones
+## Brittle Bones
 
 **Category:** Drawback
 
@@ -262,7 +255,7 @@ Special: You cannot take this drawback if you have the Skeletal Reinforcement mu
 
 ---
 
-# Claws
+## Claws
 
 **Category:** Minor
 
@@ -278,7 +271,7 @@ Having claws does not adversely affect your manual dexterity.
 
 ---
 
-# Combat Fear
+## Combat Fear
 
 **Category:** Drawback
 
@@ -292,7 +285,7 @@ Drawback: After initiative is rolled but before you take your first action in co
 
 ---
 
-# Cybernetic Dependency
+## Cybernetic Dependency
 
 **Category:** Drawback
 
@@ -308,7 +301,7 @@ Special: This drawback is available only in Progress Level 7 or higher campaigns
 
 ---
 
-# Darkvision
+## Darkvision
 
 **Category:** Minor
 
@@ -322,7 +315,7 @@ Benefit: You can see in total darkness out to a range of 60 feet. Darkvision is 
 
 ---
 
-# Echolocator
+## Echolocator
 
 **Category:** Major
 
@@ -336,7 +329,7 @@ Benefit: You gain the blindsight ability out to a range of 60 feet.
 
 ---
 
-# Elasticity
+## Elasticity
 
 **Category:** Major
 
@@ -350,7 +343,7 @@ Benefit: You gain a +10 mutation bonus on Escape Artist checks. Moreover, you ca
 
 ---
 
-# Energy Absorption
+## Energy Absorption
 
 **Category:** Major
 
@@ -364,7 +357,7 @@ Benefit: You gain resistance 10 to two types of energy or resistance 20 to one t
 
 ---
 
-# Energy Diffusion
+## Energy Diffusion
 
 **Category:** Minor
 
@@ -376,37 +369,9 @@ MP Cost: 2.
 
 Benefit: You gain resistance 5 to two types of energy or resistance 10 to one type of energy, chosen from the following list: acid, cold, electricity, fire, or sonic/concussion.
 
-d20Resources.com
-
-owned and developed by Brendan Quinn
-
-This material is Open Game Content, and is licensed for public use
-
-under the terms of the
-
-Open Game License v1.0a
-
-.
-
-d20 System and the d20 System logo are trademarks of
-
-Wizards of the Coast, Inc.
-
-and are
-
-used according to the terms of the d20 System License version 6.0.
-
-Requires the use of a Roleplaying Game Core Book published by
-
-Wizards of the Coast, Inc.
-
-Wizards of the Coast is a trademark of Wizards of the Coast, Inc. in the United States
-
-and other countries and is used with permission.
-
 ---
 
-# Enlarged Form
+## Enlarged Form
 
 **Category:** Major
 
@@ -422,7 +387,7 @@ This mutation does not change your face or reach.
 
 ---
 
-# Exoskeleton
+## Exoskeleton
 
 **Category:** Major
 
@@ -436,37 +401,9 @@ Benefit: You gain a +3 natural armor bonus to Defense, or your existing natural 
 
 Special: A creature with fur, scales, or the Scaly Armor mutation cannot gain this mutation.
 
-d20Resources.com
-
-owned and developed by Brendan Quinn
-
-This material is Open Game Content, and is licensed for public use
-
-under the terms of the
-
-Open Game License v1.0a
-
-.
-
-d20 System and the d20 System logo are trademarks of
-
-Wizards of the Coast, Inc.
-
-and are
-
-used according to the terms of the d20 System License version 6.0.
-
-Requires the use of a Roleplaying Game Core Book published by
-
-Wizards of the Coast, Inc.
-
-Wizards of the Coast is a trademark of Wizards of the Coast, Inc. in the United States
-
-and other countries and is used with permission.
-
 ---
 
-# Extra Arms
+## Extra Arms
 
 **Category:** Major
 
@@ -482,7 +419,7 @@ Special: If you have three or more natural claw attacks, you meet the prerequisi
 
 ---
 
-# Extra Digits
+## Extra Digits
 
 **Category:** Cosmetic
 
@@ -496,7 +433,7 @@ Benefit: None.
 
 ---
 
-# Fangs
+## Fangs
 
 **Category:** Minor
 
@@ -512,7 +449,7 @@ Special: This mutation can be used in conjunction with the Acidic Saliva or Veno
 
 ---
 
-# Festering Sores
+## Festering Sores
 
 **Category:** Drawback
 
@@ -526,7 +463,7 @@ Drawback: The festering sores are more aggravating than harmful, but they make i
 
 ---
 
-# Fins
+## Fins
 
 **Category:** Cosmetic
 
@@ -540,7 +477,7 @@ Benefit: None.
 
 ---
 
-# Force Barrier
+## Force Barrier
 
 **Category:** Minor
 
@@ -556,7 +493,7 @@ Special: Portable electronic devices such as cell phones, sensor comps, and head
 
 ---
 
-# Forked Tongue
+## Forked Tongue
 
 **Category:** Cosmetic
 
@@ -570,7 +507,7 @@ Benefit: None.
 
 ---
 
-# Frailty
+## Frailty
 
 **Category:** Drawback
 
@@ -586,7 +523,7 @@ Special: You cannot take this mutation if you have the Great Fortitude feat.
 
 ---
 
-# Gazing Eye
+## Gazing Eye
 
 **Category:** Major
 
@@ -602,7 +539,7 @@ As a free action, you can use the extra eye to make a special gaze attack agains
 
 ---
 
-# Gills
+## Gills
 
 **Category:** Minor
 
@@ -616,7 +553,7 @@ Benefit: You can breathe both air and water. You can operate underwater indefini
 
 ---
 
-# Great Horns
+## Great Horns
 
 **Category:** Minor
 
@@ -630,7 +567,7 @@ Benefit: You gain a single gore attack that deals bludgeoning damage (curled ram
 
 ---
 
-# Heat/Cold Susceptibility
+## Heat/Cold Susceptibility
 
 **Category:** Drawback
 
@@ -644,7 +581,7 @@ Drawback: You take double damage from prolonged exposure to extreme heat or cold
 
 ---
 
-# Horns
+## Horns
 
 **Category:** Cosmetic
 
@@ -658,7 +595,7 @@ Benefit: None.
 
 ---
 
-# Hypersensitivity
+## Hypersensitivity
 
 **Category:** Minor
 
@@ -672,7 +609,7 @@ Benefit: You gain a +2 mutation bonus on Listen, Search, and Spot checks. You al
 
 ---
 
-# Leaper
+## Leaper
 
 **Category:** Minor
 
@@ -686,7 +623,7 @@ Benefit: You gain a +10 mutation bonus on all Jump checks.
 
 ---
 
-# Lethargy
+## Lethargy
 
 **Category:** Drawback
 
@@ -702,7 +639,7 @@ Special: You cannot take this mutation if you have the Lightning Reflexes feat.
 
 ---
 
-# Light Sensitivity
+## Light Sensitivity
 
 **Category:** Drawback
 
@@ -716,7 +653,7 @@ Drawbacks: Abrupt exposure to bright light (such as sunlight) blinds you for 1 r
 
 ---
 
-# Lost Arm
+## Lost Arm
 
 **Category:** Drawback
 
@@ -732,7 +669,7 @@ Special: You can replace your lost arm with a cybernetic replacement arm, assumi
 
 ---
 
-# Mindslave
+## Mindslave
 
 **Category:** Drawback
 
@@ -748,7 +685,7 @@ Special: You cannot take this mutation if you have the Iron Will feat.
 
 ---
 
-# Neutrad Dependency
+## Neutrad Dependency
 
 **Category:** Drawback
 
@@ -766,7 +703,7 @@ Special: This drawback can be taken only in Progress Level 6 or higher campaigns
 
 ---
 
-# Pheromone Attraction
+## Pheromone Attraction
 
 **Category:** Major
 
@@ -782,7 +719,7 @@ Special: You cannot take this mutation if you have the Pheromonal Repulsion draw
 
 ---
 
-# Pheromone Repulsion
+## Pheromone Repulsion
 
 **Category:** Drawback
 
@@ -798,7 +735,7 @@ Special: You cannot take this drawback if you have the Pheromone Attraction muta
 
 ---
 
-# Poisonous Blood
+## Poisonous Blood
 
 **Category:** Drawback
 
@@ -816,7 +753,7 @@ Special: This drawback can be taken only in Progress Level 6 or higher campaigns
 
 ---
 
-# Prehensile Tail
+## Prehensile Tail
 
 **Category:** Major
 
@@ -834,7 +771,7 @@ Special: A creature that already has a tail cannot gain this mutation.
 
 ---
 
-# Prickly Pear
+## Prickly Pear
 
 **Category:** Major
 
@@ -848,7 +785,7 @@ Benefits: You deal 1d4 points of piercing damage to any creature you are grappli
 
 ---
 
-# Radioactive
+## Radioactive
 
 **Category:** Major
 
@@ -862,7 +799,7 @@ Benefits: You are immune to mild, low, and moderate degrees of radiation exposur
 
 ---
 
-# Rapid Aging
+## Rapid Aging
 
 **Category:** Drawback
 
@@ -876,7 +813,7 @@ Drawback: Double your actual age to get your effective age. Your effective age d
 
 ---
 
-# Reduced Speed
+## Reduced Speed
 
 **Category:** Drawback
 
@@ -892,7 +829,7 @@ Special: You may take this drawback multiple times. Its effects stack.
 
 ---
 
-# Scaly Armor
+## Scaly Armor
 
 **Category:** Minor
 
@@ -908,7 +845,7 @@ Special: A creature with fur, chitin, or the Exoskeleton mutation cannot gain th
 
 ---
 
-# Scaly Skin
+## Scaly Skin
 
 **Category:** Cosmetic
 
@@ -924,7 +861,7 @@ Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
 ---
 
-# Scent
+## Scent
 
 **Category:** Minor
 
@@ -938,7 +875,7 @@ Benefit: You gain the scent special ability.
 
 ---
 
-# Second Wind
+## Second Wind
 
 **Category:** Minor
 
@@ -952,7 +889,7 @@ Benefit: Once per day, as a free action, you can heal yourself of a number of po
 
 ---
 
-# Skeletal Reinforcement
+## Skeletal Reinforcement
 
 **Category:** Major
 
@@ -968,7 +905,7 @@ Special: This mutation stacks with the Improved Damage Threshold feat. You canno
 
 ---
 
-# Smokescreen
+## Smokescreen
 
 **Category:** Minor
 
@@ -984,7 +921,7 @@ This ability functions underwater. A moderate wind or current disperses the clou
 
 ---
 
-# Stinger
+## Stinger
 
 **Category:** Major
 
@@ -1000,7 +937,7 @@ Special: This mutation can be used in conjunction with the Tail mutation, but th
 
 ---
 
-# Tail
+## Tail
 
 **Category:** Minor
 
@@ -1016,7 +953,7 @@ Special: A creature that already has a tail or the Prehensile Tail mutation cann
 
 ---
 
-# Telekinetic Mind
+## Telekinetic Mind
 
 **Category:** Major
 
@@ -1032,7 +969,7 @@ This ability can be used at will.
 
 ---
 
-# Telepathy
+## Telepathy
 
 **Category:** Major
 
@@ -1046,7 +983,7 @@ Benefit: As a free action, you can forge a telepathic link with another living c
 
 ---
 
-# Tentacle
+## Tentacle
 
 **Category:** Major
 
@@ -1062,7 +999,7 @@ You can hang from your tentacle indefinitely by wrapping it around a larger obje
 
 ---
 
-# Thick Fur Coat
+## Thick Fur Coat
 
 **Category:** Minor
 
@@ -1078,7 +1015,7 @@ Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
 ---
 
-# Thin Fur Coat
+## Thin Fur Coat
 
 **Category:** Cosmetic
 
@@ -1094,7 +1031,7 @@ Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
 ---
 
-# Thin Skin
+## Thin Skin
 
 **Category:** Drawback
 
@@ -1108,7 +1045,7 @@ Drawback: You take 1 additional point of damage each time you are wounded.
 
 ---
 
-# Ultra Immune System
+## Ultra Immune System
 
 **Category:** Minor
 
@@ -1120,37 +1057,9 @@ MP Cost: 2.
 
 Benefit: You gain Ultra Immune System as a bonus feat even if you dont meet the feats prerequisite. The bonus you gain on Fortitude saves against poisons, diseases, and radiation is treated as a mutation bonus.
 
-d20Resources.com
-
-owned and developed by Brendan Quinn
-
-This material is Open Game Content, and is licensed for public use
-
-under the terms of the
-
-Open Game License v1.0a
-
-.
-
-d20 System and the d20 System logo are trademarks of
-
-Wizards of the Coast, Inc.
-
-and are
-
-used according to the terms of the d20 System License version 6.0.
-
-Requires the use of a Roleplaying Game Core Book published by
-
-Wizards of the Coast, Inc.
-
-Wizards of the Coast is a trademark of Wizards of the Coast, Inc. in the United States
-
-and other countries and is used with permission.
-
 ---
 
-# Ultraviolet Allergy
+## Ultraviolet Allergy
 
 **Category:** Drawback
 
@@ -1166,7 +1075,7 @@ wearing to ignite.
 
 ---
 
-# Unnatural Eyes
+## Unnatural Eyes
 
 **Category:** Cosmetic
 
@@ -1180,7 +1089,7 @@ Benefit: None.
 
 ---
 
-# Unnatural Hair
+## Unnatural Hair
 
 **Category:** Cosmetic
 
@@ -1194,7 +1103,7 @@ Benefit: None.
 
 ---
 
-# Unnatural Skin
+## Unnatural Skin
 
 **Category:** Cosmetic
 
@@ -1208,7 +1117,7 @@ Benefit: None.
 
 ---
 
-# Unnatural Voice
+## Unnatural Voice
 
 **Category:** Cosmetic
 
@@ -1222,7 +1131,7 @@ Benefit: None.
 
 ---
 
-# Venomous Bite
+## Venomous Bite
 
 **Category:** Major
 
@@ -1238,37 +1147,9 @@ modifier) to negate the effects (initial and secondary damage 1d4 Con).
 
 Special: You must have a natural bite attack to gain the benefit of this mutation. You cannot take this mutation if you have the Acidic Saliva mutation.
 
-d20Resources.com
-
-owned and developed by Brendan Quinn
-
-This material is Open Game Content, and is licensed for public use
-
-under the terms of the
-
-Open Game License v1.0a
-
-.
-
-d20 System and the d20 System logo are trademarks of
-
-Wizards of the Coast, Inc.
-
-and are
-
-used according to the terms of the d20 System License version 6.0.
-
-Requires the use of a Roleplaying Game Core Book published by
-
-Wizards of the Coast, Inc.
-
-Wizards of the Coast is a trademark of Wizards of the Coast, Inc. in the United States
-
-and other countries and is used with permission.
-
 ---
 
-# Vexing Voice
+## Vexing Voice
 
 **Category:** Major
 
@@ -1282,7 +1163,7 @@ Benefit: Select any living creature within 30 feet of you as the target; the cre
 
 ---
 
-# Wall Crawler
+## Wall Crawler
 
 **Category:** Minor
 
@@ -1298,7 +1179,7 @@ You also gain a +4 mutation bonus on Balance checks when moving a cross a slippe
 
 ---
 
-# Weak Immune System
+## Weak Immune System
 
 **Category:** Drawback
 
@@ -1314,7 +1195,7 @@ Special: You cannot take this drawback if you have the Ultra Immune System feat.
 
 ---
 
-# Webbed Digits
+## Webbed Digits
 
 **Category:** Minor
 
@@ -1328,7 +1209,7 @@ Benefit: You gain a +4 mutation bonus on all Swim checks. Having webbed digits d
 
 ---
 
-# Wings
+## Wings
 
 **Category:** Major
 
@@ -1342,7 +1223,7 @@ Benefit: Your wings grant a natural fly speed of 60 feet (average maneuverabilit
 
 ---
 
-# X-Ray Vision
+## X-Ray Vision
 
 **Category:** Major
 
