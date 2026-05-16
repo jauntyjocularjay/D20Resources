@@ -6,7 +6,8 @@ Skills are presented in alphabetical order, in the following format. Entries tha
 
 Skill Description Format
 
-Skill Name (Key Ability) Trained Only; Armor Penalty
+Skill Name (Key Ability) Trained Only; 
+armor penalty
 
 **The skill name line and the line beneath it include the following information:** 
 
@@ -14,7 +15,10 @@ Skill Name (Key Ability) Trained Only; Armor Penalty
 
 **Trained Only:** If 'Trained Only' appears on the line beneath the skill name, a character must have at least 1 rank in the skill to use it. If 'Trained Only' is omitted, the skill can be used untrained. If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).
 
-**Armor Penalty:** If 'Armor Penalty' appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.
+**
+armor penalty:** If '
+armor penalty' appears on the line beneath the skill name, apply the 
+armor penalty for the armor the character is wearing to checks involving this skill.
 
 **Check:** What a character can do with a successful skill check, and the check's DC.
 
@@ -80,6 +84,7 @@ Skill Name (Key Ability) Trained Only; Armor Penalty
 ## Balance
 
 **base:** dex
+
 armor penalty
 
 **Check:** The character can walk on a precarious surface. A successful check lets the character move at half speed along the surface as a move action. Failure means the character spends the move action keeping balance and does not move. Failure by 5 or more means the character falls.
@@ -108,7 +113,6 @@ armor penalty
 
 ## Bluff
 
-**settings:** [future]
 **base:** cha
 
 You can use the Bluff skill to feint in starship combat.
@@ -128,6 +132,7 @@ Using Bluff as a feint in starship combat is an attack action.
 ## Climb
 
 **base:** str
+
 armor penalty
 
 **Check:** With each successful Climb check, the character can advance up, down, or across a slope, wall, or other steep incline (or even a ceiling with handholds). A slope is any incline less than 60 degrees; a wall is 60 degrees or steeper. A failed check means no progress; failure by 5 or more means the character falls from whatever height already attained (unless secured by a harness).
@@ -411,7 +416,6 @@ Creating a work of writing requires at least 1 hour, but usually takes a day, a 
 
 ## Computer Use
 
-**settings:** [future]
 **base:** int
 
 In addition to all the standard uses, this skill can be used to operate shipboard sensors as well as send, jam, scramble, and unscramble transmissions sent through space or across dimensions.
@@ -520,7 +524,6 @@ trained only
 
 ## Disable Device
 
-**settings:** [future]
 **base:** int
 
 You can use this skill to disable a robot or external cybernetic attachment.
@@ -588,6 +591,7 @@ An individual usually makes a Spot check to detect a disguise immediately upon m
 ## Escape Artist
 
 **base:** dex
+
 armor penalty
 
 **Check:** Make a check to escape from restraints or to squeeze through a tight space.
@@ -772,6 +776,7 @@ Possible tricks include, but are not limited to:
 ## Hide
 
 **base:** dex
+
 armor penalty
 
 **Check:** A character's Hide check is opposed by the Spot check of anyone who might notice the character. The character can move at half speed and hide at no penalty. At more than half and up to full speed, the character takes a -5 penalty. It's practically impossible (-20 penalty) to hide while attacking, running, or charging.
@@ -866,6 +871,7 @@ To collect a piece of evidence, make an Investigate check (DC 15). If the charac
 ## Jump
 
 **base:** str
+
 armor penalty
 
 **Check:** The DC and the distance the character can cover vary according to the type of jump being attempted.
@@ -971,6 +977,7 @@ The GM may call for a Listen check by a character who is in a position to hear s
 ## Move Silently
 
 **base:** dex
+
 armor penalty
 
 **Check:** A character's Move Silently check is opposed by the Listen check of anyone who might hear the character. The character can move at half speed and make a Move Silently check at no penalty. At more than half speed and up to full speed, the character takes a -5 penalty. It's practically impossible (-20 penalty) to move silently while attacking, running, or charging.
@@ -987,7 +994,6 @@ armor penalty
 
 ## Technology
 
-**settings:** [future]
 **base:** int
 
 You can make a Knowledge (technology) check to correctly identify starships, mecha, robots, and cybernetic attachments, as well as identify unfamiliar technological devices.
@@ -1017,7 +1023,6 @@ When confronted with an unfamiliar piece of technology or alien artifact, you ca
 
 ## Navigate
 
-**settings:** [future]
 **base:** int
 
 In a campaign that features space travel or dimensional travel, you can use the Navigate skill to plot a course between planets, star systems, or dimensions.
@@ -1069,7 +1074,6 @@ This skill encompasses several categories, each treated as a separate skill. The
 
 ## Pilot
 
-**settings:** [future]
 **base:** dex
 
 You can use the Pilot skill to fly any kind of spacecraft.
@@ -1149,7 +1153,6 @@ The Read/Write Language skill doesn't work like a standard skill.
 
 ## Repair
 
-**settings:** [future]
 **base:** int
 
 You can use this skill to repair vehicles, starships, mecha, cybernetic attachments, and constructs (including robots). You can also use the Repair skill to safely remove the “brain” of a destroyed robot.
@@ -1200,7 +1203,8 @@ Animals ill suited as mounts provide a -2 penalty on their rider's Ride check.
 - **Cover (DC 15):** Drop down and hang alongside the mount, using it as one-half cover. Can't attack while doing this.
 - **Soft Fall (DC 15):** React when falling off a mount to try to avoid damage. If failed, takes 1d6 points of falling damage.
 - **Leap (DC 15):** Get the mount to leap obstacles as part of its movement. Use the character's Ride modifier or the mount's Jump modifier (whichever is lower) when the mount makes its Jump check.
-- **Fast Mount or Dismount (DC 20; armor penalty applies):** Mount or dismount as a free action. If failed, mounting or dismounting is a move action.
+- **Fast Mount or Dismount (DC 20; 
+armor penalty applies):** Mount or dismount as a free action. If failed, mounting or dismounting is a move action.
 
 **Try Again?:** Varies. Failing certain checks (such as Stay in Saddle) may result in falling, making a retry impossible.
 
@@ -1261,6 +1265,7 @@ The character can use Sense Motive to detect a hidden message being transmitted 
 **base:** dex
 
 trained only
+
 armor penalty
 
 **Check:** A check against DC 10 lets a character palm a coin-sized, unattended object. Performing simple feats of sleight of hand, such as making a coin disappear, also have a DC of 10 unless an observer is concentrating on noticing what the character is doing.
@@ -1346,6 +1351,7 @@ With the Track feat, a character can use Survival checks to track a character or
 ## Swim
 
 **base:** str
+
 armor penalty
 
 **Check:** A successful Swim check allows a character to swim one-quarter their speed as a move action, or one-half their speed as a full-round action. A failed check means no progress. Failure by 5 or more means the character goes underwater.
@@ -1374,7 +1380,6 @@ Each hour that the character swims, make a Swim check against DC 20. If the char
 
 ## Treat Injury
 
-**settings:** [future]
 **base:** wis
 
 This skill can be used to treat members of other species, provided they are neither constructs nor undead.
@@ -1394,6 +1399,7 @@ Performing surgery on creatures of a type different from your own carries a –8
 **base:** dex
 
 trained only
+
 armor penalty
 
 **Check:** A character can land softly when falling, tumble past opponents in combat, or tumble through opponents.
