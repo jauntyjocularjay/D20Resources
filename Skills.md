@@ -9,7 +9,7 @@ Skill Description Format
 Skill Name (Key Ability) Trained Only; 
 armor penalty
 
-**The skill name line and the line beneath it include the following information:** 
+**The skill name line and the line beneath it include the following information:**
 
 **Key Ability:** The abbreviation for the ability whose modifier applies to the skill check. Exceptions: Speak Language and Read/Write Language have 'None' given as their key ability because the use of these skills never requires a check.
 
