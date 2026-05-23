@@ -4,11 +4,47 @@ The **Yautja**, (pronounced Ya-OOT-ja or YOWT-ja), known colloquially as the **P
 
 Aside from their repeated conflicts with humans, the Predators have notably been associated with Xenomorph XX121, known to them as *kainde amedha* ("hard meat"), whom they revere as perhaps the worthiest of all prey. They have been known to deliberately breed the creatures from captive Queens in order to hunt them, often as part of initiation rituals for young Predators.
 
+## Table of Contents
+
+- [Yautja](#yautja)
+- [Physiology](#physiology)
+- [Culture](#culture)
+- [Names](#names)
+- [Yautja Racial Traits](#yautja-racial-traits)
+  - [Ability Score Modifiers](#ability-score-modifiers)
+  - [Core Species Traits](#core-species-traits)
+- [Yautja Heroic Class Access](#yautja-heroic-class-access)
+- [Yautja Classification by Character Level](#yautja-classification-by-character-level)
+  - [Classification Table](#classification-table)
+  - [Classification Benefits](#classification-benefits)
+- [Yautja Equipment Access by Rank](#yautja-equipment-access-by-rank)
+- [Suggested Starting Yautja Weapons](#suggested-starting-yautja-weapons)
+  - [Wrist Blades](#wrist-blades)
+  - [Combi-Stick](#combi-stick)
+  - [Smart Disc / Fan Disc](#smart-disc--fan-disc)
+  - [Netgun](#netgun)
+  - [Plasma Caster](#plasma-caster)
+- [Yautja Feat Suggestions](#yautja-feat-suggestions)
+- [Yautja Skill Affinities](#yautja-skill-affinities)
+- [Yautja Weaknesses and Limitations](#yautja-weaknesses-and-limitations)
+  - [Heat Dependency](#heat-dependency)
+  - [Bio-Mask Reliance](#bio-mask-reliance)
+  - [Honor Restrictions](#honor-restrictions)
+  - [Reputation Cuts Both Ways](#reputation-cuts-both-ways)
+- [Character Creation Summary](#character-creation-summary)
+- [Recommended Clan Questions](#recommended-clan-questions)
+
+---
+
 ## Physiology
 
 Predators are bipedal humanoids, physically distinguishable from humans by their greater height, the long, hair-like appendages on their heads (nicknamed dreadlocks), clawed hands, reptilian skin and their faces, which feature arthropod-like mandibles and no visible nose. The biological purpose of the distinctive mandibles is unclear – some have proposed they may be used in reproduction or mating rituals. Yautja also use them to convey emotions; for example, flared mandibles apparently signify anger or surprise, mandibles clicking together can signify interest or curiosity, and Yautja have even been said to "grin" with them. Predators have also been known to employ their mandibles as weapons, using them to inflict grievous bite wounds on their opponent. As well as the fleshy dreadlocks around the side of the head, some Predators have also been seen to possess sparse quills on their cheeks and above the eyes.
 
 While generally uniform, each Yautja's physical appearance includes a number of subtle variations, akin to human genetic diversity. Similarly, while Predator heights vary, they are typically over 7 feet tall, although some have been known to grow to 8 feet or even taller. Despite this, shorter individuals have been recorded, who stood the height of a typical human. These individuals are unusual and their smaller height the subject of ridicule in Yautja society. The species' reptile-like skin can range in color from light to dark, be mottled or clear, and can appear dry or moist and clammy.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Culture
 
@@ -18,11 +54,19 @@ Defeat in a Hunt is apparently a cause of great shame to the Yautja, and often l
 
 The Yautja have a Code of Honor during the hunt that it expects all members of the species to adhere to on pain of not being seen as a "true Yautja" and therefore subject to being destroyed. Therefore, most Yautja are moulded around that code, being ruthless but honorable, with the exception of Bad Bloods. Aggression and arrogance seems to be innate in Hunters, especially young males.
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Names
 
 The Yautja society appears to be a heavily gendered one; even the names of the Predators tend to have masculine and feminine connotations, similar to many romantic language such as spanish. Male names often end with 'e' (i.e: Dachande, Tichinde, Skemte, Nakande, ect.) while female names tend to end with 'i' (i.e: Vagouti, Hashori). Dachande even nicknames Machiko Noguchi "Da'dtou-di", which is the feminine form of that name.
 
 Some names, such as Lar'nix'va, Bakuub, and Warkha do not fit into this naming trend however. This could be because the names are unisex or that different clans have different naming conventions.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Yautja Racial Traits
 
@@ -31,11 +75,11 @@ Some names, such as Lar'nix'va, Bakuub, and Warkha do not fit into this naming t
 **Base Speed:** 40 ft.  
 **Languages:** Yautja; bonus languages may include English, Japanese, Spanish, Engineer dialects, Weyland-Yutani technical codes, or other campaign-relevant languages.
 
-## Ability Score Modifiers
+### Ability Score Modifiers
 
 Yautja are physically superior to humans, highly resilient, and trained from youth in observation, stalking, and combat.
 
-### Standard Yautja PC Modifiers
+#### Standard Yautja PC Modifiers
 
 | Ability      | Modifier |
 | ------------ | -------: |
@@ -51,15 +95,15 @@ Yautja are brutally strong, fast, durable, and perceptive, but their alien beari
 
 For more politically refined or diplomatic Yautja, Charismatic Hero remains viable because class talents and skills can overcome the racial penalty.
 
-## Core Species Traits
+### Core Species Traits
 
-## Powerful Build
+#### Powerful Build
 
 A Yautja counts as one size category larger whenever doing so would be beneficial for opposed checks related to strength, grappling, lifting, carrying, pushing, or resisting bull rush/trip attempts.
 
 This does **not** increase weapon size by default unless the GM allows Yautja-forged weapons to be treated as oversized.
 
-## Dense Bone and Muscle
+#### Dense Bone and Muscle
 
 Yautja gain:
 
@@ -70,19 +114,19 @@ Yautja gain:
 
 At **Blooded rank or higher**, their Damage Reduction improves through classification benefits.
 
-## Hunter’s Leap
+#### Hunter’s Leap
 
 Yautja gain a **+4 racial bonus on Jump checks** and may make standing jumps as if they had a running start.
 
 They also reduce falling damage by **10 feet** as long as they are conscious and able to react.
 
-## Predator Climber
+#### Predator Climber
 
 Yautja gain a **+2 racial bonus on Climb, Balance, and Move Silently checks**.
 
 They are comfortable fighting from trees, rooftops, gantries, ship superstructures, cliff faces, industrial scaffolds, and ruined architecture.
 
-## Infrared Vision
+#### Infrared Vision
 
 Yautja naturally perceive primarily through the infrared spectrum.
 
@@ -92,7 +136,7 @@ They gain:
 - **+2 racial bonus on Spot checks against living warm-blooded creatures**
 - They suffer a **-2 penalty on Spot checks** to distinguish fine visual detail, writing, holographic displays, or objects of similar temperature without a bio-mask or visual aid.
 
-## Bio-Mask Interface
+#### Bio-Mask Interface
 
 Yautja may use a bio-mask to expand their senses.
 
@@ -110,7 +154,7 @@ A functioning bio-mask can provide:
 
 Without a bio-mask, a Yautja can still function, but loses many advanced visual and tactical options.
 
-## Mandibles and Claws
+#### Mandibles and Claws
 
 A Yautja has natural weapons.
 
@@ -119,13 +163,13 @@ A Yautja has natural weapons.
 
 A Yautja is always considered armed for purposes of threatening squares and making attacks of opportunity. However, Yautja usually consider killing worthy prey with only natural attacks either deeply honorable or brutally personal, depending on clan custom.
 
-## Alien Presence
+#### Alien Presence
 
 Yautja suffer a **-4 penalty on Bluff, Diplomacy, Gather Information, and Perform checks** when dealing openly with ordinary humans unfamiliar with their species.
 
 They gain a **+4 racial bonus on Intimidate checks** against humans, synthetics, corporate soldiers, colonists, and other beings who understand the threat they represent.
 
-## Hunter’s Patience
+#### Hunter’s Patience
 
 Yautja gain a **+2 racial bonus on Hide, Move Silently, Listen, Spot, Survival, and Search checks** when stalking a chosen target.
 
@@ -133,7 +177,7 @@ Once per encounter, after observing a target for at least 3 rounds, a Yautja may
 
 This bonus increases with classification.
 
-## Code of the Hunt
+#### Code of the Hunt
 
 Most Yautja follow a strict honor code. The exact code varies by clan, but usually includes:
 
@@ -146,6 +190,10 @@ Most Yautja follow a strict honor code. The exact code varies by clan, but usual
 - Bad Bloods are to be hunted.
 
 A Yautja who violates the Code may lose access to clan resources, honor-based prestige classes, higher-ranked equipment, and social standing.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Yautja Heroic Class Access
 
@@ -162,11 +210,15 @@ Yautja society is diverse. All heroic classes are open.
 
 This means a Yautja PC is not automatically “just a Strong/Tough Hero.” A Smart Hero Yautja might be a master of cloaking systems and alien engineering. A Dedicated Hero might be a sacred hunter who interprets omens and judges honor. A Charismatic Hero might lead hunts, negotiate clan alliances, or terrify prey into mistakes.
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Yautja Classification by Character Level
 
 These classifications represent **social rank, hunting maturity, reputation, and equipment access**. They do not replace heroic classes. A Yautja still levels normally in Strong Hero, Fast Hero, Tough Hero, etc.
 
-## Classification Table
+### Classification Table
 
 | Character Level | Classification | Status                        |
 | --------------: | -------------- | ----------------------------- |
@@ -178,11 +230,11 @@ These classifications represent **social rank, hunting maturity, reputation, and
 | 14–17           | Clan Leader    | Ruler, warlord, master hunter |
 | 18–20           | Elder          | Living legend                 |
 
-## Classification Benefits
+### Classification Benefits
 
 These benefits are gained automatically when the Yautja reaches the appropriate total character level, assuming the character remains in good standing with the Code of the Hunt.
 
-## Levels 1–3: Unblooded
+#### Levels 1–3: Unblooded
 
 Unblooded Yautja are young, ambitious, dangerous, and often reckless. They are usually denied the most advanced equipment until they survive a worthy initiation.
 
@@ -219,7 +271,7 @@ Unblooded Yautja are young, ambitious, dangerous, and often reckless. They are u
 
 Unblooded Yautja are eager to prove themselves. They may be brave, impulsive, arrogant, or desperate to earn recognition. Their first serious hunt defines their future.
 
-## Levels 4–5: Young-Blooded
+#### Levels 4–5: Young-Blooded
 
 Young-Blooded Yautja have survived a proving hunt or major initiation. They are now recognized as hunters, though still beneath true Blooded status.
 
@@ -255,7 +307,7 @@ Young-Blooded Yautja have survived a proving hunt or major initiation. They are 
 
 Young-Blooded hunters are dangerous because they have tasted victory but have not yet mastered restraint.
 
-## Levels 6–7: Blooded
+#### Levels 6–7: Blooded
 
 A Blooded Yautja is a full adult hunter. They have survived meaningful prey, claimed worthy trophies, and earned the right to carry more respected equipment.
 
@@ -296,7 +348,7 @@ At this rank, the Yautja should have completed a defining hunt. Common examples:
 
 This is the baseline “Predator” most humans fear: patient, armed, honorable, and deadly.
 
-## Levels 8–10: Elite
+#### Levels 8–10: Elite
 
 Elites are veterans who have survived many hunts. They are no longer merely proving themselves; they are examples to others.
 
@@ -338,7 +390,7 @@ An Elite may choose one:
 
 Elites are where individual legend begins. Their armor, weapons, and trophies should tell a story.
 
-## Levels 11–13: Pack Leader
+#### Levels 11–13: Pack Leader
 
 Pack Leaders command hunts. They are responsible not only for victory, but for the honor and survival of those beneath them.
 
@@ -378,7 +430,7 @@ This lasts until the prey is defeated, escapes, or the encounter ends.
 
 A Pack Leader must balance glory with responsibility. A reckless Pack Leader gets hunters killed. A cowardly one loses all respect.
 
-## Levels 14–17: Clan Leader
+#### Levels 14–17: Clan Leader
 
 Clan Leaders are rulers, warlords, judges, and living symbols of their lineage. They command more than hunts; they command history.
 
@@ -423,7 +475,7 @@ Once per session, a Clan Leader may call upon clan resources, subject to story c
 
 Clan Leaders are not merely powerful. They embody a philosophy of the hunt. Their decisions shape generations.
 
-## Levels 18–20: Elder
+#### Levels 18–20: Elder
 
 Elders are mythic figures among the Yautja. Many are centuries old. Some have hunted humans, xenomorphs, Engineers, synthetics, abominations, and things no human archive has named.
 
@@ -467,6 +519,10 @@ Once per session, an Elder may declare a formal judgment.
 
 An Elder should feel like a final boss, mentor, judge, or legend. At this level, the Yautja is not just a hunter. They are a walking myth.
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Yautja Equipment Access by Rank
 
 | Gear                                  | Unblooded     | Young-Blooded | Blooded    | Elite       | Pack Leader+  |
@@ -483,11 +539,15 @@ An Elder should feel like a final boss, mentor, judge, or legend. At this level,
 | Ship Command                          | No            | No            | Limited    | Small craft | Full command  |
 | Xenomorph Breeding/Containment Access | No            | No            | Rare       | Restricted  | Yes           |
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Suggested Starting Yautja Weapons
 
 These can be refined later into full d20 Future stat blocks.
 
-## Wrist Blades
+### Wrist Blades
 
 **Damage:** 1d8 slashing  
 **Critical:** 19–20  
@@ -495,33 +555,37 @@ These can be refined later into full d20 Future stat blocks.
 **Size:** Light melee weapon  
 **Special:** Retractable; cannot be disarmed while attached; grants +2 bonus to conceal weapon.
 
-## Combi-Stick
+### Combi-Stick
 
 **Damage:** 1d10 piercing/slashing  
 **Critical:** x3  
 **Size:** Two-handed or one-handed for Yautja  
 **Special:** Collapsible; may be thrown; can be used as spear or staff.
 
-## Smart Disc / Fan Disc
+### Smart Disc / Fan Disc
 
 **Damage:** 2d6 slashing  
 **Critical:** 19–20  
 **Range Increment:** 30 ft.  
 **Special:** Returns to wielder on a successful attack roll or programmed path; requires Yautja training.
 
-## Netgun
+### Netgun
 
 **Damage:** Special  
 **Range Increment:** 20 ft.  
 **Effect:** Target must make a Reflex save or become entangled/pinned.  
 **Special:** Against unarmored or lightly armored targets, constriction may deal slashing damage each round.
 
-## Plasma Caster
+### Plasma Caster
 
 **Damage:** 3d8 fire/energy  
 **Critical:** x2  
 **Range Increment:** 80 ft.  
 **Special:** Shoulder-mounted; requires bio-mask targeting; may be charged for greater damage at the cost of a full-round action.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Yautja Feat Suggestions
 
@@ -551,6 +615,10 @@ These are appropriate bonus feat options for Yautja characters.
 - Track
 - Weapon Focus
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Yautja Skill Affinities
 
 The following skills are especially appropriate for Yautja characters:
@@ -576,15 +644,19 @@ The following skills are especially appropriate for Yautja characters:
 - Survival
 - Treat Injury
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Yautja Weaknesses and Limitations
 
 These help balance the species.
 
-## Heat Dependency
+### Heat Dependency
 
 Yautja prefer warm climates. In cold environments, they suffer a **-2 penalty on Fortitude saves against cold exposure** unless wearing thermal mesh, armor, or environmental gear.
 
-## Bio-Mask Reliance
+### Bio-Mask Reliance
 
 Without a bio-mask, a Yautja loses access to enhanced visual modes, targeting support, translation, and many weapon interfaces.
 
@@ -595,7 +667,7 @@ The GM may impose:
 - Reduced Spot/Search effectiveness
 - Difficulty reading human displays or fine visual data
 
-## Honor Restrictions
+### Honor Restrictions
 
 A Yautja who violates the Code may lose access to:
 
@@ -605,9 +677,13 @@ A Yautja who violates the Code may lose access to:
 - Reputation bonuses
 - Command authority
 
-## Reputation Cuts Both Ways
+### Reputation Cuts Both Ways
 
 A Yautja’s fame can attract challengers, corporate hunters, xenomorph cultists, Bad Bloods, rival clans, or Weyland-Yutani acquisition teams.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Character Creation Summary
 
@@ -619,6 +695,10 @@ When creating a Yautja PC:
 4. Choose allowed starting gear based on classification.
 5. Define clan, hunting philosophy, and first intended trophy.
 6. Decide whether the Yautja is traditional, experimental, merciful, brutal, spiritual, technological, or borderline Bad Blood.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Recommended Clan Questions
 
@@ -634,3 +714,7 @@ To make each Yautja distinct, answer:
 8. Who trained them?
 9. What weapon did they earn first?
 10. What would they refuse to kill?
+
+[Return to Table of Contents](#table-of-contents)
+
+---

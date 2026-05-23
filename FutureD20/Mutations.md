@@ -1,6 +1,14 @@
 # Mutations
 
+[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Mutations](./Mutations.md)
+
+## Table of Contents
+
+- [Mutations](#mutations)
+- [Table of Contents](#table-of-contents)
 - [Mutation Points](#mutation-points)
+  - [Mutations Table](#mutations-table)
+  - [Drawbacks](#drawbacks)
 - [Mutation Descriptions](#mutation-descriptions)
   - [Ability Decay](#ability-decay)
   - [Acidic Saliva](#acidic-saliva)
@@ -73,6 +81,10 @@
   - [Wings](#wings)
   - [X-Ray Vision](#x-ray-vision)
 
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Mutation Points
 
 ### Mutations Table
@@ -130,6 +142,8 @@
 | 9798 | Wings Major | 6 |
 | 99100 | X-Ray Vision Major | 6 |
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Drawbacks
 
 | d% | Drawback | MP Value |
@@ -157,11 +171,11 @@
 
 **1:** You may take this drawback multiple times. Its effects stack.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Mutation Descriptions
-
-Mutation Descriptions
 
 Cosmetic Mutations: The simplest and least mechanically complicated mutation is a cosmetic mutation. A cosmetic mutation has no game effect other than to change a creatures appearance in some fashion. Cosmetic mutations cost 0 MP.
 
@@ -173,9 +187,7 @@ one or more drawbacks.
 
 Drawbacks: A creature with minor or major mutations also has drawbacks to offset them. Drawbacks are special disabilities or vulnerabilities that negatively affect a creature. Each drawback has an MP value, and a creature can spend these MP on minor and major mutations to offset the negative effects of the drawback.
 
----
-
-## Ability Decay
+### Ability Decay
 
 **Category:** Drawback
 
@@ -189,9 +201,9 @@ Drawback: One of your ability scores (your choice) permanently decreases by 2. Y
 
 Special: You may take this drawback multiple times. Its effects stack.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Acidic Saliva
+### Acidic Saliva
 
 **Category:** Minor
 
@@ -205,9 +217,9 @@ Benefit: Your bite attack deals an extra 1d4 points of acid damage with each suc
 
 Special: You must have a natural bite attack to take this mutation. You cannot gain this mutation if you have the Venomous Bite mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Adrenaline Jolt
+### Adrenaline Jolt
 
 **Category:** Minor
 
@@ -219,9 +231,9 @@ MP Cost: 3.
 
 Benefit: Once per day, as a free action, you can temporarily increase either your Strength or your Dexterity by 1d4+1 points. The increase lasts for a number of rounds equal to 3 + your Constitution modifier.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Blood Hunger
+### Blood Hunger
 
 **Category:** Drawback
 
@@ -237,9 +249,9 @@ If you go 24 hours without consuming blood, you take 1d4 points of Constitution 
 
 Special: You must have a natural bite attack to take this drawback.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Brittle Bones
+### Brittle Bones
 
 **Category:** Drawback
 
@@ -253,9 +265,9 @@ Drawbacks: Your massive damage threshold decreases by 3. In addition, you take a
 
 Special: You cannot take this drawback if you have the Skeletal Reinforcement mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Claws
+### Claws
 
 **Category:** Minor
 
@@ -269,9 +281,9 @@ Benefit: You gain a single claw attack that deals slashing damage dependent on y
 
 Having claws does not adversely affect your manual dexterity.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Combat Fear
+### Combat Fear
 
 **Category:** Drawback
 
@@ -283,9 +295,9 @@ MP Value: 4.
 
 Drawback: After initiative is rolled but before you take your first action in combat, make a Will saving throw (DC 15). If you fail the Will save, you are shaken for the rest of the encounter, taking a 2 penalty on attack rolls, saving throws, and skill checks. If the save succeeds, you overcome your moment of fear and negate the ill effects.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Cybernetic Dependency
+### Cybernetic Dependency
 
 **Category:** Drawback
 
@@ -299,9 +311,9 @@ Drawback: You need a body repair weave (see Cybernetics) to heal naturally. For 
 
 Special: This drawback is available only in Progress Level 7 or higher campaigns.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Darkvision
+### Darkvision
 
 **Category:** Minor
 
@@ -313,9 +325,9 @@ MP Cost: 3.
 
 Benefit: You can see in total darkness out to a range of 60 feet. Darkvision is black and white only but is otherwise like normal sight.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Echolocator
+### Echolocator
 
 **Category:** Major
 
@@ -327,9 +339,9 @@ MP Cost: 5.
 
 Benefit: You gain the blindsight ability out to a range of 60 feet.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Elasticity
+### Elasticity
 
 **Category:** Major
 
@@ -341,9 +353,9 @@ MP Cost: 4.
 
 Benefit: You gain a +10 mutation bonus on Escape Artist checks. Moreover, you can squeeze through an opening or passage one-tenth as wide and tall as your height, in inches. A creature using this mutation to move through a tight space moves at one-quarter normal speed.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Energy Absorption
+### Energy Absorption
 
 **Category:** Major
 
@@ -355,9 +367,9 @@ MP Cost: 4.
 
 Benefit: You gain resistance 10 to two types of energy or resistance 20 to one type of energy, chosen from the following list: acid, cold, electricity, fire, or sonic/concussion.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Energy Diffusion
+### Energy Diffusion
 
 **Category:** Minor
 
@@ -369,9 +381,9 @@ MP Cost: 2.
 
 Benefit: You gain resistance 5 to two types of energy or resistance 10 to one type of energy, chosen from the following list: acid, cold, electricity, fire, or sonic/concussion.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Enlarged Form
+### Enlarged Form
 
 **Category:** Major
 
@@ -385,9 +397,9 @@ Benefits: You become as large as your size category allows (8 feet tall for Medi
 
 This mutation does not change your face or reach.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Exoskeleton
+### Exoskeleton
 
 **Category:** Major
 
@@ -401,9 +413,9 @@ Benefit: You gain a +3 natural armor bonus to Defense, or your existing natural 
 
 Special: A creature with fur, scales, or the Scaly Armor mutation cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Extra Arms
+### Extra Arms
 
 **Category:** Major
 
@@ -417,9 +429,9 @@ Benefit: As a creature with more than two arms, you gain a +4 mutation bonus on 
 
 Special: If you have three or more natural claw attacks, you meet the prerequisites for the Multiattack feat. This mutation does not give you Multiattack as a bonus feat, however.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Extra Digits
+### Extra Digits
 
 **Category:** Cosmetic
 
@@ -431,9 +443,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Fangs
+### Fangs
 
 **Category:** Minor
 
@@ -447,9 +459,9 @@ Benefit: You gain a vicious bite attack that deals piercing damage dependent on 
 
 Special: This mutation can be used in conjunction with the Acidic Saliva or Venomous Bite mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Festering Sores
+### Festering Sores
 
 **Category:** Drawback
 
@@ -461,9 +473,9 @@ MP Value: 2.
 
 Drawback: The festering sores are more aggravating than harmful, but they make it especially hard to wear armor. When you wear any type of armor, decrease the armors maximum Dexterity bonus by 2 and increase its armor penalty by +4.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Fins
+### Fins
 
 **Category:** Cosmetic
 
@@ -475,9 +487,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Force Barrier
+### Force Barrier
 
 **Category:** Minor
 
@@ -491,9 +503,9 @@ Benefit: As a free action, you can generate an invisible electromagnetic barrier
 
 Special: Portable electronic devices such as cell phones, sensor comps, and headsets temporarily cease to function if held or worn by you while the electromagnetic force barrier is in effect.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Forked Tongue
+### Forked Tongue
 
 **Category:** Cosmetic
 
@@ -505,9 +517,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Frailty
+### Frailty
 
 **Category:** Drawback
 
@@ -521,9 +533,9 @@ Drawback: You take a 2 penalty on all Fortitude saves, including saves made to s
 
 Special: You cannot take this mutation if you have the Great Fortitude feat.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Gazing Eye
+### Gazing Eye
 
 **Category:** Major
 
@@ -537,9 +549,9 @@ Benefits: The extra eye grants a +2 mutation bonus on Search and Spot checks.
 
 As a free action, you can use the extra eye to make a special gaze attack against one creature within 20 feet. The creature must succeed on a Will save (DC 10 + one-half your level + your Charisma modifier) or be shaken for 2d6 rounds. This gaze attack is a mind-affecting compulsion, and any creature that successfully saves against your gaze attack cannot be affected again for 24 hours. The gazing eye has no effect on other creatures with gazing eyes.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Gills
+### Gills
 
 **Category:** Minor
 
@@ -551,9 +563,9 @@ MP Cost: 2.
 
 Benefit: You can breathe both air and water. You can operate underwater indefinitely, with no fear of drowning.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Great Horns
+### Great Horns
 
 **Category:** Minor
 
@@ -565,9 +577,9 @@ MP Cost: 1.
 
 Benefit: You gain a single gore attack that deals bludgeoning damage (curled ram horns or moose antlers) or piercing damage (pointed bull horns or one great rhino horn). The amount of damage depends on your size: Small 1d4, Medium-size 1d6, Large 1d8. If you get multiple attacks in a round, you can gore multiple times. Your horns are treated as natural weapons and do not provoke attacks of opportunity.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Heat/Cold Susceptibility
+### Heat/Cold Susceptibility
 
 **Category:** Drawback
 
@@ -579,9 +591,9 @@ MP Value: 1.
 
 Drawback: You take double damage from prolonged exposure to extreme heat or cold.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Horns
+### Horns
 
 **Category:** Cosmetic
 
@@ -593,9 +605,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Hypersensitivity
+### Hypersensitivity
 
 **Category:** Minor
 
@@ -607,9 +619,9 @@ MP Cost: 3.
 
 Benefit: You gain a +2 mutation bonus on Listen, Search, and Spot checks. You also gain Blind-Fight as a bonus feat.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Leaper
+### Leaper
 
 **Category:** Minor
 
@@ -621,9 +633,9 @@ MP Cost: 1.
 
 Benefit: You gain a +10 mutation bonus on all Jump checks.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Lethargy
+### Lethargy
 
 **Category:** Drawback
 
@@ -637,9 +649,9 @@ Drawback: You take a 2 penalty on all Reflex saves.
 
 Special: You cannot take this mutation if you have the Lightning Reflexes feat.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Light Sensitivity
+### Light Sensitivity
 
 **Category:** Drawback
 
@@ -651,9 +663,9 @@ MP Value: 1.
 
 Drawbacks: Abrupt exposure to bright light (such as sunlight) blinds you for 1 round. On subsequent rounds, you take a 1 penalty on attack rolls, Search checks, and Spot checks as long as you remainin the affected area.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Lost Arm
+### Lost Arm
 
 **Category:** Drawback
 
@@ -667,9 +679,9 @@ Drawback: You lose one arm of your choice. You cannot effectively wield weapons 
 
 Special: You can replace your lost arm with a cybernetic replacement arm, assuming such technology is available and you can afford it.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Mindslave
+### Mindslave
 
 **Category:** Drawback
 
@@ -683,9 +695,9 @@ Drawback: You take a 2 penalty on all Will saves.
 
 Special: You cannot take this mutation if you have the Iron Will feat.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Neutrad Dependency
+### Neutrad Dependency
 
 **Category:** Drawback
 
@@ -701,9 +713,9 @@ deprivation cannot be restored through natural healing.
 
 Special: This drawback can be taken only in Progress Level 6 or higher campaigns (when neutrad is available).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Pheromone Attraction
+### Pheromone Attraction
 
 **Category:** Major
 
@@ -717,9 +729,9 @@ Benefits: You gain a +4 mutation bonus on all Bluff, Diplomacy, Handle Animal, a
 
 Special: You cannot take this mutation if you have the Pheromonal Repulsion drawback.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Pheromone Repulsion
+### Pheromone Repulsion
 
 **Category:** Drawback
 
@@ -733,9 +745,9 @@ Drawbacks: You take a 4 penalty on all Diplomacy and Handle Animal checks made a
 
 Special: You cannot take this drawback if you have the Pheromone Attraction mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Poisonous Blood
+### Poisonous Blood
 
 **Category:** Drawback
 
@@ -751,9 +763,9 @@ Taking a dose of antitox cures the ability damage caused by antitox deprivation 
 
 Special: This drawback can be taken only in Progress Level 6 or higher campaigns (when antitox is available).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Prehensile Tail
+### Prehensile Tail
 
 **Category:** Major
 
@@ -769,9 +781,9 @@ A creature can hang from its prehensile tail indefinitely by wrapping it around 
 
 Special: A creature that already has a tail cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Prickly Pear
+### Prickly Pear
 
 **Category:** Major
 
@@ -783,9 +795,9 @@ MP Cost: 4.
 
 Benefits: You deal 1d4 points of piercing damage to any creature you are grappling or any creature that grapples you. Furthermore, you deal 1d4 points of piercing damage per round to any creature that swallows you using the swallow whole ability.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Radioactive
+### Radioactive
 
 **Category:** Major
 
@@ -797,9 +809,9 @@ MP Cost: 5.
 
 Benefits: You are immune to mild, low, and moderate degrees of radiation exposure. In addition, your body acts as a radiation battery, storing the energy for later use. Once per day as a free action, you may release a 60-foot-radius burst of radiation centered on you. All creatures within the burst radius are exposed to a moderate degree of radiation (Fortitude DC 18, incubation period 3d6 hours, initial and secondary damage 1d61 Con).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Rapid Aging
+### Rapid Aging
 
 **Category:** Drawback
 
@@ -811,9 +823,9 @@ MP Value: 2.
 
 Drawback: Double your actual age to get your effective age. Your effective age determines your ability score penalties. You do not gain any of the benefits of aging (increased mental ability scores).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Reduced Speed
+### Reduced Speed
 
 **Category:** Drawback
 
@@ -827,9 +839,9 @@ Drawback: Reduce your speed by 5 feet. This speed decrease also applies to any n
 
 Special: You may take this drawback multiple times. Its effects stack.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Scaly Armor
+### Scaly Armor
 
 **Category:** Minor
 
@@ -843,9 +855,9 @@ Benefit: You gain a +2 natural armor bonus to Defense, or your existing natural 
 
 Special: A creature with fur, chitin, or the Exoskeleton mutation cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Scaly Skin
+### Scaly Skin
 
 **Category:** Cosmetic
 
@@ -859,9 +871,9 @@ Benefit: None.
 
 Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Scent
+### Scent
 
 **Category:** Minor
 
@@ -873,9 +885,9 @@ MP Cost: 2.
 
 Benefit: You gain the scent special ability.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Second Wind
+### Second Wind
 
 **Category:** Minor
 
@@ -887,9 +899,9 @@ MP Cost: 2.
 
 Benefit: Once per day, as a free action, you can heal yourself of a number of points of damage equal to your Constitution modifier (minimum 1).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Skeletal Reinforcement
+### Skeletal Reinforcement
 
 **Category:** Major
 
@@ -903,9 +915,9 @@ Benefits: Your massive damage threshold increases by +3. In addition, the damage
 
 Special: This mutation stacks with the Improved Damage Threshold feat. You cannot take this mutation if you have the Brittle Bones drawback.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Smokescreen
+### Smokescreen
 
 **Category:** Minor
 
@@ -919,9 +931,9 @@ Benefit: Once per day, as a free action, you can produce a 20-foot-radius cloud 
 
 This ability functions underwater. A moderate wind or current disperses the cloud in 4 rounds. A strong wind or current disperses the cloud in 1 round.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Stinger
+### Stinger
 
 **Category:** Major
 
@@ -935,9 +947,9 @@ Benefit: Your sharp stinger deals piercing damage dependent on your size: Small 
 
 Special: This mutation can be used in conjunction with the Tail mutation, but the tail cannot be used as a bludgeoning weapon during the same round the stinger is used.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Tail
+### Tail
 
 **Category:** Minor
 
@@ -951,9 +963,9 @@ Benefits: The tail provides a +2 mutation bonus on all Balance checks. In additi
 
 Special: A creature that already has a tail or the Prehensile Tail mutation cannot gain this mutation. This mutation can be used in conjunction with the Stinger mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Telekinetic Mind
+### Telekinetic Mind
 
 **Category:** Major
 
@@ -967,9 +979,9 @@ Benefit: As a move action, you can move an unattended object weighing up to 5 po
 
 This ability can be used at will.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Telepathy
+### Telepathy
 
 **Category:** Major
 
@@ -981,9 +993,9 @@ MP Cost: 5.
 
 Benefit: As a free action, you can forge a telepathic link with another living creature within 100 feet of you. The creature with which you form the link must have an Intelligence score of 6 or higher, and it must be a willing participant in the link. You can communicate telepathically through the link even if you do not share a common language, but no special control or influence is established as a result of the link. If you and the linked creature move more than 100 feet apart, the telepathic link severs instantly. You can telepathically link with only one creature at a time during any given round, but the ability can be used at will.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Tentacle
+### Tentacle
 
 **Category:** Major
 
@@ -997,9 +1009,9 @@ Benefits: The tentacle grants a +4 mutation bonus on grapple checks. It can also
 
 You can hang from your tentacle indefinitely by wrapping it around a larger object, thereby freeing up your other limbs. The tentacle isnt dexterous enough to fire ranged weapons, but it can be used to make a slam attack. The tentacles slam attack deals an amount of bludgeoning damage dependent on your size: Small 1d4, Medium-size 1d6, Large 1d8. If you get multiple attacks in a round, you can strike with the tentacle multiple times. The tentacle is treated as a natural weapon with a 10-foot reach, and attacks made with it do not provoke attacks of opportunity.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Thick Fur Coat
+### Thick Fur Coat
 
 **Category:** Minor
 
@@ -1013,9 +1025,9 @@ Benefits: You gain a +4 mutation bonus on Fortitude saves against extreme cold t
 
 Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Thin Fur Coat
+### Thin Fur Coat
 
 **Category:** Cosmetic
 
@@ -1029,9 +1041,9 @@ Benefit: None.
 
 Special: A creature with fur, scales, or chitin cannot gain this mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Thin Skin
+### Thin Skin
 
 **Category:** Drawback
 
@@ -1043,9 +1055,9 @@ MP Value: 5.
 
 Drawback: You take 1 additional point of damage each time you are wounded.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Ultra Immune System
+### Ultra Immune System
 
 **Category:** Minor
 
@@ -1057,9 +1069,9 @@ MP Cost: 2.
 
 Benefit: You gain Ultra Immune System as a bonus feat even if you dont meet the feats prerequisite. The bonus you gain on Fortitude saves against poisons, diseases, and radiation is treated as a mutation bonus.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Ultraviolet Allergy
+### Ultraviolet Allergy
 
 **Category:** Drawback
 
@@ -1073,9 +1085,9 @@ Drawback: Ultraviolet light (including direct sunlight) burns you for 2d6 points
 
 wearing to ignite.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Unnatural Eyes
+### Unnatural Eyes
 
 **Category:** Cosmetic
 
@@ -1087,9 +1099,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Unnatural Hair
+### Unnatural Hair
 
 **Category:** Cosmetic
 
@@ -1101,9 +1113,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Unnatural Skin
+### Unnatural Skin
 
 **Category:** Cosmetic
 
@@ -1115,9 +1127,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Unnatural Voice
+### Unnatural Voice
 
 **Category:** Cosmetic
 
@@ -1129,9 +1141,9 @@ MP Cost: 0.
 
 Benefit: None.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Venomous Bite
+### Venomous Bite
 
 **Category:** Major
 
@@ -1147,9 +1159,9 @@ modifier) to negate the effects (initial and secondary damage 1d4 Con).
 
 Special: You must have a natural bite attack to gain the benefit of this mutation. You cannot take this mutation if you have the Acidic Saliva mutation.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Vexing Voice
+### Vexing Voice
 
 **Category:** Major
 
@@ -1161,9 +1173,9 @@ MP Cost: 4.
 
 Benefit: Select any living creature within 30 feet of you as the target; the creature must be able to hear your voice to be affected. Upon hearing your voice, the creature must make a successful Will save (DC 10 + one-half your level + your Charisma modifier) or be dazed for 1 round. A successful save negates the effect. This ability is a mind-affecting compulsion usable three times per day. Using this ability is a free action.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Wall Crawler
+### Wall Crawler
 
 **Category:** Minor
 
@@ -1177,9 +1189,9 @@ Benefits: As long as your hands and feet are uncovered, you can climb perfectly 
 
 You also gain a +4 mutation bonus on Balance checks when moving a cross a slippery surface. Wearing any kind of footwear negates this bonus.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Weak Immune System
+### Weak Immune System
 
 **Category:** Drawback
 
@@ -1193,9 +1205,9 @@ Drawback: You take a 2 penalty on all Fortitude saves against poison, disease, a
 
 Special: You cannot take this drawback if you have the Ultra Immune System feat.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Webbed Digits
+### Webbed Digits
 
 **Category:** Minor
 
@@ -1207,9 +1219,9 @@ MP Cost: 1.
 
 Benefit: You gain a +4 mutation bonus on all Swim checks. Having webbed digits does not interfere with your ability to grasp or manipulate objects.
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## Wings
+### Wings
 
 **Category:** Major
 
@@ -1221,9 +1233,9 @@ MP Cost: 6.
 
 Benefit: Your wings grant a natural fly speed of 60 feet (average maneuverability).
 
----
+[Return to Table of Contents](#table-of-contents)
 
-## X-Ray Vision
+### X-Ray Vision
 
 **Category:** Major
 
@@ -1235,4 +1247,4 @@ MP Cost: 6.
 
 Benefit: X-ray vision allows you to see through 1 foot of brick or stone, 1 inch of metal or composite alloy, and up to 3 feet of wood, plaster, or dirt. Thicker substances or a thin sheet of lead blocks your vision. X-ray vision has a maximum range of 20 feet and allows you to see as if you were looking at something in normal light, even if there is no illumination.
 
----
+[Return to Table of Contents](#table-of-contents)

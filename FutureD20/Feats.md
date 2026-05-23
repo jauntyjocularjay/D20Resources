@@ -1,9 +1,11 @@
-[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Feats]()
-
 # Feats
+
+[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Feats](./feats.md)
 
 ## Table of Contents
 
+- [Feats](#feats)
+- [Table of Contents](#table-of-contents)
 - [Action Boost](#action-boost)
 - [Alien Weapons Proficiency](#alien-weapons-proficiency)
 - [Armor Proficiency (Powered)](#armor-proficiency-powered)
@@ -34,7 +36,22 @@
 - [Urban Tracking](#urban-tracking)
 - [Xenomedic](#xenomedic)
 - [Zero-G Training](#zero-g-training)
-- [Mecha Feats (separate page)](./mecha-feats.md)
+- [Mecha-Related Feats](#mecha-related-feats)
+  - [Essential Mecha Feats](#essential-mecha-feats)
+  - [Mecha Weapon Proficiency Notes](#mecha-weapon-proficiency-notes)
+  - [Advanced Mecha Operation](#advanced-mecha-operation)
+  - [Hair Trigger](#hair-trigger)
+  - [Mecha Crush](#mecha-crush)
+  - [Mecha Fling](#mecha-fling)
+  - [Mecha Operation](#mecha-operation)
+  - [Mecha Sweep](#mecha-sweep)
+  - [Mecha Trample](#mecha-trample)
+  - [Mecha Weapon Boost](#mecha-weapon-boost)
+  - [Mecha Weapon Proficiency](#mecha-weapon-proficiency)
+  - [Stun Mecha](#stun-mecha)
+  - [Thruster Blast](#thruster-blast)
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -43,6 +60,8 @@
 You have the ability to alter your luck drastically in dire circumstances.
 
 Benefit: When you spend an action point, you roll d8s instead of d6s for the action result.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -53,6 +72,8 @@ You are proficient with alien weapons.
 Benefit: You take no penalty on attack rolls when using any kind of alien weapon.
 
 Special: A creature without this feat takes a –4 nonproficient penalty when making attacks with an alien weapon.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -68,6 +89,8 @@ Normal: A character not proficient with powered armor adds only a portion of the
 
 Special: A Soldier may select this feat as one of his bonus feats.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Charismatic Plus
@@ -77,6 +100,8 @@ Advancements in science coupled with your drive to excel enable you to progress 
 Benefit: You gain two talents from the Charismatic hero’s talent trees. The talents must be selected from the following list, you cannot select more than one talent from a single talent tree, and you must meet all the prerequisites of a talent to select it. Favor, Captivate, Dazzle, Taunt, Inspiration, Greater Inspiration.
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -91,6 +116,8 @@ Benefits: You can build cybernetic attachments. You must first make a Wealth che
 If both Craft checks succeed, the cybernetic attachment functions properly and can be installed at any time (see the Cybernetic Surgery feat). If either or both checks fail, the attachment’s design is flawed; another 24 hours must be spent fixing the problems, and two new checks must be made at the end of that time.
 
 Special: This feat does not allow you to build a cybernetic attachment of a higher Progress Level.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -108,6 +135,8 @@ A character who undergoes cybernetic surgery (successful or not) is fatigued for
 
 Normal: Characters without this feat take a –8 penalty on Treat Injury checks made to perform cybernetic surgery (–4 penalty if they have the Surgery feat).
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Cybertaker
@@ -117,6 +146,8 @@ You can have more cybernetic attachments than normal without suffering ill effec
 Benefit: The maximum number of cybernetic attachments you can have without suffering negative levels increases by 1.
 
 Special: You can gain this feat multiple times. Its effects stack.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -128,6 +159,8 @@ Benefit: You gain two talents from the Dedicated hero’s talent trees. The tale
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Fast Plus
@@ -138,6 +171,8 @@ Benefit: You gain two talents from the Fast hero’s talent trees. The talents m
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Jack Of All Trades
@@ -147,6 +182,8 @@ You’ve picked up a smattering of even the most obscure skills.
 Prerequisite: Character level 8th+.
 
 Benefit: You can use any skill untrained, even those that normally require training and those that are exclusive to classes you don’t have. You cannot, however, gain ranks in a skill unless you are allowed to select it.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -165,13 +202,14 @@ In addition to the Wealth check, you must also pay a cost in experience points e
 Apply the following modifiers to the Craft check DC for mastercraft items:
 
 | Mastercraft Feature | DC Modifier |
-|---|---:|
+| --- | ---: |
 | Mastercraft (+1) | +3 |
 | Mastercraft (+2) | +5 |
 | Mastercraft (+3) | +10 |
 
 You can add the mastercraft feature to an existing ordinary object or a lower-grade mastercraft object by making a Wealth check and then making the Craft check as though you were constructing the object from scratch.
 
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -185,6 +223,8 @@ Benefit: You make an unarmed attack against a living creature. If the attack suc
 
 Special: This ability does not work on creatures without nervous systems or discernible anatomies, such as oozes and plants.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Oathbound
@@ -196,6 +236,8 @@ Prerequisites: At least one declared allegiance.
 Benefit: Choose one of your allegiances. The allegiance you select becomes your primary allegiance and cannot be broken, except by you. The strength of your allegiance enables you to better assist other beings who have the same allegiance; if your aid another attempt succeeds, your ally gains a +3 circumstance bonus (instead of +2) on his skill check result or attack roll. Your dedication also grants you a +1 bonus on attack rolls made against creatures that do not have this allegiance.
 
 Special: You cannot apply the benefits of this feat to multiple allegiances. If you break your oathbound allegiance, you forever lose the benefits of this feat but may take the feat again and apply the benefits to a new allegiance.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -221,6 +263,8 @@ Water World: You gain a +4 bonus on Swim checks and can hold your breath for a n
 
 Special: You may only take this feat at 1st level. You may select this feat more than once, however, if you get multiple feats at 1st level; each time you choose this feat, you gain a different benefit.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Salvage
@@ -232,7 +276,7 @@ Benefit: Salvaging a destroyed vehicle, mecha, starship, robot, or cybernetic at
 At the end of this time, make a Search check. If the check succeeds, you may increase your Wealth score by the amount indicated on the table, either by selling the salvaged parts for scrap or using them to offset the cost of future building projects.
 
 | Salvaged Machine | Time Required | Search Check DC | Wealth Increase |
-|---|---|---:|---:|
+| --- | --- | ---: | ---: |
 | **Vehicle** | | | |
 | Huge or smaller | 30 min. | 15 | +1 |
 | Gargantuan | 1 hr. | 20 | +2 |
@@ -255,6 +299,8 @@ At the end of this time, make a Search check. If the check succeeds, you may inc
 
 Special: A particular vehicle, mecha, starship, robot, or cybernetic attachment can be successfully salvaged only once. Any further attempts to salvage the wreckage fail automatically.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Smart Plus
@@ -265,6 +311,8 @@ Benefit: You gain two talents from the Smart hero’s talent trees. The talents 
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents. The exception is the savant talent, which you can select multiple times. However, each time you select the savant talent, you must choose a different skill (see the savant talent’s description).
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Spacer
@@ -272,6 +320,8 @@ Special: You may select this feat multiple times. Each time you select this feat
 You have a special affinity for spacecraft and space travel.
 
 Benefits: You gain a +2 bonus on Computer Use checks made to use onboard spacecraft computer systems, a +2 bonus on Navigate checks when plotting a course through space, and a +2 bonus on all Pilot checks made to fly a spacecraft.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -285,6 +335,8 @@ Benefit: When using an attack action with a starship ranged weapon, you can move
 
 Moving in this way does not provoke an attack of opportunity from the defender you are attacking (though it can provoke attacks of opportunity from other nearby starships, as normal).
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Starship Dodge
@@ -294,6 +346,8 @@ You are adept at dodging attacks while piloting starships.
 Prerequisite: Dexterity 13, Pilot 6 ranks, Starship Operation (of the appropriate type).
 
 Benefit: When piloting a starship of a type with which you are proficient (see the Starship Operation feat), you apply a +1 dodge bonus to your ship’s Defense against attacks from one enemy starship you designate during your action. You can select a new enemy ship on any action.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -307,6 +361,8 @@ Benefit: When piloting a ship with which you are proficient (see the Starship Op
 
 Normal: Feinting in starship combat requires an attack action.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Starship Gunnery
@@ -317,6 +373,8 @@ Benefit: You do not take a penalty on attack rolls when firing a starship weapon
 
 Normal: Without this feat, you take a –4 nonproficient penalty on attack rolls when firing a starship weapon.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Starship Mobility
@@ -326,6 +384,8 @@ You are adept at dodging attacks while piloting starships.
 Prerequisite: Dexterity 13, Starship Dodge.
 
 Benefit: When piloting a starship of a type with which you are proficient (see the Starship Operation feat), you apply a +4 dodge bonus to your ship’s Defense against attacks of opportunity caused when you move out of or within a starship’s threatened area. Any condition that makes you lose your Dexterity bonus to Defense also makes you lose your dodge bonuses. Dodge bonuses (such as this one and the dodge bonus granted by the Starship Dodge feat) stack with each other, unlike most types of bonuses.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -341,6 +401,8 @@ Normal: Without this feat, you take a –4 nonproficient penalty on Pilot checks
 
 Special: You can gain this feat multiple times. Each time you take the feat, it applies to a different type of starship (ultralight, light, mediumweight, heavy, or superheavy).
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Starship Strafe
@@ -353,6 +415,8 @@ Benefit: When using a starship’s ranged weapon on autofire, you can affect an 
 
 Normal: A starship weapon on autofire normally affects a 1,000-foot-by-1,000-foot area.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Strong Plus
@@ -362,6 +426,8 @@ Advancements in science coupled with your drive to excel enable you to progress 
 Benefit: You gain two talents from the Strong hero’s talent trees. The talents must be selected from the following list, you cannot select more than one talent from a single talent tree, and you must meet all the prerequisites of a talent to select it. Improved Extreme Effort, Advanced Extreme Effort, Improved Ignore Hardness, Advanced Ignore Hardness, Improved Melee Smash, Advanced Melee Smash.
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -373,6 +439,8 @@ Benefit: You gain two talents from the Tough hero’s talent trees. The talents 
 
 Special: You may select this feat multiple times. Each time you select this feat, you must choose a different pair of talents.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Ultra Immune System
@@ -382,6 +450,8 @@ You are less susceptible to the ravages of poison, disease, and radiation poison
 Prerequisite: Constitution 13.
 
 Benefits: You gain a +2 bonus on Fortitude saving throws to resist poisons, diseases, and radiation sickness. Furthermore, any permanent ability drain inflicted upon you is treated as temporary ability damage instead.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -394,7 +464,7 @@ Benefit: To find the trail of an individual or to follow it for 1 hour requires 
 The DC of the check, and the number of checks required to track down your quarry, depends on the community population and the conditions:
 
 | Population | DC | Checks Required |
-|---|---:|---|
+| --- | ---: | --- |
 | Fewer than 2,000 | 5 | 1d4 |
 | 2,000-9,999 | 10 | 1d4+1 |
 | 10,000-49,999 | 15 | 2d4 |
@@ -403,7 +473,7 @@ The DC of the check, and the number of checks required to track down your quarry
 | 500,000+ | 30 | 3d4+1 |
 
 | Condition | DC Modifier |
-|---|---:|
+| --- | ---: |
 | Every three creatures in the group being sought | -1 |
 | Every 24 hours the quarry has been missing or sought | +1 |
 | Tracked quarry "lies low" | +5 |
@@ -413,6 +483,8 @@ If you fail a Gather Information check, you can retry after 1 hour of questionin
 Normal: A character without this feat can use Gather Information to find out information about a particular individual, but each check takes 1d4+1 hours and doesn’t allow effective trailing.
 
 Special: You can cut the time per Gather Information check in half (to 30 minutes per check rather than 1 hour per check), but you suffer a –5 penalty on the check.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -428,6 +500,8 @@ Normal: Characters without this feat take a –8 penalty on Treat Injury checks 
 
 Special: This feat cannot be used to heal or repair nonliving or inorganic creatures such as constructs or undead.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Zero-G Training
@@ -440,8 +514,166 @@ Benefits: You take no penalty on attack rolls in low-gravity or zero-gravity env
 
 Normal: Without this feat, you take a –4 penalty on attack rolls while operating in zero-gravity environments, or a –2 penalty on attack rolls while operating in low-gravity environments. In addition, you are subject to the effects of Space Adaptation Syndrome, also known as space sickness.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Mecha Feats
+## Mecha-Related Feats
 
-[Mecha Feats (separate page)](./mecha-feats.md)
+Mecha operators can select feats that relate specifically to operating mecha. These feats are all considered bonus feats for the Mecha Jockey advanced class. Whenever the Mecha Jockey is allowed to select a bonus feat, she can choose one of these.
+
+### Essential Mecha Feats
+
+A character without the Mecha Operation feat and Mecha Weapon Proficiency feat suffers serious penalties while operating a mecha of any size. The penalties for not having these feats are summarized below:
+
+A character without this feat takes a –4 penalty on Balance, Climb, Drive, Escape Artist, Hide, Move Silently, Pilot, and Tumble checks when operating a mecha. Furthermore, the character cannot run or charge.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Weapon Proficiency Notes
+
+A character without this feat takes a –4 penalty on attack rolls made while operating a mecha. Furthermore, the character cannot apply the various firearm feats (such as Advanced Firearms Proficiency, Dead Aim, Double Tap, Shot on the Run, and Strafe) to a mecha’s ranged weapons.
+
+Mecha and Feats
+
+If you have the Mecha Weapon Proficiency feat, any feats that apply to firearms (such as Double Tap and Strafe) also apply to relevant ranged mecha weapons. Melee-oriented feats from the Brawl and Combat Martial Arts trees don’t apply if you’re operating a mecha, although a character with the Mecha Operation feat threatens all areas within reach of the mecha, and making a slam or other melee attack with a mecha doesn’t provoke an attack of opportunity.
+
+Feats from the Defense Martial Arts tree function normally for characters in mecha.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Advanced Mecha Operation
+
+You have received advanced training or extensive practice in mecha movement.
+
+Prerequisite: Mecha Operation.
+
+Benefit: Choose a size of mecha (Large, Huge, Gargantuan, or Colossal). When you are operating a mecha of the chosen size, you gain a +1 dodge bonus to Defense. Furthermore, armor penalties for operating the mecha are 2 less than they would otherwise be (minimum penalty –0).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Hair Trigger
+
+You have developed a delicate sense of timing, and your area attacks hit your foes when they’re ill-prepared to defend against them.
+
+Prerequisite: Base attack bonus +6.
+
+Benefit: Whenever you make an attack from your mecha that requires enemies to make Reflex saving throws, the DC for such saves is increased by +2.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Crush
+
+You can hurl your mecha’s body onto opponents to deal tremendous damage.
+
+Prerequisite: Mecha Operation.
+
+Benefit: As an attack action, you can maneuver your mecha to jump or fall onto opponents, using the mecha’s body to crush them. This attack is useful only against creatures at least two size categories smaller than your mecha. The base damage for a crush attack depends on your mecha’s size category, as given below. Add 1.5 times your mecha-modified Strength bonus to this base damage to determine the total damage for the attack.
+
+| Mecha Size | Damage |
+| --- | --- |
+| Large | 2d6 |
+| Huge | 2d8 |
+| Gargantuan | 4d6 |
+| Colossal | 4d8 |
+
+A crush attack deals bludgeoning damage and affects as many creatures as can fit under your mecha’s body. Each creature in the affected area must succeed on a Reflex save (DC 10 + your mecha’s size modifier for grapple attacks). On a failure, the creature is pinned and automatically takes crush damage each round the pin is maintained.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Fling
+
+You can pick up an opponent with your mecha and fling it.
+
+Prerequisite: Mecha Operation, at least one free hand slot.
+
+Benefit: Your mecha can make a grapple check at a –20 penalty against an opponent at least two size categories smaller than it. If the grapple succeeds, you can use an attack action to fling the held opponent on your next action. The range increment for the thrown foe is 10 feet, and the maximum range is 100 feet.
+
+A creature may be thrown horizontally or vertically. If thrown vertically, it takes normal falling damage. If thrown horizontally, it takes damage as though it had fallen half the distance thrown (rounded down), and you may apply your mecha-modified Strength bonus to the damage.
+
+Your mecha may also fling your opponent at another mecha, vehicle, or creature. To do so, make an attack roll at a –4 penalty, with appropriate range penalties, against the target. If you hit, both the thrown creature and the target take the amount of damage that the thrown creature would have otherwise taken, as given above.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Operation
+
+You know how to operate a mecha.
+
+Benefit: You do not suffer the restrictions on movement and penalties on skill checks for being unfamiliar with mecha controls. You can move normally in a mecha and generally perform any action as if you weren’t inside a mecha, subject to the obvious limitations of size. You threaten areas within your reach even if unarmed.
+
+Normal: Characters without this feat take a –4 penalty on Balance, Climb, Drive, Escape Artist, Hide, Move Silently, Pilot, and Tumble checks when operating a mecha. Furthermore, they cannot run or charge.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Sweep
+
+You can use your mecha to wield improvised weapons and attack several spaces at once.
+
+Prerequisite: Mecha Operation, Power Attack, two free hand slots.
+
+Benefit: You can use your mecha’s great size and strength, along with your own knowledge of balance and leverage, to pick up a heavy object (such as a large tree or boulder) and attack an area as an attack action. The area affected is a half-circle with a radius equal to your mecha’s reach. This attack deals damage to all creatures two or more size categories smaller than your mecha within the area. The base damage dealt depends on your mecha’s size, as given below. Add 1.5 times your mecha’s Strength bonus to this base damage to determine the total damage for the attack.
+
+| Mecha Size | Damage |
+| --- | --- |
+| Large | 1d6 |
+| Huge | 1d8 |
+| Gargantuan | 2d6 |
+| Colossal | 2d8 |
+
+Though it can deal significant damage, this form of attack is awkward and unbalancing. You take a –2 penalty to your mecha’s Defense and on Reflex saves until your next turn.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Trample
+
+Your mecha can knock down and crush opponents.
+
+Prerequisite: Mecha Operation, base attack bonus +4.
+
+Benefit: When you attempt to overrun an opponent while operating a mecha, the target may not choose to avoid your mecha. If your mecha knocks down the target, your mecha may make one free slam attack against the target, gaining a +4 bonus on the attack roll because the target is prone.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Weapon Boost
+
+By disabling safeguards and shunting auxiliary power into your weapons, you can attain greater destructive power at the cost of weapon accuracy.
+
+Prerequisite: Base attack bonus +8, Repair 6 ranks.
+
+Benefit: You can take a penalty of up to –5 on your attack roll. If you do, the mecha weapon of your choice deals +1d6 points of damage for each –1 penalty you took. The attack penalty persists until the beginning of your next turn, but the additional damage applies only to the next single attack you make.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Mecha Weapon Proficiency
+
+You know how to acquire targets and fire your mecha’s weapons using onboard computers and sensors.
+
+Prerequisite: Mecha Operation.
+
+Benefit: You no longer suffer the standard penalties on attack rolls while you’re in your mecha. You can use any feats that refer to firearms with your ranged mecha weapons.
+
+Normal: Characters without this feat take a –4 penalty on attack rolls made while in a mecha cockpit. Furthermore, they cannot apply firearm feats to a mecha’s ranged weapons.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Stun Mecha
+
+By channeling electricity into an enemy mecha’s control system, you can temporarily short it out.
+
+Prerequisite: Base attack bonus +8, Mecha Operation, Precise Shot.
+
+Benefit: If you threaten a critical hit with an electricity attack against another mecha, you may automatically confirm the critical. In addition to suffering the effects of the critical hit, the mecha is automatically stunned for 2d4 rounds. The stunned mecha automatically drops what it is holding and can take no attack or move actions. While the mecha is stunned, apply a –2 penalty to the mecha operator’s Defense (even though the operator is not stunned).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Thruster Blast
+
+By directing your vectored thrusters all around your mecha, you can kick up a cloud of dust and debris that obscures the battlefield.
+
+Prerequisite: Pilot 10 ranks, mecha flight system (either jetpack, thruster boots, or ramjet thruster boots).
+
+Benefit: You can aim your thruster exhaust toward the ground to create a hemispherical cloud. If you are within 30 feet of the ground and there is loose debris or dust, you can create a cloud with a 50-foot radius centered directly below you. The generated winds snuff out small fires and give guided missiles attacking you a –4 penalty on their attack rolls. Creatures without eye protection caught within the debris cloud are blinded while inside it and for 1 round after emerging from it. The debris cloud grants anyone inside it one-half concealment (20% miss chance). Mecha with sensor systems ignore the concealment effects.
+
+Because some mecha have vectored thrust systems, their flight path isn’t affected by the aim of the exhaust. They don’t have to hover or fly upward to create the cloud.
+
+[Return to Table of Contents](#table-of-contents)

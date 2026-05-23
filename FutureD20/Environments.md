@@ -1,16 +1,45 @@
 # Environments
 
-[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Environments](./Environments.md)
+[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Environments](./Environments.md)
 
 This section covers environments in the Future d20 SRD. Each entry links to a detailed page for specific environmental hazards and conditions.
 
 ## Table of Contents
 
+- [Environments](#environments)
+- [Table of Contents](#table-of-contents)
 - [Radiation Sickness](#radiation-sickness)
+  - [Table: Radiation Exposure](#table-radiation-exposure)
+  - [Table: Radiation Sickness](#table-radiation-sickness)
+  - [Treating Radiation Sickness](#treating-radiation-sickness)
 - [Gravity](#gravity)
+  - [Normal Gravity](#normal-gravity)
+  - [Low Gravity Environments](#low-gravity-environments)
+  - [High-Gravity Environments](#high-gravity-environments)
+  - [Zero-Gravity Environments](#zero-gravity-environments)
+  - [Weight vs. Mass](#weight-vs-mass)
 - [Atmospheric Conditions](#atmospheric-conditions)
+  - [Corrosive Atmosphere](#corrosive-atmosphere)
+  - [Thin Atmosphere](#thin-atmosphere)
+  - [Thick Atmosphere](#thick-atmosphere)
+  - [Toxic Atmosphere](#toxic-atmosphere)
+  - [Vacuum](#vacuum)
+  - [Decompression](#decompression)
+  - [Table: Decompression Times](#table-decompression-times)
 - [Star Systems](#star-systems)
+  - [Star Type](#star-type)
+    - [Table: Star Systems](#table-star-systems)
+    - [Hospitable Stars](#hospitable-stars)
+    - [Inhospitable Stars](#inhospitable-stars)
+    - [Black Holes](#black-holes)
+    - [Neutron Stars](#neutron-stars)
+    - [White Dwarf Stars](#white-dwarf-stars)
+    - [Black Dwarf Stars](#black-dwarf-stars)
+    - [Brown Dwarf Stars](#brown-dwarf-stars)
+    - [Red Supergiants](#red-supergiants)
 - [Stellar Hazards](#stellar-hazards)
+  - [Solar Flares](#solar-flares)
+  - [Cosmic Rays](#cosmic-rays)
 
 ---
 
@@ -25,7 +54,7 @@ To determine the degree of exposure, start with the type of exposure: either an 
 ### Table: Radiation Exposure
 
 | Situation | 1 round | 1 minute | 10 minutes | 1 hour | 1 day |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Character in irradiated area: | | | | | |
 | Lightly irradiated | mild | mild | mild | mild | low |
 | Moderately irradiated | mild | mild | low | low | moderate |
@@ -42,17 +71,20 @@ The degree of the exposure determines the severity of the radiation sickness, as
 ### Table: Radiation Sickness
 
 | Degree of Exposure | Fortitude Save DC | Incubation Period | Initial and Secondary Damage |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Mild | 12 | 1 day | 1d4−2 Con* |
 | Low | 15 | 4d6 hours | 1d6−2 Con* |
 | Moderate | 18 | 3d6 hours | 1d6−1 Con* |
 | High | 21 | 2d6 hours | 1d6 Con |
 | Severe | 24 | 1d6 hours | 2d6 Con |
-| * Minimum damage 0 Con. |
+
+- Minimum damage 0 Con.
 
 ### Treating Radiation Sickness
 
 Radiation sickness is considered a treatable disease that can be cured using the “treat disease” aspect of the Treat Injury skill. Treating radiation sickness requires a medical kit. Advanced medicine (such as neutrad) and advanced technology (including nanites and cybernetic implants) can also eliminate radiation sickness or obviate its harmful effects.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -95,6 +127,8 @@ Normal gravity equates to gravity on Earth. Environments with normal gravity imp
 
 While an object in zero gravity loses weight, it does not lose mass or momentum. Strength checks to lift/move objects in zero gravity gain a +20 bonus, but stopping moving objects does not.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Atmospheric Conditions
@@ -135,7 +169,7 @@ Atmospheric conditions can vary greatly from planet to planet. Not every planet 
 ### Table: Decompression Times
 
 | Breach Size | Decompression Time |
-|---|---|
+| --- | --- |
 | Fine (1-inch square) | 3 rounds per 10-ft³ |
 | Diminutive (3-inch square) | 3 rounds per 10-ft³ |
 | Tiny (6-inch square) | 2 rounds per 10-ft³ |
@@ -145,6 +179,8 @@ Atmospheric conditions can vary greatly from planet to planet. Not every planet 
 | Huge (10-foot square) | 1 round per 20-ft³ |
 | Gargantuan (15-foot square) | 1 round per 30-ft³ |
 | Colossal (20-foot square) | 1 round per 40-ft³ |
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -160,7 +196,7 @@ Stars are classified using a lettering system (O, B, A, F, G, K, M) based on mas
 #### Table: Star Systems
 
 | Star Classification | Degree of Ionizing Radiation | Number of Planets |
-|---|---|---|
+| --- | --- | --- |
 | Class O (blue-white) | Highly irradiated | 1d4+1 |
 | Class B (blue-white) | Moderately irradiated | 1d4+2 |
 | Class A (blue) | Moderately irradiated | 1d6+2 |
@@ -207,6 +243,8 @@ Stars are classified using a lettering system (O, B, A, F, G, K, M) based on mas
 
 - Expanding, hot, consume inner planets, outer planets inhospitable.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Stellar Hazards
@@ -218,11 +256,15 @@ Two types of stellar hazards create higher-than-normal levels of ionizing radiat
 - Release massive electromagnetic energy, UV, X-rays, protons, electrons.
 - Unprotected creatures: treated as severely irradiated (see Radiation Exposure table).
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Cosmic Rays
 
 - Unpredictable, subatomic particles at relativistic speeds.
 - Can penetrate miles of solid mass; in space, cause severe cell damage/mutation.
 - Unprotected creatures: treated as highly irradiated (see Radiation Exposure table).
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 

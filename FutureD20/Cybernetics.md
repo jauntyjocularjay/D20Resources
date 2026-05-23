@@ -1,9 +1,27 @@
 # Cybernetics
 
-[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./Cybernetics.md)
+[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./Cybernetics.md)
 
+## Table of Contents
+
+- [Cybernetics](#cybernetics)
+- [Table of Contents](#table-of-contents)
 - [Evolution of Cybernetics](#evolution-of-cybernetics)
+  - [Progress Level 5](#progress-level-5)
+  - [Progress Level 6](#progress-level-6)
+  - [Progress Level 7](#progress-level-7)
+  - [Progress Level 8](#progress-level-8)
 - [Cybernetic Attachments](#cybernetic-attachments)
+  - [Construction and Repair](#construction-and-repair)
+  - [Installation and Removal](#installation-and-removal)
+  - [Number of Attachments](#number-of-attachments)
+  - [Benefits and Drawbacks](#benefits-and-drawbacks)
+    - [Electricity Vulnerability](#electricity-vulnerability)
+    - [Negative Levels](#negative-levels)
+    - [Susceptibility to Attack](#susceptibility-to-attack)
+    - [Massive Damage Effects](#massive-damage-effects)
+  - [Table: Massive Damage Effects](#table-massive-damage-effects)
+  - [Table: Side Effects](#table-side-effects)
 - [Replacements](#replacements)
   - [PL-5 Basic Replacements](#pl-5-basic-replacements)
   - [PL-6 Upgraded Replacements](#pl-6-upgraded-replacements)
@@ -23,6 +41,8 @@ Cybernetics is still in its formative stage. Most prosthetic units are of the no
 
 Elective cybernetics begins at this stage with the work of university professor Kevin Warwick, who develops methods of linking computer microchips to the human nervous system. His "cyborg chip" becomes the foundation for all future cybernetic components.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Progress Level 6
 
 This era sees the first use of independently powered cybernetics, including servolimbs and subcutaneous cellular telephones. These begin mostly in military applications but soon become available to the public. Household pets all over the world are implanted with subcutaneous identity chips — as are important government figures and their families — after the technology proves safe and effective on prison inmates.
@@ -33,15 +53,23 @@ Medical plans eventually come to offer at least baseline prosthetics to compensa
 
 At this Progress Level, the first cybernetic regulation laws are passed — largely instigated by a few harshly publicized accidents involving cyborgs. These laws give rise to numerous black-market cybernetic clinics that install cybernetics without performing the required background checks.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Progress Level 7
 
 By this era, cybernetics has become a mostly safe science. Flaws in earlier designs have been corrected. Cybernetics becomes more of a status symbol, and luminous skin grafts become the fashion accessory of choice. In some societies, newborn children are implanted with identity chips as an anti-kidnapping measure. Military applications include replacement eyes with heads-up targeting and GPS displays.
 
 Insurance regulations relax considerably toward cybernetic replacements at Progress Level 7; enhancements are perfectly acceptable, though only as part of a prosthetic, rather than as elective cyber-surgery. Still, most cyborgs are members of military or law-enforcement organizations — or mercenaries.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Progress Level 8
 
 Cyborgs are a common sight. In some societies, medical insurance frowns on noncybernetic replacements, as mechanical body parts are less expensive than flesh. Cybernetic technology has improved so much, in fact, that some cyborgs are virtually indistinguishable from living beings — except that they never appear to age.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Cybernetic Attachments
 
@@ -57,11 +85,15 @@ Cybernetic attachments are complex instruments with both electrical and mechanic
 
 Repairing a damaged or nonfunctional cybernetic attachment requires 10 hours of work and a successful Repair check (DC 25). A character needs both an electrical tool kit and a mechanical tool kit to facilitate repairs. Without one or the other, a character takes a –4 penalty on the check; without both kits, the penalty increases to –8.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Installation and Removal
 
 Installing or removing a cybernetic attachment, regardless of whether it's a replacement or enhancement, requires a successful Treat Injury check. A character with the Cybernetic Surgery feat suffers no penalty on the check.
 
 Removing a cybernetic attachment without proper surgery causes lasting physical trauma to the patient's body, dealing 1d4 points of permanent Constitution drain.
+
+[Return to Table of Contents](#table-of-contents)
 
 ### Number of Attachments
 
@@ -70,6 +102,8 @@ Only living creatures can have cybernetic attachments. In addition, a living cre
 A creature may have more cybernetic attachments installed on its body than it can bear. However, the creature gains 1 negative level per cybernetic attachment that exceeds its maximum allowed. For each negative level, the creature takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die whenever level is used in a die roll or calculation. Further, a character with psionic powers loses the ability to manifest one power of the highest level she can manifest (player's choice), while a character with spellcasting ability loses the ability to cast one spell of the highest level he can cast. This loss persists until the negative level is removed.
 
 Negative levels caused by having too many cybernetic attachments remain until the offending attachments are removed.
+
+[Return to Table of Contents](#table-of-contents)
 
 ### Benefits and Drawbacks
 
@@ -91,6 +125,8 @@ External cybernetic attachments are subject to attacks as if they were objects w
 
 Massive damage wreaks havoc with cybernetic attachments. Whenever a creature with cybernetic attachments fails a Fortitude save against massive damage, the GM should roll percentile dice and consult Table: Massive Damage Effects to determine what happens.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Table: Massive Damage Effects
 
 | d% Roll | Effect of Failed Fortitude Save |
@@ -108,6 +144,8 @@ Massive damage wreaks havoc with cybernetic attachments. Whenever a creature wit
 
 **Side Effect:** The character suffers a debilitating side effect as the result of a damaged attachment. Various side effects are presented on Table: Side Effects.
 
+[Return to Table of Contents](#table-of-contents)
+
 ### Table: Side Effects
 
 | d% Roll | Side Effect |
@@ -124,6 +162,10 @@ Massive damage wreaks havoc with cybernetic attachments. Whenever a creature wit
 | 77–84 | **Power Surge:** Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates. |
 | 85–93 | **Psychosis:** Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0. |
 | 94–100 | **Sensory Overload:** Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates. |
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Replacements
 
@@ -149,6 +191,8 @@ An artificial organ fully replaces a defective or destroyed biological organ, su
 | Prosthetic Arm | The prosthetic arm duplicates the function of its biological counterpart. It provides no special game benefits. | External | 3/5 | DC 17 | None |
 | Prosthetic Leg | The prosthetic leg duplicates the function of its biological counterpart. It provides no special game benefits. | External | 3/7 | DC 17 | None |
 
+[Return to Table of Contents](#table-of-contents)
+
 ### PL-6 Upgraded Replacements
 
 | Attachment | Benefit | Type | Hardness/Hit Points | Base Purchase | Restriction |
@@ -157,6 +201,8 @@ An artificial organ fully replaces a defective or destroyed biological organ, su
 | Prosthetic Arm Upgrade | The prosthetic arm upgrade duplicates the function of its biological counterpart but has a greater hardness and more hit points than the basic PL 5 prosthesis. | External | 5/10 | DC 19 | None |
 | Prosthetic Leg Upgrade | The prosthetic leg upgrade duplicates the function of its biological counterpart but has a greater hardness and more hit points than the basic PL 5 prosthesis. | External | 5/15 | DC 19 | None |
 
+[Return to Table of Contents](#table-of-contents)
+
 ### PL-7 Advanced Replacements
 
 | Attachment | Benefit | Type | Hardness/Hit Points | Base Purchase | Restriction |
@@ -164,6 +210,10 @@ An artificial organ fully replaces a defective or destroyed biological organ, su
 | Advanced Artificial Organ | The advanced artificial organ duplicates the function of its biological counterpart and cannot be disabled if the recipient takes massive damage (see Massive Damage Effects). In addition, the advanced organ does not count toward the total number of cybernetic attachments the recipient can have before taking negative levels (see Number of Attachments). | Internal | —/4 | DC 24 | None |
 | Advanced Prosthetic Arm | The advanced prosthesis duplicates the function of its biological counterpart. In addition, this advanced prosthesis does not count toward the total number of cybernetic attachments the recipient can have before taking negative levels (see Number of Attachments). | External | 5/10 | DC 22 | None |
 | Advanced Prosthetic Leg | The advanced prosthesis duplicates the function of its biological counterpart. In addition, this advanced prosthesis does not count toward the total number of cybernetic attachments the recipient can have before taking negative levels (see Number of Attachments). | External | 5/15 | DC 22 | None |
+
+[Return to Table of Contents](#table-of-contents)
+
+---
 
 ## Enhancements
 
@@ -184,6 +234,8 @@ Cybernetic enhancements are available starting at Progress Level 6. Unlike stand
 | Subcutaneous Cell Phone | Enables whispered conversations; Listen checks to hear the recipient take a -4 penalty. | Internal | —/2 | DC 16 | None |
 | Telescopic Optics | Reduces Spot range penalty to -1 per 30 feet (instead of -1 per 10 feet). | Internal | —/2 (per eye) | DC 15 | None |
 | Voice Stress Analyzer | Grants a +4 equipment bonus on all Sense Motive checks. | Internal | —/4 | DC 17 | None |
+
+[Return to Table of Contents](#table-of-contents)
 
 ### PL 7 Enhancements
 
@@ -206,6 +258,8 @@ Cybernetic enhancements are available starting at Progress Level 6. Unlike stand
 | Skill Plexus | Allows up to four skill implants to function as a single cybernetic attachment. If destroyed, all attached skill implants are destroyed as well. | Internal | —/4 | DC 25 (does not include skill implants) | None |
 | Targeting Optics | Grants a +1 bonus on all attack rolls made with ranged weapons. | Internal | —/2 (per eye) | DC 17 | Military (+3) |
 
+[Return to Table of Contents](#table-of-contents)
+
 ### PL 8 Enhancements
 
 | Enhancement | Benefit | Type | Hardness/Hit Points | Base Purchase | Restriction |
@@ -213,3 +267,5 @@ Cybernetic enhancements are available starting at Progress Level 6. Unlike stand
 | Feat Plexus | Allows up to four feat implants to function as a single cybernetic attachment. If the feat plexus is destroyed, all attached feat implants are destroyed as well. | Internal | —/4 | DC 25 (does not include feat implants) | Military (+3) |
 | Invisiware | Bend light to become invisible: +40 bonus on Hide checks if immobile, +20 if moving. Grants 50% concealment against attackers who pinpoint the fighting space. Active for up to 10 rounds before requiring 1 hour of recharge. | External | 4/20 | DC 35 | Military (+3) |
 | Psi Implant | The recipient gains the Wild Talent feat. | Internal | —/2 | DC 31 | Military (+3) |
+
+[Return to Table of Contents](#table-of-contents)

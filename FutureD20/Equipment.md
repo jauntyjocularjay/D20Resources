@@ -12,52 +12,40 @@ Some gadgets have additional restrictions placed on them that must be considered
 
 ## Table of Contents
 
-[D20 Resources](../../readme.md) >
-[Future d20 SRD](../readme.md) >
-[Equipment](./Equipment.md)
-
-### Universal Weapon Gadgets
-
-The following gadgets are universal and can apply to weapons found in any era, provided all gadget-specific restrictions are observed.
-
-- [Alternate Weapon](./#alternate-weapon)
+- [The Gadget System](#the-gadget-system)
+- [Table of Contents](#table-of-contents)
+- [Alternate Weapon](#alternate-weapon)
 - [Autofire Module](#autofire-module)
 - [Autoloader Module](#autoloader-module)
 - [Booby Trapped](#booby-trapped)
 - [Collapsible](#collapsible)
-- [Compact](#compact)
+- [Compact (Weapon)](#compact-weapon)
 - [Expanded Magazine](#expanded-magazine)
 - [Genetic Tags](#genetic-tags)
-- [Integrated Equipment](#integrated-equipment)
-- [Miniaturized](#miniaturized)
+- [Integrated Equipment (Weapon)](#integrated-equipment-weapon)
+- [Miniaturized (Weapon)](#miniaturized-weapon)
 - [Scope, Rangefinding Laser](#scope-rangefinding-laser)
-- [Sensor, Baffling](#sensor-baffling)
+- [Sensor Baffling](#sensor-baffling)
 - [Spring-Loaded](#spring-loaded)
 - [Stun Module](#stun-module)
-- [Techno-Organic Makeup](#techno-organic-makeup)
+- [Techno-Organic Makeup (Weapon)](#techno-organic-makeup-weapon)
 - [Variable Ammunition](#variable-ammunition)
 - [Variable Charge](#variable-charge)
 - [Voice Recognition System](#voice-recognition-system)
-
-### Universal Armor Gadgets
-
-The following gadgets are universal and can apply to armors found in any era, provided all gadget-specific restrictions are observed.
-
 - [Environment Seal](#environment-seal)
-- [Integrated Equipment](#integrated-equipment-1)
+- [Integrated Equipment (Armor)](#integrated-equipment-armor)
 - [Integrated Weapon](#integrated-weapon)
-- [Storage Compartment](#storage-compartment)
-- [Techno-Organic Makeup](#techno-organic-makeup-1)
+- [Storage Compartment (Armor)](#storage-compartment-armor)
+- [Techno-Organic Makeup (Armor)](#techno-organic-makeup-armor)
 - [Ultralight Composition](#ultralight-composition)
-
-### Universal Equipment Gadgets
-
-- [Compact](#compact-1)
-- [Miniaturized](#miniaturized-1)
+- [Compact (Equipment)](#compact-equipment)
+- [Miniaturized (Equipment)](#miniaturized-equipment)
 - [Multiple Use Item](#multiple-use-item)
 - [Paint-On LCD](#paint-on-lcd)
 - [Satellite Datalink](#satellite-datalink)
-- [Storage Compartment](#storage-compartment-1)
+- [Storage Compartment (Equipment)](#storage-compartment-equipment)
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -68,6 +56,8 @@ Some weapons are capable of serving multiple purposes by integrating two types o
 Restrictions: The character must also purchase the weapon to be integrated separately from the primary weapon, before the gadget modification is made.
 Purchase DC Modifier: +4
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Autofire Module
@@ -77,6 +67,8 @@ Some firearms and energy weapons are capable of firing in singleshot or semiauto
 Restrictions: Ranged weapon without autofire only.
 Purchase DC Modifier: +2
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Autoloader Module
@@ -85,6 +77,8 @@ Many weapons rely on box magazines or power packs to function. The autoloader ga
 
 Restrictions: Ranged weapons using box magazines or power packs only.
 Purchase DC Modifier: +3
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -103,6 +97,8 @@ Trigger Integrated Weapon: An integrated weapon is triggered and targets the una
 Restrictions: None.
 Purchase DC Modifier: +6
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Collapsible
@@ -112,9 +108,11 @@ In situations that call for stealth and deception, it is of great value to be ab
 Restrictions: None.
 Purchase DC Modifier: +2
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Compact
+## Compact (Weapon)
 
 By eliminating wasted space and using smaller components, some engineers are capable of producing weapons far smaller than their standard counterparts. Any weapon that makes use of the compact gadget is one size smaller than normal, to a minimum size of Diminutive.
 
@@ -122,6 +120,8 @@ This gadget can only be added to ranged weapons, as most melee weapons rely on s
 
 Restrictions: Ranged weapons only.
 Purchase DC Modifier: +2
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -132,6 +132,8 @@ Some weapon engineers recognize that stopping to reload a weapon in combat is a 
 Restrictions: Ranged weapons only.
 Purchase DC Modifier: +2
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Genetic Tags
@@ -141,9 +143,11 @@ Some law enforcement agencies and military units go out of their way to track th
 Restrictions: Ranged ballistic weapons only.
 Purchase DC Modifier: +2
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Integrated Equipment
+## Integrated Equipment (Weapon)
 
 A particular piece of nonweapon equipment has been integrated into the weapon and can be used by the weapon’s bearer at any time. This gadget is often used to give ranged weapons features like glow-lamps or flares, though it is not limited to those applications. Some weapons may use the integrated equipment gadget to incorporate a small computer or sensor module, reducing the amount of equipment the character has to carry.
 
@@ -152,9 +156,11 @@ When selecting the integrated equipment gadget, choose a piece of equipment. Tha
 Restrictions: The character must also purchase the piece of equipment to be integrated separately from the weapon, before the gadget modification is made.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Miniaturized
+## Miniaturized (Weapon)
 
 By eliminating wasted space and using microscopic components, some engineers are capable of producing weapons vastly smaller than normal. Any weapon that makes use of the miniaturized gadget is two size categories smaller than normal, to a minimum size of Diminutive.
 
@@ -164,6 +170,8 @@ This gadget can only be added to ranged weapons, as most melee weapons rely on s
 
 Restrictions: Ranged weapons only.
 Purchase DC Modifier: +5
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -176,6 +184,8 @@ Additionally, the scope also sends out an invisible laser that can determine the
 Restrictions: Ranged weapons only.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Sensor Baffling
@@ -184,6 +194,8 @@ From simple metal detectors to advanced x-ray scanners, there’s a way to detec
 
 Restrictions: None.
 Purchase DC Modifier: +2
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -194,6 +206,8 @@ Some weapons are designed to be concealed from sight and then quickly drawn into
 Restrictions: Weapons of size Small or smaller only.
 Purchase DC Modifier: +2
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Stun Module
@@ -203,9 +217,11 @@ One advantage of energy weapons over their ballistic and physical counterparts i
 Restrictions: Energy weapons only.
 Purchase DC Modifier: +2 (Fort DC 12); +4 (Fort DC 15); +6 (Fort DC 18)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Techno-Organic Makeup
+## Techno-Organic Makeup (Weapon)
 
 Though the technology of Earth is based on electronics and mechanics, some alien cultures may have developed technology based on living organisms working in harmony for an intended purpose. Additionally, advanced civilizations may make use of certain biological forms of technology integrated with their own mechanical devices to form a techno-organic hybrid capable of performing certain tasks with increased efficiency.
 
@@ -213,6 +229,8 @@ A weapon with the techno-organic makeup gadget is composed of living tissue or a
 
 Restrictions: None.
 Purchase DC Modifier: +2
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -225,6 +243,8 @@ This gadget may be selected multiple times, each time adding a single additional
 Restrictions: Ranged ballistic weapons only.
 Purchase DC Modifier: +4
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Variable Charge
@@ -234,6 +254,8 @@ As with the stun module gadget, the variable charge gadget takes advantage of an
 Restrictions: Ranged energy weapons only.
 Purchase DC Modifier: +6
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Voice Recognition System
@@ -242,6 +264,8 @@ A countermeasure commonly built into weapons is the voice recognition system gad
 
 Restrictions: None.
 Purchase DC Modifier: +1
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -254,10 +278,11 @@ The environment seal gadget transforms any armor into a stable and insulated art
 Restrictions: Medium, heavy, or powered armor only.
 Purchase DC Modifier: +4.
 
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
-## Integrated Equipment
+## Integrated Equipment (Armor)
 
 A particular piece of nonweapon equipment has been integrated into the armor and can be used by the armor’s wearer at any time. This gadget is often used to add features such as glow-lamps or duracable to armor, though it is not limited to those applications. Indeed, some armors are intended to make their wearers into independent one-person armies, and sport a dozen or more such equipment integrations.
 
@@ -265,6 +290,8 @@ When selecting the integrated equipment gadget, choose a piece of equipment. Tha
 
 Restrictions: The character must also purchase the piece of equipment to be integrated separately from the armor, before the gadget modification is made.
 Purchase DC Modifier: +2.
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -277,18 +304,24 @@ When selecting the integrated weapon gadget, choose a single weapon. That weapon
 Restrictions: The character must also purchase the weapon to be integrated separately from the base armor, before the gadget modification is made.
 Purchase DC Modifier: See text.
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Storage Compartment
+## Storage Compartment (Armor)
 
 A simple but often overlooked modification that can be of great benefit in almost any situation is the ability to store and carry small items in a safe place. The storage compartment gadget accomplishes just that, incorporating an empty space where other objects can be carried by the wearer with relative ease. Each storage compartment gadget allows the wearer to carry two items of size Small or smaller in a container built into the armor. This gadget may be taken multiple times, each time providing another compartment where small items may be carried.
 
 Restrictions: None.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Techno-Organic Makeup
+## Techno-Organic Makeup (Armor)
 
 Though the technology of Earth is based on electronics and mechanics, some alien cultures may have developed technology based on living organisms working in harmony for an intended purpose. Additionally, advanced civilizations may make use of certain biological forms of technology integrated with their own mechanical devices to form a techno-organic hybrid capable of performing certain tasks with increased efficiency.
 
@@ -296,6 +329,8 @@ An armor with the techno-organic makeup gadget is composed of living tissue or a
 
 Restrictions: None.
 Purchase DC Modifier: +4
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -306,23 +341,29 @@ The development of new and experimental alloys constantly allows armor technolog
 Restrictions: None.
 Purchase DC Modifier: +4
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Compact
+## Compact (Equipment)
 
 By eliminating wasted space and using smaller components, some engineers are capable of producing equipment far smaller than its standard counterparts. Any piece of equipment that makes use of the compact gadget is one size smaller than normal, to a minimum size of Diminutive.
 
 Restrictions: None.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Miniaturized
+## Miniaturized (Equipment)
 
 By eliminating wasted space and using microscopic components, some engineers are capable of producing equipment vastly smaller than normal. Any weapon that makes use of the miniaturized gadget is two size categories smaller than normal, to a minimum size of Diminutive.
 
 Restrictions: None.
 Purchase DC Modifier: +3
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -337,6 +378,8 @@ Additionally, you must choose whether or not the alternate object may be physica
 Restrictions: The character must also purchase the piece of equipment to be integrated separately from the armor, before the gadget modification is made.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Paint-On LCD
@@ -348,6 +391,8 @@ Any piece of equipment with the paint-on LCD gadget can be used as a display for
 Restrictions: None.
 Purchase DC Modifier: +4
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Satellite Datalink
@@ -357,11 +402,15 @@ At the dawn of the Information Age, the value of knowledge and accurate intellig
 Restrictions: This gadget may only be used with gear containing computerized communications equipment.
 Purchase DC Modifier: +1
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-## Storage Compartment
+## Storage Compartment (Equipment)
 
 Like the gadget used for armor, the ability to store and carry small items in a safe place can sometimes be of critical importance. The storage compartment gadget accomplishes just that, incorporating an empty space where other objects can be carried with relative ease. Each storage compartment gadget allows the wearer to carry two items of size Small or smaller in a container built into the piece of equipment. This gadget may be taken multiple times, each time providing another compartment where small items may be carried.
 
 Restrictions: None.
 Purchase DC Modifier: +1
+
+[Return to Table of Contents](#table-of-contents)

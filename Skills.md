@@ -6,8 +6,9 @@ Skills are presented in alphabetical order, in the following format. Entries tha
 
 Skill Description Format
 
-Skill Name (Key Ability) Trained Only; 
-armor penalty
+- Skill Name Header
+- Key Ability _Trained Only_
+- armor penalty
 
 **The skill name line and the line beneath it include the following information:**
 
@@ -15,9 +16,7 @@ armor penalty
 
 **Trained Only:** If 'Trained Only' appears on the line beneath the skill name, a character must have at least 1 rank in the skill to use it. If 'Trained Only' is omitted, the skill can be used untrained. If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).
 
-**
-armor penalty:** If '
-armor penalty' appears on the line beneath the skill name, apply the 
+**armor penalty:** If 'armor penalty' appears on the line beneath the skill name, apply the
 armor penalty for the armor the character is wearing to checks involving this skill.
 
 **Check:** What a character can do with a successful skill check, and the check's DC.
@@ -30,6 +29,29 @@ armor penalty for the armor the character is wearing to checks involving this sk
 
 **Time:** How much time it takes to make a check with this skill.
 
+## Table of Contents
+
+- [Skills](#skills)
+- [Skill Basics](#skill-basics)
+  - [Getting Skills](#getting-skills)
+  - [Using Skills](#using-skills)
+  - [Acquiring Skill Ranks](#acquiring-skill-ranks)
+  - [Skill Points per Level](#skill-points-per-level)
+  - [Skill Checks](#skill-checks)
+  - [Difficulty Class](#difficulty-class)
+  - [Opposed Checks](#opposed-checks)
+  - [Trying Again](#trying-again)
+  - [Untrained Skill Checks](#untrained-skill-checks)
+  - [Favorable and Unfavorable Conditions](#favorable-and-unfavorable-conditions)
+  - [Time and Skill Checks](#time-and-skill-checks)
+  - [Tools](#tools)
+  - [Checks without Rolls](#checks-without-rolls)
+    - [Taking 10](#taking-10)
+    - [Taking 20](#taking-20)
+  - [Aiding Another](#aiding-another)
+  - [Skill Synergy](#skill-synergy)
+  - [Ability Checks](#ability-checks)
+  - [Modifier Types and Stacking](#modifier-types-and-stacking)
 - [Balance](#balance)
 - [Bluff](#bluff)
 - [Climb](#climb)
@@ -81,11 +103,240 @@ armor penalty for the armor the character is wearing to checks involving this sk
 
 ---
 
+## Skill Basics
+
+### Getting Skills
+
+At each level, a character gains skill points based on class and Intelligence modifier.
+
+- Class skill: 1 rank per skill point.
+- Cross-class skill: 1/2 rank per skill point.
+- Max class-skill rank: character level + 3.
+- Max cross-class rank: one-half the class-skill maximum.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Using Skills
+
+Skill check formula:
+
+1d20 + skill modifier
+
+Skill modifier formula:
+
+skill ranks + key ability modifier + miscellaneous modifiers
+
+- Skill ranks: Training invested in the skill.
+- Key ability modifier: Ability tied to that skill.
+- Miscellaneous modifiers: Feats, class features, armor/nonproficiency penalties, and situational effects.
+
+Some skills can be used untrained; others require training.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Acquiring Skill Ranks
+
+Ranks represent practice and training in a skill.
+
+- Typical range: 0 ranks up to the level-based maximum.
+- A 20th-level character can reach very high ranks in class skills.
+- The GM can limit what can be learned in specific campaign circumstances.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Skill Points per Level
+
+| Class | 1st Level Skill Points | Higher Level Skill Points |
+| --- | --- | --- |
+| Strong | (3 + Int modifier) x 4 | 3 + Int modifier |
+| Fast | (5 + Int modifier) x 4 | 5 + Int modifier |
+| Tough | (3 + Int modifier) x 4 | 3 + Int modifier |
+| Smart | (9 + Int modifier) x 4 | 9 + Int modifier |
+| Dedicated | (5 + Int modifier) x 4 | 5 + Int modifier |
+| Charismatic | (7 + Int modifier) x 4 | 7 + Int modifier |
+
+[Return to Table of Contents](#table-of-contents)
+
+### Skill Checks
+
+Natural 20 is not an automatic success for skill checks.
+Natural 1 is not an automatic failure for skill checks.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Difficulty Class
+
+A skill check often targets a Difficulty Class (DC) set by the GM.
+
+| Difficulty (DC) | Example |
+| --- | --- |
+| Very easy (0) | Notice something obvious and large |
+| Easy (5) | Climb a knotted rope |
+| Average (10) | Hear an approaching guard |
+| Tough (15) | Disarm an explosive |
+| Challenging (20) | Swim against a strong current |
+| Formidable (25) | Break into a secure computer system |
+| Heroic (30) | Leap a very wide chasm |
+| Superheroic (35) | Convince skeptical guards with little evidence |
+| Nearly impossible (40) | Track an expert target through severe conditions |
+
+[Return to Table of Contents](#table-of-contents)
+
+### Opposed Checks
+
+Some checks are opposed by another check result.
+
+- Example: Hide vs Spot.
+- On a tie: higher key ability score wins.
+- If still tied: roll again.
+
+Example opposed tasks:
+
+| Task | Skill | Opposing Skill |
+| --- | --- | --- |
+| Sneak up on someone | Move Silently | Listen |
+| Con someone | Bluff | Sense Motive |
+| Hide from someone | Hide | Spot |
+| Win a vehicle race | Drive | Drive |
+| Impersonate someone | Disguise | Spot |
+| Pickpocket | Sleight of Hand | Spot |
+| Forge identity documents | Forgery | Forgery |
+
+[Return to Table of Contents](#table-of-contents)
+
+### Trying Again
+
+Whether retry is allowed depends on each skill's description.
+
+- Some skills can be retried freely.
+- Some have consequences that limit retries.
+- If failure has no penalty, taking 20 is usually possible.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Untrained Skill Checks
+
+If you have 0 ranks, you can still attempt many skills.
+
+- Use normal check process.
+- You do not add skill ranks.
+- You still add ability and other applicable modifiers.
+- Some skills require training and cannot be used untrained.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Favorable and Unfavorable Conditions
+
+The GM can represent circumstances by adjusting modifiers or DCs:
+
+1. Give +2 circumstance bonus for helpful conditions.
+2. Give -2 circumstance penalty for hindering conditions.
+3. Reduce DC by 2 if the task is easier than normal.
+4. Increase DC by 2 if the task is harder than normal.
+
+Modifier changes and DC changes can yield similar math, but represent different fiction and constraints.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Time and Skill Checks
+
+Skill use can take no time, one action, multiple rounds, or longer depending on the skill.
+
+Using concentration-heavy skills in close combat can provoke attacks of opportunity.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Tools
+
+Some uses require tools.
+
+- Missing required tools: usually -4 penalty.
+- Improvised tools (if GM allows): often reduce penalty to -2.
+- Building improvised tools may take minutes to hours and can require checks.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Checks without Rolls
+
+When pressure and randomness are low, characters may use static outcomes.
+
+#### Taking 10
+
+If not threatened or distracted, a character can treat the d20 roll as 10.
+
+- Useful for routine tasks.
+- Usually not allowed when threatened/distracted.
+- Usually not allowed untrained (GM may allow exceptions for routine cases).
+
+#### Taking 20
+
+If there is enough time, no threats/distractions, and no penalty for failure, a character can treat the roll as 20.
+
+- Represents repeated attempts until success.
+- Takes 20x normal time.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Aiding Another
+
+Characters can cooperate on one character's attempt.
+
+- Helper makes DC 10 check.
+- Success grants +2 circumstance bonus to the leader.
+- This is an attack action.
+- You cannot take 10 on aid another.
+- GM can cap number of helpers based on situation.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Skill Synergy
+
+If a character has at least 5 ranks in a related skill, the GM may grant a +2 synergy bonus on certain checks where the skills logically complement each other.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Ability Checks
+
+If no skill applies, make an ability check:
+
+1d20 + relevant ability modifier
+
+The GM sets a DC or opposed check.
+
+Example ability checks:
+
+| Example Ability Check | Key Ability |
+| --- | --- |
+| Force open a stuck door | Strength |
+| Tie a rope | Dexterity |
+| Hold breath | Constitution |
+| Solve a maze | Intelligence |
+| Recognize someone seen before | Wisdom |
+| Get noticed in a crowd | Charisma |
+
+[Return to Table of Contents](#table-of-contents)
+
+### Modifier Types and Stacking
+
+Bonuses with the same specific type usually do not stack; use the best one.
+
+- Common exceptions that do stack: dodge bonuses, synergy bonuses, and some circumstance bonuses.
+- Circumstance bonuses stack only if they come from different circumstances.
+- Penalties generally stack.
+- Untyped bonuses stack with other bonuses.
+
+Common non-stacking bonus types include competence, cover, equipment, morale, natural armor, and size.
+Campaigns with supernatural effects may also include other non-stacking types such as deflection, enhancement, insight, luck, resistance, and sacred/profane.
+
+[Return to Table of Contents](#table-of-contents)
+
+---
+
 ## Balance
 
-**base:** dex
+**key ability:** dex
 
-armor penalty
+[armor penalty]
 
 **Check:** The character can walk on a precarious surface. A successful check lets the character move at half speed along the surface as a move action. Failure means the character spends the move action keeping balance and does not move. Failure by 5 or more means the character falls.
 
@@ -107,15 +358,15 @@ armor penalty
 
 **Time:** Balancing while moving half speed is a move action. Accelerated movement (full speed) is also a move action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Bluff
 
-**base:** cha
+**key ability:** cha
 
-You can use the Bluff skill to feint in starship combat.
+_You can use the Bluff skill to feint in starship combat._
 
 **Check:** With a successful Bluff check, you mislead another starship so that it can’t dodge your attack effectively. This check is opposed by the target pilot’s Sense Motive check. If you succeed, the next attack your starship makes against the target ignores its pilot’s Dexterity bonus to Defense (if it has one), thus lowering the target’s Defense score.
 
@@ -125,15 +376,15 @@ Using Bluff as a feint in starship combat is an attack action.
 
 **Special:** If you have the Starship Feint feat, you gain a +2 bonus on Bluff checks when using the skill to feint in starship combat.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Climb
 
-**base:** str
+**key ability:** str
 
-armor penalty
+[armor penalty]
 
 **Check:** With each successful Climb check, the character can advance up, down, or across a slope, wall, or other steep incline (or even a ceiling with handholds). A slope is any incline less than 60 degrees; a wall is 60 degrees or steeper. A failed check means no progress; failure by 5 or more means the character falls from whatever height already attained (unless secured by a harness).
 
@@ -168,13 +419,13 @@ Since the character can't move to avoid an attack, the character is flat-footed 
 
 **Time:** Climbing at half speed is a full-round action. Moving one-quarter speed is a move action. Accelerated climbing at full speed is a full-round action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Concentration
 
-**base:** con
+**key ability:** con
 
 **Check:** A character makes a Concentration check whenever potentially distracted while engaged in some action requiring full attention. If the check succeeds, the character may continue with the action. If it fails, the action automatically fails and the action is wasted.
 
@@ -198,13 +449,13 @@ A character with the Focused feat gets a +2 bonus on all Concentration checks.
 
 **Time:** Making a Concentration check doesn't require an action; it is either a reaction (when attempted in response to a distraction) or part of another action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft
 
-**base:** int
+**key ability:** int
 
 This skill encompasses several categories, each treated as a separate skill: Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual art), and Craft (writing).
 
@@ -214,13 +465,13 @@ To use Craft, first decide what the character is trying to make and consult the 
 
 Generally, a character can take 10 when using a Craft skill to construct an object, but can't take 20 (since doing so represents multiple attempts, and raw materials are used up after the first attempt). The exception is Craft (writing); a character can take 20 because no raw materials are used up.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Chemical)
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -282,13 +533,13 @@ This skill allows a character to mix chemicals to create acids, bases, explosive
 
 **Special:** A character without a chemical kit takes a –4 penalty on Craft (chemical) checks. A character with the Builder feat gets a +2 bonus on all Craft (chemical) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Electronic)
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -303,13 +554,13 @@ This skill allows a character to build electronic equipment from scratch, such a
 
 **Special:** A character without an electrical tool kit takes a –4 penalty on Craft (electronic) checks. A character with the Builder feat gets a +2 bonus on all Craft (electronic) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Mechanical)
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -324,13 +575,13 @@ This skill allows a character to build mechanical devices from scratch, includin
 
 **Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (mechanical) checks. A character with the Builder feat gets a +2 bonus on all Craft (mechanical) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Pharmaceutical)
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -345,13 +596,13 @@ This skill allows a character to compound medicinal drugs to aid in recovery fro
 
 **Special:** A character without a pharmacist kit takes a –4 penalty on Craft (pharmaceutical) checks. A character with the Medical Expert feat gets a +2 bonus on all Craft (pharmaceutical) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Structural)
 
-**base:** int
+**key ability:** int
 
 This skill allows a character to build wooden, concrete, or metal structures from scratch, including bookcases, desks, walls, and houses. It also includes handyman skills such as plumbing, painting, drywall, laying cement, and building cabinets.
 
@@ -364,13 +615,13 @@ This skill allows a character to build wooden, concrete, or metal structures fro
 
 **Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (structural) checks. A character with the Builder feat gets a +2 bonus on all Craft (structural) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Visual Art)
 
-**base:** int
+**key ability:** int
 
 This skill allows a character to create paintings or drawings, take photographs, use a video camera, or in some other way create a work of visual art.
 
@@ -388,13 +639,13 @@ Creating a work of visual art requires at least a full-round action, but usually
 
 **Special:** A character with the Creative feat gets a +2 bonus on all Craft (visual art) checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Craft (Writing)
 
-**base:** int
+**key ability:** int
 
 This skill allows a character to create short stories, novels, scripts and screenplays, newspaper articles and columns, and similar works of writing. No Wealth check is necessary to use this Craft skill.
 
@@ -410,13 +661,13 @@ Creating a work of writing requires at least 1 hour, but usually takes a day, a 
 
 **Special:** A character with the Creative feat gets a +2 bonus on all Craft (writing) checks. A character can take 20 (no raw materials are used up).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Computer Use
 
-**base:** int
+**key ability:** int
 
 In addition to all the standard uses, this skill can be used to operate shipboard sensors as well as send, jam, scramble, and unscramble transmissions sent through space or across dimensions.
 
@@ -434,7 +685,7 @@ The following applications of the Computer Use skill can’t be used untrained:
 
 **Time:** Scrambling or unscrambling a transmission are all full-round actions. Conducting an active sensor scan or sending/jamming a transmission is a move action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -442,7 +693,7 @@ The following applications of the Computer Use skill can’t be used untrained:
 
 trained only
 
-**base:** int
+**key ability:** int
 
 **Check:** A character can decipher writing in an ancient language or in code, or interpret the meaning of an incomplete text. The base DC is 20 for the simplest messages, 25 for standard codes, and 30 or higher for intricate or complex codes or exotic messages. Helpful texts or computer programs can provide a circumstance bonus (usually +2) on the check.
 
@@ -454,13 +705,13 @@ If the check succeeds, the character understands the general content of the text
 
 **Time:** Decipher Script takes 1 minute or more, depending on the complexity of the code.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Demolitions
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -478,13 +729,13 @@ trained only
 
 **Time:** Setting a detonator is usually a full-round action. Placing an explosive device takes 1 minute or more, depending on scope.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Diplomacy
 
-**base:** cha
+**key ability:** cha
 
 **Check:** A character can change others' attitudes with a successful check. In negotiations, participants roll opposed Diplomacy checks to see who gains the advantage.
 
@@ -518,13 +769,13 @@ trained only
 
 **Time:** Diplomacy is at least a full-round action. Some negotiations require a longer period.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Disable Device
 
-**base:** int
+**key ability:** int
 
 You can use this skill to disable a robot or external cybernetic attachment.
 
@@ -534,13 +785,13 @@ Disabling an external cybernetic attachment is a full-round action and requires 
 
 **Special:** A disabled robot or disabled external cybernetic attachment can be re-enabled with a successful Repair check (see Repair).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Disguise
 
-**Base:** Cha
+**key ability:** Cha
 
 **Check:** A character's Disguise check result determines how good the disguise is, opposed by others' Spot checks. If the character doesn't draw attention, others don't get to make Spot checks. If suspicious, those people may make a Spot check.
 
@@ -568,13 +819,13 @@ An individual usually makes a Spot check to detect a disguise immediately upon m
 
 **Time:** A Disguise check requires 1d4 × 10 minutes of preparation.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Drive
 
-**Base:** dex
+**key ability:** dex
 
 **Check:** Routine driving tasks don't require a skill check. Make a check only when some unusual circumstance exists (such as inclement weather or an icy surface), or when the character is driving in a dramatic situation (being chased or attacked, or trying to reach a destination in limited time). See Driving a Vehicle for more details.
 
@@ -584,13 +835,13 @@ An individual usually makes a Spot check to detect a disguise immediately upon m
 
 **Time:** A Drive check is a move action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Escape Artist
 
-**base:** dex
+**key ability:** dex
 
 armor penalty
 
@@ -612,13 +863,13 @@ For ropes, the character's Escape Artist check is opposed by the Dexterity check
 
 **Time:** Escaping from ropes, handcuffs, or other restraints (except a grappler) requires 1 minute. Escaping a net is a full-round action. Squeezing through a tight space takes time depending on the distance.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Forgery
 
-**Base:** int
+**key ability:** int
 
 **Check:** Forgery requires materials appropriate to the document being forged, and some time. The character needs to have seen a similar document before.
 
@@ -656,13 +907,13 @@ The GM makes the character's check secretly. The Forgery skill is also used to d
 
 **Time:** Forging a short, simple document takes about 1 minute. Longer or more complex documents take 1d4 minutes per page or longer.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Gamble
 
-**base:** wis
+**key ability:** wis
 
 **Check:** To join or start a game, a character must first pay a stake. The character sets the purchase DC of the stake if starting the game, or the GM sets it if joining. Stakes run from penny-ante (purchase DC 4) to astronomical (purchase DC 24). A character cannot take 20 when purchasing a stake.
 
@@ -684,13 +935,13 @@ The character's Gamble check is opposed by the Gamble checks of all other partic
 
 **Time:** A Gamble check requires 1 hour.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Gather Information
 
-**base:** cha
+**key ability:** cha
 
 **Check:** By succeeding at a skill check (DC 10) and spending 1d4+1 hours passing out money and buying drinks, a character can get a feel for the major news items in a neighborhood. The higher the check result, the better the information. If the situation doesn't require the expenditure of money, no Wealth check is necessary.
 
@@ -711,13 +962,13 @@ The character can increase the amount of money used to gather information, gaini
 
 **Time:** A Gather Information check takes 1d4+1 hours.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Handle Animal
 
-**base:** cha
+**key ability:** cha
 
 trained only
 
@@ -769,13 +1020,13 @@ Possible tricks include, but are not limited to:
 
 **Time:** See above. Teaching or training an animal takes a number of days (3 hours per day is sufficient; days must be consecutive).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Hide
 
-**base:** dex
+**key ability:** dex
 
 armor penalty
 
@@ -810,13 +1061,13 @@ Cover and concealment grant circumstance bonuses to Hide checks. A character can
 
 **Time:** A Hide check is an attack action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Intimidate
 
-**base:** cha
+**key ability:** cha
 
 **Check:** With a successful check, a character can forcibly persuade another character to perform some task or behave in a certain way. A character's Intimidate check is opposed by the target's level check (1d20 + the target's character level or Hit Dice). Any modifiers the target may have on Will saving throws against fear effects apply to this level check.
 
@@ -830,13 +1081,13 @@ Circumstances dramatically affect the effectiveness of an Intimidate check. Ther
 
 **Time:** An Intimidate check is a full-round action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Investigate
 
-**base:** int
+**key ability:** int
 
 trained only
 
@@ -864,13 +1115,13 @@ To collect a piece of evidence, make an Investigate check (DC 15). If the charac
 
 **Time:** Analyzing a clue is a full-round action. Collecting evidence generally takes 1d4 minutes per object.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Jump
 
-**base:** str
+**key ability:** str
 
 armor penalty
 
@@ -907,7 +1158,7 @@ If the character fails by less than 5, they don't clear the distance but can mak
 
 If the character succeeds, they grasp the object. Pulling up requires a move action and a Climb check (DC 15). If the check fails, the character does not reach the height and lands back in the square from which they jumped.
 
-**Maximum reach without jumping by creature size:** 
+**Maximum reach without jumping by creature size:**
 
 | Creature Size | Maximum Height |
 | --- | --- |
@@ -929,13 +1180,13 @@ If the character succeeds, they grasp the object. Pulling up requires a move act
 
 **Time:** Using Jump is either a move action or a full-round action, depending on whether the character starts and completes the jump during a single move action or a full-round action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Listen
 
-**base:** wis
+**key ability:** wis
 
 **Check:** Make a Listen check against a DC that reflects how quiet the noise is that a character might hear, or against an opposed Move Silently check.
 
@@ -970,13 +1221,13 @@ The GM may call for a Listen check by a character who is in a position to hear s
 
 **Time:** A Listen check is either a reaction (if called for by the GM) or a move action (if the character actively tries to hear something).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Move Silently
 
-**base:** dex
+**key ability:** dex
 
 armor penalty
 
@@ -988,13 +1239,13 @@ armor penalty
 
 **Time:** Move Silently is a move action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Technology
 
-**base:** int
+**key ability:** int
 
 You can make a Knowledge (technology) check to correctly identify starships, mecha, robots, and cybernetic attachments, as well as identify unfamiliar technological devices.
 
@@ -1009,7 +1260,7 @@ Recalling the standard, factory-model design specs of a particular type or class
 When confronted with an unfamiliar piece of technology or alien artifact, you can make a Knowledge (technology) check to correctly surmise the primary (if not singular) purpose of the device. A successful check result does not enable you to activate the item, nor does it make you proficient with the item. The DC of the Knowledge (technology) check depends on the item being identified and the difference in Progress Level, as shown below:
 
 | Unfamiliar Item | DC |
-|---|---:|
+| --- | ---: |
 | Basic tool or instrument | 10 |
 | Robotic or vehicular component | 15 |
 | Cybernetic attachment | 20 |
@@ -1017,13 +1268,13 @@ When confronted with an unfamiliar piece of technology or alien artifact, you ca
 | Alien artifact | 30 |
 | Each step in Progress Level (up or down) | +5 |
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Navigate
 
-**base:** int
+**key ability:** int
 
 In a campaign that features space travel or dimensional travel, you can use the Navigate skill to plot a course between planets, star systems, or dimensions.
 
@@ -1031,19 +1282,19 @@ In a campaign that features space travel or dimensional travel, you can use the 
 
 **Time:** Plotting a course is a full-round action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Perform
 
-**base:** cha
+**key ability:** cha
 
 This skill encompasses several categories, each treated as a separate skill. The categories are identified below. When trying to determine what Perform skill a particular type of performance falls under, use a broad interpretation of the existing categories. Do not arbitrarily make up new categories.
 
 **Check:** The character is accomplished in some type of artistic expression and knows how to put on a performance. The quality of the performance depends on the check result.
 
-**The eight Perform categories:** 
+**The eight Perform categories:**
 
 - **Act:** Drama, comedy, or action-oriented roles.
 - **Dance:** Rhythmic and patterned bodily movements to music.
@@ -1068,13 +1319,13 @@ This skill encompasses several categories, each treated as a separate skill. The
 
 **Time:** A Perform check usually requires at least several minutes to an hour or more.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Pilot
 
-**base:** dex
+**key ability:** dex
 
 You can use the Pilot skill to fly any kind of spacecraft.
 
@@ -1082,13 +1333,13 @@ You can use the Pilot skill to fly any kind of spacecraft.
 
 **Special:** For modern-day (PL 5) spacecraft such as the space shuttle, the Aircraft Operation (spacecraft) is sufficient to negate the –4 penalty on Pilot checks; however, this feat cannot negate the penalty as it applies to PL 6 or higher spacecraft.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Profession
 
-**base:** wis
+**key ability:** wis
 
 **Check:** A character makes Profession checks to improve their Wealth bonus every time they attain a new level. The DC for the check is 10. How many ranks a character has in the Profession skill (including ranks just acquired) also adds to the Wealth bonus increase upon gaining a new level.
 
@@ -1104,13 +1355,13 @@ In addition to the Wealth bonus increase from the Profession check result, the c
 
 **Special:** If the GM deems it appropriate, a character can add their Profession modifier when making a Reputation check to deal with a work- or career-related situation. Every time a character takes the Windfall feat, they get a cumulative +1 bonus on all Profession checks.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Read/Write Language
 
-**base:** none
+**key ability:** none
 
 trained only
 
@@ -1147,13 +1398,13 @@ The Read/Write Language skill doesn't work like a standard skill.
 
 \*This is an ancient language, spoken only by scholars or in isolated corners of the world.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Repair
 
-**base:** int
+**key ability:** int
 
 You can use this skill to repair vehicles, starships, mecha, cybernetic attachments, and constructs (including robots). You can also use the Repair skill to safely remove the “brain” of a destroyed robot.
 
@@ -1165,13 +1416,13 @@ This skill may also be used to transplant the “brain” of a destroyed robot i
 
 **Special:** A vehicle, starship, cybernetic attachment, mecha, robot, or other construct that is reduced to 0 hp cannot be repaired. It can be salvaged for parts, however (see the Salvage feat description).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Research
 
-**base:** int
+**key ability:** int
 
 **Check:** Researching a topic takes time, skill, and some luck. The GM determines how obscure a particular topic is (the more obscure, the higher the DC) and what kind of information might be available depending on where the character is conducting research.
 
@@ -1185,13 +1436,13 @@ The higher the check result, the better and more complete the information. If th
 
 **Time:** A Research check takes 1d4 hours.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Ride
 
-**base:** dex
+**key ability:** dex
 
 Animals ill suited as mounts provide a -2 penalty on their rider's Ride check.
 
@@ -1203,7 +1454,7 @@ Animals ill suited as mounts provide a -2 penalty on their rider's Ride check.
 - **Cover (DC 15):** Drop down and hang alongside the mount, using it as one-half cover. Can't attack while doing this.
 - **Soft Fall (DC 15):** React when falling off a mount to try to avoid damage. If failed, takes 1d6 points of falling damage.
 - **Leap (DC 15):** Get the mount to leap obstacles as part of its movement. Use the character's Ride modifier or the mount's Jump modifier (whichever is lower) when the mount makes its Jump check.
-- **Fast Mount or Dismount (DC 20; 
+- **Fast Mount or Dismount (DC 20;
 armor penalty applies):** Mount or dismount as a free action. If failed, mounting or dismounting is a move action.
 
 **Try Again?:** Varies. Failing certain checks (such as Stay in Saddle) may result in falling, making a retry impossible.
@@ -1212,13 +1463,13 @@ armor penalty applies):** Mount or dismount as a free action. If failed, mountin
 
 **Time:** Ride is a move action, except when otherwise noted for special tasks listed above.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Search
 
-**base:** int
+**key ability:** int
 
 **Check:** The character generally must be within 10 feet of the object or surface to be examined. A character can examine up to a 5-foot-by-5-foot area or a volume of goods 5 feet on a side with a single check.
 
@@ -1236,13 +1487,13 @@ A Search check can turn up individual footprints, but does not allow a character
 
 **Time:** A Search check is a full-round action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Sense Motive
 
-**base:** wis
+**key ability:** wis
 
 **Check:** A successful check allows the character to avoid being bluffed (see the Bluff skill). Sense Motive does not allow a character to determine whether a given statement is a lie. The character can also use the skill to tell when someone is behaving oddly or to assess someone's trustworthiness. In addition, a character can use this skill to make an assessment of a social situation.
 
@@ -1256,13 +1507,13 @@ The character can use Sense Motive to detect a hidden message being transmitted 
 
 **Time:** A Sense Motive check may be made as a reaction to another character's Bluff check. Using Sense Motive to get a sense of someone's trustworthiness takes at least 1 minute.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Sleight of Hand
 
-**base:** dex
+**key ability:** dex
 
 trained only
 
@@ -1282,13 +1533,13 @@ A character can use Sleight of Hand to conceal a small weapon or object on their
 
 **Time:** A Sleight of Hand check is an attack action.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Speak Language
 
-**base:** none
+**key ability:** none
 
 trained only
 
@@ -1300,13 +1551,13 @@ The Speak Language skill doesn't work like a standard skill.
 - To be able to read and write a language the character can speak, they must also take the Read/Write Language skill for that language.
 - A character can choose any language, modern or ancient. (See the language groups listed under Read/Write Language.) The GM might determine that a character can't learn a specific language due to campaign circumstances.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Spot
 
-**base:** wis
+**key ability:** wis
 
 **Check:** The Spot skill is used to notice items that aren't immediately obvious and people who are attempting to hide. The GM may call for a Spot check by a character in a position to notice something. A character can also make a Spot check voluntarily. The GM may make the check in secret so that the character doesn't know whether not noticing anything means nothing is there or that they failed the check.
 
@@ -1320,13 +1571,13 @@ A character's Spot check is modified by a -1 penalty for every 10 feet of distan
 
 **Time:** A Spot check is either a reaction (if called for by the GM) or a full-round action (if the character actively tries to notice something).
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Survival
 
-**base:** wis
+**key ability:** wis
 
 **Check:** A character can keep themselves and others safe and fed in the wild.
 
@@ -1344,13 +1595,13 @@ With the Track feat, a character can use Survival checks to track a character or
 
 **Time:** Basic Survival checks occur each day in the wilderness or whenever a hazard presents itself. When using Survival with the Track feat, checks are made according to distance as described in the Track feat.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Swim
 
-**base:** str
+**key ability:** str
 
 armor penalty
 
@@ -1358,7 +1609,7 @@ armor penalty
 
 If the character is underwater (from failing a Swim check or intentionally swimming underwater), the character must hold their breath. A character can hold their breath for a number of rounds equal to their Constitution score, but only if they do nothing but take move actions or free actions. If the character takes an attack action or a full-round action, the remaining duration is halved. After that period, the character must make a Constitution check (DC 10) every round to continue holding their breath, with the DC increasing by 1 each round. If the check fails, the character begins to drown.
 
-**The DC for the Swim check depends on the water:** 
+**The DC for the Swim check depends on the water:**
 
 | Water | DC |
 | --- | --- |
@@ -1374,13 +1625,13 @@ Each hour that the character swims, make a Swim check against DC 20. If the char
 
 **Time:** A Swim check is either a move action or a full-round action, as described above.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Treat Injury
 
-**base:** wis
+**key ability:** wis
 
 This skill can be used to treat members of other species, provided they are neither constructs nor undead.
 
@@ -1390,13 +1641,13 @@ Performing surgery on creatures of a type different from your own carries a –8
 
 **Special:** The Treat Injury skill cannot be used on nonliving or inorganic creatures, such as constructs or undead.
 
-[Return to top](#skills)
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
 ## Tumble
 
-**base:** dex
+**key ability:** dex
 
 trained only
 
@@ -1416,6 +1667,4 @@ armor penalty
 
 **Time:** A character can try to reduce damage from a fall as a reaction once per fall. A character can attempt to tumble as a free action that must be performed as part of a move action.
 
-[Return to top](#skills)
-
----
+[Return to Table of Contents](#table-of-contents)
