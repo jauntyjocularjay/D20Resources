@@ -7,12 +7,12 @@
 - [Skills](./Skills.md)
 - [Feats](./Feats.md)
 - [Mecha](./Mecha.md)
-<!-- - [Mutations]()
-- [Progress Levels]()
-- [Robots]()
-- [Scientific Engineering]()
-- [Starships]()
-- [Starting Occupations]()
-- [Traveler Science]()
-- [Vehicles]()
-- [Xenobiology]() -->
+- [Mutations](./Mutations.md)
+<!-- - [Progress Levels]() -->
+- [Robots](./Robots.md)
+<!-- - [Scientific Engineering]() -->
+<!-- - [Starships]() -->
+<!-- - [Starting Occupations]() -->
+<!-- - [Traveler Science]() -->
+<!-- - [Vehicles]() -->
+<!-- - [Xenobiology]() -->
