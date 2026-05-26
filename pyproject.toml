@@ -1,0 +1,13 @@
+[tool.pymarkdown]
+
+[tool.pymarkdown.plugins.md013]
+# Allow the maximum allowable line length for MD013 (line-length rule).
+# PyMarkdown's internal maximum is 99999 for disabled/very-large values.
+line_length = 99999
+code_block_line_length = 99999
+heading_line_length = 99999
+# Keep default behaviour for other flags
+code_blocks = true
+headings = true
+strict = false
+stern = false

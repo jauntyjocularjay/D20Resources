@@ -346,21 +346,211 @@ Wheeled robots perform well on level ground but move at half speed on poor surfa
 
 ## Manipulators
 
-The original index organizes manipulators as a single subpage. Import this page one-at-a-time from the snapshot below when ready.
+Without some kind of manipulating appendage, robots cannot lift or move objects. Manipulators can be as crude as a simple probe or as complex as a five-fingered hand.
 
-- Archive snapshot: https://web.archive.org/web/20240119054315/https://www.d20resources.com/future.d20.srd/robots/manipulators.php
+ A Medium-size or smaller robot may have up to two functioning manipulators. Larger robots may be equipped with a greater number of functioning manipulators, as determined by their size:
 
-- [Stub] Content to import: manipulator categories, available manipulator counts/configurations, purchase DCs, and mounting/integration notes.
+- Robot's Frame Size — Manipulators
+- Medium-size or smaller — Up to 2
+- Large — Up to 4
+- Huge or larger — Up to 8
+
+To build a manipulator from scratch, a character must succeed at a Craft (mechanical) check (DC 25) after investing 24 hours in its construction. A character without a mechanical tool kit takes a −4 penalty on the skill check. The character must also make a Wealth check against the manipulator's purchase DC. Mastercraft robot manipulators can be fashioned using the Mastercrafter feat.
+
+Size: A manipulator, as an object, is usually two size categories smaller than the robot for which it's designed; for example, a hand designed for a Medium-size robot can be considered a Tiny object. A manipulator's size is usually important only for portability and concealment purposes.
+
+Damage: Robots can use their manipulators as melee weapons, dealing piercing, slashing, or bludgeoning damage based on the type of manipulator and the robot's size (see Table: Manipulator Damage). Some types of manipulators deal nonlethal damage only.
+
+Purchase DC: The cost of each manipulator. This cost is always a fraction of the base purchase DC of the robot's frame.
+
+### Table: Manipulator Damage
+
+| Manipulator Type | Fine | Diminutive | Tiny | Small | Medium-size | Large | Huge | Gargantuan | Colossal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Advanced Hand¹ | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+| Claw | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 |
+| Hand¹ | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+| Jaws | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 |
+| Pincer | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+| Probe | — | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 |
+| Special-Use Gripper¹ | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+| Task Hand¹ | — | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 |
+
+¹This type of manipulator deals nonlethal damage only.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Claw (PL 5)
+
+Claws resemble pincers, but the opposed surfaces cover the length of the appendage. Claws suffer the same handicaps as pincers when attempting tasks involving manual dexterity, but they deal greater damage.
+
+- Damage: Lethal slashing or nonlethal bludgeoning.
+- Purchase DC: 10 + one-quarter the base purchase DC of the robot's frame.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Jaws (PL 5)
+
+Only robots modeled after creatures with bite attacks have jaws. Robotic jaws are essentially large clamps with teeth.
+
+- Damage: Lethal piercing.
+- Purchase DC: 10 + one-quarter the base purchase DC of the robot's frame.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Pincer (PL 5)
+
+A pincer is a two-fingered, clawlike appendage that focuses all the grip strength on a pair of opposed surfaces, rather like a pair of tongs. Pincers allow the robot to manipulate and lift objects without much difficulty, but objects specifically made for humanoid hands (like firearms) are usually beyond the pincers' ability to operate. At the GM's discretion, tasks involving manual dexterity suffer a −4 penalty for a robot equipped with pincers.
+
+- Damage: Lethal piercing or nonlethal bludgeoning.
+- Purchase DC: 5 + one-quarter the base purchase DC of the robot's frame.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Probe (PL 5)
+
+Similar to a special-use gripper, a probe is simply an instrument of some kind, meant to measure torque, temperature, or some other factor. If the robot attempts to manipulate or lift an object with a probe, it takes a −4 penalty on the check.
+
+- Damage: Lethal piercing or nonlethal bludgeoning.
+- Purchase DC: 5 + one-tenth the base purchase DC of the robot's frame (rounded down).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Special-Use Gripper (PL 5)
+
+The robot has a manipulator designed for a specific task. When the robot uses a special-use gripper for a task other than its intended task, the robot suffers a −4 penalty on the check if the check involves manual strength or dexterity.
+
+- Damage: Nonlethal bludgeoning only.
+- Purchase DC: 5 + one-tenth the base purchase DC of the robot's frame (rounded down).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Hand (PL 6)
+
+A hand is a step up from a claw, in that it has more digits—usually three or four, total. Hands are a bit more adaptable as well, imposing only a −2 penalty when attempting tasks involving manual dexterity.
+
+- Damage: Nonlethal bludgeoning only.
+- Purchase DC: 10 + one-quarter the base purchase DC of the robot's frame.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Advanced Hand (PL 7)
+
+Advanced hands are essentially the same in structure as human hands, though some might have additional fingers for specialized work. Advanced hands suffer no penalties when attempting tasks involving manual dexterity.
+
+- Damage: Nonlethal bludgeoning only.
+- Purchase DC: 10 + one-quarter the base purchase DC of the robot's frame.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Task Hand (PL 7)
+
+Task hands function just like advanced hands, except that they are equipped with additional joints and often with additional or telescoping digits, enabling them to multitask, as well as to spread the robot's grip strength over a slightly wider area.
+
+A robot with a task hand gains a +1 equipment bonus on Climb, Craft, Demolitions, Disable Device, Drive, Escape Artist, Forgery, Pilot, Repair, Search, Sleight of Hand, and Treat Injury checks. This bonus improves to +2 if the robot has two or more task hands. At the GM's discretion, the robot can gain this bonus when attempting certain Perform checks as well.
+
+- Damage: Nonlethal bludgeoning only.
+- Purchase DC: 10 + one-quarter the base purchase DC of the robot's frame.
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Armor
 
-Armor is organized by Progress Level with individual pages for each armor type. Import each armor subpage one-at-a-time from the snapshots below.
+Armor is organized by Progress Level with individual pages for each armor type. Below are imported summaries of common robot armor types from the archive: descriptions, equipment bonuses, weight, speed penalties, purchase DCs, and restrictions.
 
-- Archive index: https://web.archive.org/web/20240119054315/https://www.d20resources.com/future.d20.srd/robots/armor/
+### Duraplastic Armor (PL 5)
 
-- [Stub] Content to import: armor stats, purchase DCs, weight, and special rules for each listed page.
+Duraplastic armor is made of advanced plastic polymers, like carbon fiber and high-grade fiberglass. Although relatively cheap and light, it doesn't offer tremendous protection. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated duraplastic armor.
+
+- Equipment Bonus: +3
+- Weight: One-eighth the weight of the robot's frame (rounded down)
+- Speed Penalty: None
+- Purchase DC: 5 + one-half the base purchase DC of the robot's frame
+- Restriction: None
+
+[Return to Table of Contents](#table-of-contents)
+
+### Alumisteel Armor (PL 5)
+
+Alumisteel is a lightweight, reasonably strong alloy. Bioreplica robots and liquid-state robots cannot have integrated alumisteel armor.
+
+- Equipment Bonus: +5
+- Weight: One-quarter the weight of the robot's frame (rounded down)
+- Speed Penalty: −5 feet
+- Purchase DC: 10 + one-half the base purchase DC of the robot's frame
+- Restriction: None
+
+[Return to Table of Contents](#table-of-contents)
+
+### Duralloy Armor (PL 6)
+
+Duralloy armor is harder, heavier, and more durable than alumisteel. Bioreplica robots and liquid-state robots cannot have integrated duralloy armor.
+
+- Equipment Bonus: +8
+- Weight: One-half the weight of the robot's frame (rounded down)
+- Speed Penalty: −10 feet
+- Purchase DC: 10 + one-half the base purchase DC of the robot's frame
+- Restriction: None
+
+[Return to Table of Contents](#table-of-contents)
+
+### Resilium Armor (PL 6)
+
+Resilium is a more malleable alloy than duralloy, although not as strong. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated resilium armor.
+
+- Equipment Bonus: +6
+- Weight: One-eighth the weight of the robot's frame (rounded down)
+- Speed Penalty: None
+- Purchase DC: 5 + one-half the base purchase DC of the robot's frame
+- Restriction: None
+
+[Return to Table of Contents](#table-of-contents)
+
+### Neovulcanium Armor (PL 7)
+
+Neovulcanium uses plasma-forging techniques to create an alloy of high resilience. Bioreplica robots and liquid-state robots cannot have integrated neovulcanium armor.
+
+- Equipment Bonus: +7
+- Weight: One-quarter the weight of the robot's frame (rounded down)
+- Speed Penalty: −5 feet
+- Purchase DC: 10 + one-half the base purchase DC of the robot's frame
+- Restriction: None
+
+[Return to Table of Contents](#table-of-contents)
+
+### Crystal Carbon Armor (PL 7)
+
+Grown in orbital laboratories, crystal carbon is a composite fiber material that outperforms many alloys. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated crystal carbon armor.
+
+- Equipment Bonus: +8
+- Weight: One-eighth the weight of the robot's frame (rounded down)
+- Speed Penalty: None
+- Purchase DC: 15 + one-half the base purchase DC of the robot's frame
+- Restriction: Licensed (+1)
+
+[Return to Table of Contents](#table-of-contents)
+
+### Megatanium Armor (PL 8)
+
+Megatanium is an extremely hard, durable layered armor (crystal carbon + neovulcanium matrix). Bioreplica robots and liquid-state robots cannot have integrated megatanium armor.
+
+- Equipment Bonus: +10
+- Weight: One-quarter the weight of the robot's frame (rounded down)
+- Speed Penalty: −5 feet
+- Purchase DC: 10 + one-half the base purchase DC of the robot's frame
+- Restriction: Licensed (+1)
+
+[Return to Table of Contents](#table-of-contents)
+
+### Reactive Armor (PL 8)
+
+Reactive armor consists of layers of insulating gel or compressed gas between cerametal sheets; it provides protection comparable to crystal carbon but is cheaper to produce. Biodroid, bioreplica, and liquid-state robots cannot have integrated reactive armor.
+
+- Equipment Bonus: +8
+- Weight: One-quarter the weight of the robot's frame (rounded down)
+- Speed Penalty: −5 feet
+- Purchase DC: 5 + one-half the base purchase DC of the robot's frame
+- Restriction: None
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -368,9 +558,127 @@ Armor is organized by Progress Level with individual pages for each armor type. 
 
 Sensors are grouped by class and PL; import each class page one-at-a-time from the snapshots below.
 
-- Archive index: https://web.archive.org/web/20240119054315/https://www.d20resources.com/future.d20.srd/robots/sensors/
-
 - [Stub] Content to import: sensor ranges, detection bonuses/penalties, and purchase DCs per class.
+
+### Class I Sensor System (PL 5)
+
+This sensor system includes a low-res video camera and a basic audio receiver (effectively a robotic ear).
+
+A robot with a Class I sensor system takes a -4 penalty on all Demolitions, Disable Device, Forgery, and Repair checks, and a -2 penalty on all other skill checks.
+
+Type: Audio, Visual.
+
+Purchase DC: 13.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class II Sensor System (PL 5)
+
+This sensor system includes a video camera with infrared capability, capable of discerning creatures and objects by their heat signatures. It also includes a basic audio receiver and a crude chemical sniffer (a series of filters that detect free-floating chemical residues).
+
+A robot with a Class II sensor system takes a -4 penalty on all Demolitions, Disable Device, Forgery, and Repair checks. All other skill checks are made without penalty.
+
+Type: Audio, Olfactory, Visual.
+
+Purchase DC: 15.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class III Sensor System (PL 5)
+
+This sensor system includes a video camera with infrared capability, a basic audio receiver, and a crude chemical sniffer.
+
+A robot with a Class III sensor system takes no penalties on skill checks.
+
+Type: Audio, Olfactory, Visual.
+
+Purchase DC: 17.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class IV Sensor System (PL 6)
+
+This sensor system includes hi-res video sensors, a hi-fidelity audio sensor, a chemical vapor scanner, and a pressure sensor that enables the robot to perform tasks requiring manual dexterity.
+
+A robot with a Class IV sensor system gains a +2 equipment bonus on Listen and Spot checks. All other skill checks are made without penalty.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 17.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class V Sensor System (PL 6)
+
+This sensor system includes hi-res video sensors with darkvision (out to 60 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure sensors, and either a ladar or sonar system. Ladar uses laser detectors and ranging sensors to rapidly play low-powered laser beams across the robot's surroundings, allowing it to locate targets. Sonar sensors are used mostly in subaquatic environments, but the technology works almost as well in the air.
+
+Ladar Version: A robot with a ladar-equipped Class V sensor system gains a +4 equipment bonus on Spot checks and a +2 equipment bonus on Listen checks. All other skill checks are made without penalty.
+
+Sonar Version: A robot with a sonar-equipped Class V sensor system gains a +4 equipment bonus on Listen checks and a +2 equipment bonus on Spot checks. All other skill checks are made without penalty.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 19.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class VI Sensor System (PL 6)
+
+This sensor system includes hi-res video sensors with darkvision (out to 120 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure sensors, and short-range radar that allows a robot to not only perceive its surroundings but also target more effectively.
+
+A robot with a Class VI sensor system gains a +2 equipment bonus on Listen and Spot checks. All other skill checks are made without penalty. The robot also gains a +1 equipment bonus on initiative checks.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 22.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class VII Sensor System (PL 7)
+
+This sensor system includes hi-definition video sensors with darkvision (out to 120 feet), acoustic audio sensors, a chemical vapor scanner, pressure sensors, and multiband radar that uses multiple concurrent radar signals in different frequencies to gather more data.
+
+A robot with a Class VII sensor system gains a +2 equipment bonus on Listen, Search, and Spot checks. All other skill checks are made without penalty. The robot also gains a +2 equipment bonus on initiative checks.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 22.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class VIII Sensor System (PL 7)
+
+This sensor system includes hi-definition video sensors with darkvision (out to 120 feet), acoustic audio sensors, a sophisticated olfactory sensor, a tactile sensor array, and multiband radar.
+
+A robot with a Class VIII sensor system gains the scent ability. It also gains a +2 equipment bonus on Demolitions, Disable Device, Forgery, Listen, Repair, Search, and Spot checks. All other skill checks are made without penalty. The robot also gains a +2 equipment bonus on initiative checks.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 25.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Class IX Sensor System (PL 8)
+
+This sensor system includes a full-spectrum eye with darkvision (out to 180 feet), a full-frequency ear, a sophisticated olfactory sensor, a tactile sensor array, and multiband radar.
+
+A robot with a Class IX sensor system gains the scent ability. It also gains a +2 equipment bonus on Demolitions, Disable Device, Forgery, Listen, Repair, Search, and Spot checks. All other skill checks are made without penalty. The robot also gains a +3 equipment bonus on initiative checks.
+
+Type: Audio, Olfactory, Tactile, Visual.
+
+Purchase DC: 26.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Nerve Web (PL 8)
+
+The nerve web is an advanced sensor array that simulates the function of an organic nervous system. This sensor system includes a full-spectrum eye with darkvision (out to 180 feet), a full-frequency ear, a sophisticated olfactory sensor, tactile and gustatory sensors, and multiband radar.
+
+A robot with a nerve web gains the scent ability. It also gains a +4 equipment bonus on Demolitions, Disable Device, Forgery, Listen, Repair, Search, and Spot checks. All other skill checks are made without penalty. The robot also gains a +3 equipment bonus on initiative checks.
+
+Type: Audio, Gustatory, Olfactory, Tactile, Visual.
+
+Purchase DC: 28.
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -396,9 +704,163 @@ Robots can receive ability upgrades by PL (Strength Upgrade PL 5, Dexterity/Inte
 
 Accessories are presented by PL with individual accessory pages. Import them one-at-a-time from the snapshots below.
 
-- Archive index: https://web.archive.org/web/20240119054315/https://www.d20resources.com/future.d20.srd/robots/robot.accessories/
-
 - [Stub] Content to import: accessory rules, purchase DCs, installation notes, and PL availability per accessory.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Robot Repair Unit (PL 8)
+
+The RRU enables a robot to repair itself or another robot by replacing damaged parts with replicated new ones. In the latter case, the robot making the repairs must be adjacent to the damaged robot. The robot must spend a full-round action to repair itself or another robot; this automatically restores 1d10 points of damage (no Repair check necessary).
+
+Purchase DC: 28.
+
+Restriction: Licensed (+1).
+
+[Return to Table of Contents](#table-of-contents)
+
+### AV Recorder (PL 5)
+
+This audio and video recorder unit uses the robot’s video and audio sensors to record and store up to 8 hours of information.
+
+Purchase DC: 13.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### AV Transmitter (PL 5)
+
+A remote audio-visual transmitter sends the robot’s camera and microphone feed to a remote receiver (effective range about 1,000 feet). It allows an operator to see and hear what the robot perceives but does not by itself permit remote control.
+
+Purchase DC: 16.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Vocalizer (PL 5)
+
+Enables a robot to speak any language it knows (requires the robot to have the appropriate Speak Language skill via levels or skill software).
+
+Purchase DC: 10.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Fire Extinguisher (PL 5)
+
+Ejects extinguishing chemicals to put out fires in a 10×10 ft. square. Tank holds shots based on frame size (Small 2, Medium 4, Large 8, Huge 16, Gargantuan 32, Colossal 64).
+
+Purchase DC: 5 + one-quarter the base purchase DC of the robot’s frame.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Holo Screen (PL 7)
+
+Projects a holographic image around the robot to disguise its appearance; physical objects pass through the projection. Provides about 20% concealment against attacks.
+
+Purchase DC: 28.
+
+Restriction: Licensed (+1).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Inertial Inhibitor (PL 7)
+
+Generates a field that reduces incoming kinetic damage (DR 5/energy). Powered by the robot’s internal source.
+
+Purchase DC: 29.
+
+Restriction: Military (+3).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Integrated Cell Phone (PL 5)
+
+A built-in cell phone module providing standard cellular communications.
+
+Purchase DC: 11.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Internal Storage Unit (PL 5)
+
+Insulated compartment for storing objects (stores items up to two size categories smaller than the robot). See the included table for weight limits and Purchase DCs by frame size.
+
+Purchase DC: See table (Small 6, Medium 8, Large 10, Huge 13, Gargantuan 17, Colossal 22).
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Loading Mechanism (PL 5)
+
+Allows a robot to reload a handheld weapon as a full-round action; holds enough ammunition for three reloads. Robots may have multiple mechanisms (one per weapon).
+
+Purchase DC: 12.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Magnetic Feet (PL 5)
+
+Magnetic adhesion system enabling robots to cling to ferrous surfaces and gain improved climb or anchoring capabilities.
+
+Purchase DC: 12.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Photon Screen (PL 8)
+
+Bends light around the robot to render it invisible; grants large Hide bonuses when immobile or moving and confers partial concealment when located by opponents.
+
+Purchase DC: 33.
+
+Restriction: Restricted (+2).
+
+[Return to Table of Contents](#table-of-contents)
+
+### Polyvox (PL 5)
+
+A language and voice synthesis unit that enables translation and speech synthesis for multiple languages.
+
+Purchase DC: 17.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Remote Control Unit (PL 5)
+
+Allows an operator to control a robot remotely when used in conjunction with an AV transmitter and robolink; provides remote operator control features.
+
+Purchase DC: 15.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Robolink (PL 5)
+
+A transmitter/receiver system that enables limited remote control of non-intelligent robots over ranges up to about 1,000 feet when paired with compatible remote control systems.
+
+Purchase DC: 16.
+
+Restriction: None.
+
+[Return to Table of Contents](#table-of-contents)
+
+### Videophone
+
+[Stub] Content to import: videophone rules, purchase DC, installation notes, and PL availability.
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -413,7 +875,6 @@ A robot armed with handheld weapons follows the normal rules of combat, sufferin
 A robot armed with multiple mounted weapons gains one primary attack with a mounted weapon of its choice; the rest of its mounted weapons are treated as secondary attacks (–5 penalty on the attack roll). Using a mounted ranged weapon provokes attacks of opportunity.
 
 [Return to Table of Contents](#table-of-contents)
-*** End Patch
 
 ### "Spot" Security Robot (PL 6)
 
