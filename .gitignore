@@ -1,4 +1,1 @@
-pymarkdown_report_after.txt 
-pymarkdown_report.txt 
-pymarkdown_violations.txt
-pymarkdown_Robots_report.txt
+*.txt
