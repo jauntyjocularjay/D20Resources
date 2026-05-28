@@ -1,5 +1,7 @@
 # Robots
 
+[Index](../readme.md) > [Future](./Future.md) > [Robots](./Robots.md)
+
 ## Table of Contents
 
 - [Robots](#robots)
@@ -171,7 +173,7 @@ Representative base ability scores and purchase data (selected sizes):
 | Huge | 28 | 8d10 | 40 | 31 | 6 | 10 | 1 | 15d10 (+2 per HD) |
 | Large | 24 | 2d10 | 20 | 23 | 8 | 10 | 1 | 7d10 (+1 per HD) |
 | Medium-size | 20 | 1d10 | 10 | 15 | 10 | 10 | 1 | |
-| Small | 16 | 1/2d10 | 5 | 11 | 12 |  |  | |
+| Small | 16 | 1/2d10 | 5 | 11 | 12 | | | |
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -192,7 +194,7 @@ Representative base ability scores and purchase data (selected sizes):
 | Huge | 32 | 8d10 | 40 | 28 | 7 | 10 | 5 | 15d10 (+2 per HD) |
 | Large | 28 | 2d10 | 20 | 20 | 9 | 10 | 5 | 7d10 (+1 per HD) |
 | Medium-size | 24 | 1d10 | 10 | 12 | 11 | 10 | 5 | |
-| Small | 20 | 1/2d10 | 5 | 8 | 13 |  |  | |
+| Small | 20 | 1/2d10 | 5 | 8 | 13 | | | |
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -208,10 +210,10 @@ Representative base ability scores and purchase data (selected sizes):
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | --- |
 | Colossal | 48 | 32d10 | 120 | 46 | 6 | 10 | 1 | |
 | Gargantuan | 40 | 16d10 | 80 | 38 | 6 | 10 | 1 | |
-| Huge | 32 | 8d10 | 40 | 30 | 6 |  |  | |
-| Large | 28 | 2d10 | 20 | 22 | 8 |  |  | |
-| Medium-size | 24 | 1d10 | 10 | 14 | 10 |  |  | |
-| Small | 20 | 1/2d10 | 5 | 10 | 12 |  |  | |
+| Huge | 32 | 8d10 | 40 | 30 | 6 | | | |
+| Large | 28 | 2d10 | 20 | 22 | 8 | | | |
+| Medium-size | 24 | 1d10 | 10 | 14 | 10 | | | |
+| Small | 20 | 1/2d10 | 5 | 10 | 12 | | | |
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -230,7 +232,7 @@ Representative base ability scores and purchase data (selected sizes):
 | Huge | 36 | 8d10 | 40 | 28 | 7 | 10 | 10 | |
 | Large | 32 | 2d10 | 20 | 20 | 9 | 10 | 10 | |
 | Medium-size | 28 | 1d10 | 10 | 12 | 11 | 10 | 10 | |
-| Small | 24 | 1/2d10 | 5 | 8 | 13 |  |  | |
+| Small | 24 | 1/2d10 | 5 | 8 | 13 | | | |
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -355,7 +357,7 @@ Without some kind of manipulating appendage, robots cannot lift or move objects.
 - Large — Up to 4
 - Huge or larger — Up to 8
 
-To build a manipulator from scratch, a character must succeed at a Craft (mechanical) check (DC 25) after investing 24 hours in its construction. A character without a mechanical tool kit takes a −4 penalty on the skill check. The character must also make a Wealth check against the manipulator's purchase DC. Mastercraft robot manipulators can be fashioned using the Mastercrafter feat.
+To build a manipulator from scratch, a character must succeed at a Craft (mechanical) check (DC 25] after investing 24 hours in its construction. A character without a mechanical tool kit takes a −4 penalty on the skill check. The character must also make a Wealth check against the manipulator's purchase DC. Mastercraft robot manipulators can be fashioned using the Mastercrafter feat.
 
 Size: A manipulator, as an object, is usually two size categories smaller than the robot for which it's designed; for example, a hand designed for a Medium-size robot can be considered a Tiny object. A manipulator's size is usually important only for portability and concealment purposes.
 
@@ -380,7 +382,9 @@ Purchase DC: The cost of each manipulator. This cost is always a fraction of the
 
 [Return to Table of Contents](#table-of-contents)
 
-### Claw (PL 5)
+### Claw
+
+[PL 5]
 
 Claws resemble pincers, but the opposed surfaces cover the length of the appendage. Claws suffer the same handicaps as pincers when attempting tasks involving manual dexterity, but they deal greater damage.
 
@@ -389,7 +393,9 @@ Claws resemble pincers, but the opposed surfaces cover the length of the appenda
 
 [Return to Table of Contents](#table-of-contents)
 
-### Jaws (PL 5)
+### Jaws
+
+[PL 5]
 
 Only robots modeled after creatures with bite attacks have jaws. Robotic jaws are essentially large clamps with teeth.
 
@@ -398,7 +404,9 @@ Only robots modeled after creatures with bite attacks have jaws. Robotic jaws ar
 
 [Return to Table of Contents](#table-of-contents)
 
-### Pincer (PL 5)
+### Pincer
+
+[PL 5]
 
 A pincer is a two-fingered, clawlike appendage that focuses all the grip strength on a pair of opposed surfaces, rather like a pair of tongs. Pincers allow the robot to manipulate and lift objects without much difficulty, but objects specifically made for humanoid hands (like firearms) are usually beyond the pincers' ability to operate. At the GM's discretion, tasks involving manual dexterity suffer a −4 penalty for a robot equipped with pincers.
 
@@ -407,7 +415,9 @@ A pincer is a two-fingered, clawlike appendage that focuses all the grip strengt
 
 [Return to Table of Contents](#table-of-contents)
 
-### Probe (PL 5)
+### Probe
+
+[PL 5]
 
 Similar to a special-use gripper, a probe is simply an instrument of some kind, meant to measure torque, temperature, or some other factor. If the robot attempts to manipulate or lift an object with a probe, it takes a −4 penalty on the check.
 
@@ -416,7 +426,9 @@ Similar to a special-use gripper, a probe is simply an instrument of some kind, 
 
 [Return to Table of Contents](#table-of-contents)
 
-### Special-Use Gripper (PL 5)
+### Special-Use Gripper
+
+[PL 5]
 
 The robot has a manipulator designed for a specific task. When the robot uses a special-use gripper for a task other than its intended task, the robot suffers a −4 penalty on the check if the check involves manual strength or dexterity.
 
@@ -425,7 +437,9 @@ The robot has a manipulator designed for a specific task. When the robot uses a 
 
 [Return to Table of Contents](#table-of-contents)
 
-### Hand (PL 6)
+### Hand
+
+[PL 6]
 
 A hand is a step up from a claw, in that it has more digits—usually three or four, total. Hands are a bit more adaptable as well, imposing only a −2 penalty when attempting tasks involving manual dexterity.
 
@@ -434,7 +448,9 @@ A hand is a step up from a claw, in that it has more digits—usually three or f
 
 [Return to Table of Contents](#table-of-contents)
 
-### Advanced Hand (PL 7)
+### Advanced Hand
+
+[PL 7]
 
 Advanced hands are essentially the same in structure as human hands, though some might have additional fingers for specialized work. Advanced hands suffer no penalties when attempting tasks involving manual dexterity.
 
@@ -443,7 +459,9 @@ Advanced hands are essentially the same in structure as human hands, though some
 
 [Return to Table of Contents](#table-of-contents)
 
-### Task Hand (PL 7)
+### Task Hand
+
+[PL 7]
 
 Task hands function just like advanced hands, except that they are equipped with additional joints and often with additional or telescoping digits, enabling them to multitask, as well as to spread the robot's grip strength over a slightly wider area.
 
@@ -458,7 +476,9 @@ A robot with a task hand gains a +1 equipment bonus on Climb, Craft, Demolitions
 
 Armor is organized by Progress Level with individual pages for each armor type. Below are imported summaries of common robot armor types from the archive: descriptions, equipment bonuses, weight, speed penalties, purchase DCs, and restrictions.
 
-### Duraplastic Armor (PL 5)
+### Duraplastic Armor
+
+[PL 5]
 
 Duraplastic armor is made of advanced plastic polymers, like carbon fiber and high-grade fiberglass. Although relatively cheap and light, it doesn't offer tremendous protection. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated duraplastic armor.
 
@@ -470,7 +490,9 @@ Duraplastic armor is made of advanced plastic polymers, like carbon fiber and hi
 
 [Return to Table of Contents](#table-of-contents)
 
-### Alumisteel Armor (PL 5)
+### Alumisteel Armor
+
+[PL 5]
 
 Alumisteel is a lightweight, reasonably strong alloy. Bioreplica robots and liquid-state robots cannot have integrated alumisteel armor.
 
@@ -482,7 +504,9 @@ Alumisteel is a lightweight, reasonably strong alloy. Bioreplica robots and liqu
 
 [Return to Table of Contents](#table-of-contents)
 
-### Duralloy Armor (PL 6)
+### Duralloy Armor
+
+[PL 6]
 
 Duralloy armor is harder, heavier, and more durable than alumisteel. Bioreplica robots and liquid-state robots cannot have integrated duralloy armor.
 
@@ -494,7 +518,9 @@ Duralloy armor is harder, heavier, and more durable than alumisteel. Bioreplica 
 
 [Return to Table of Contents](#table-of-contents)
 
-### Resilium Armor (PL 6)
+### Resilium Armor
+
+[PL 6]
 
 Resilium is a more malleable alloy than duralloy, although not as strong. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated resilium armor.
 
@@ -506,7 +532,9 @@ Resilium is a more malleable alloy than duralloy, although not as strong. Biorep
 
 [Return to Table of Contents](#table-of-contents)
 
-### Neovulcanium Armor (PL 7)
+### Neovulcanium Armor
+
+[PL 7]
 
 Neovulcanium uses plasma-forging techniques to create an alloy of high resilience. Bioreplica robots and liquid-state robots cannot have integrated neovulcanium armor.
 
@@ -518,7 +546,9 @@ Neovulcanium uses plasma-forging techniques to create an alloy of high resilienc
 
 [Return to Table of Contents](#table-of-contents)
 
-### Crystal Carbon Armor (PL 7)
+### Crystal Carbon Armor
+
+[PL 7]
 
 Grown in orbital laboratories, crystal carbon is a composite fiber material that outperforms many alloys. Bioreplica robots of Medium-size or smaller and liquid-state robots cannot have integrated crystal carbon armor.
 
@@ -530,7 +560,9 @@ Grown in orbital laboratories, crystal carbon is a composite fiber material that
 
 [Return to Table of Contents](#table-of-contents)
 
-### Megatanium Armor (PL 8)
+### Megatanium Armor
+
+[PL 8]
 
 Megatanium is an extremely hard, durable layered armor (crystal carbon + neovulcanium matrix). Bioreplica robots and liquid-state robots cannot have integrated megatanium armor.
 
@@ -542,7 +574,9 @@ Megatanium is an extremely hard, durable layered armor (crystal carbon + neovulc
 
 [Return to Table of Contents](#table-of-contents)
 
-### Reactive Armor (PL 8)
+### Reactive Armor
+
+[PL 8]
 
 Reactive armor consists of layers of insulating gel or compressed gas between cerametal sheets; it provides protection comparable to crystal carbon but is cheaper to produce. Biodroid, bioreplica, and liquid-state robots cannot have integrated reactive armor.
 
@@ -560,7 +594,9 @@ Sensors are grouped by class and PL; import each class page one-at-a-time from t
 
 - [Stub] Content to import: sensor ranges, detection bonuses/penalties, and purchase DCs per class.
 
-### Class I Sensor System (PL 5)
+### Class I Sensor System
+
+[PL 5]
 
 This sensor system includes a low-res video camera and a basic audio receiver (effectively a robotic ear).
 
@@ -572,7 +608,9 @@ Purchase DC: 13.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class II Sensor System (PL 5)
+### Class II Sensor System
+
+[PL 5]
 
 This sensor system includes a video camera with infrared capability, capable of discerning creatures and objects by their heat signatures. It also includes a basic audio receiver and a crude chemical sniffer (a series of filters that detect free-floating chemical residues).
 
@@ -584,7 +622,9 @@ Purchase DC: 15.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class III Sensor System (PL 5)
+### Class III Sensor System
+
+[PL 5]
 
 This sensor system includes a video camera with infrared capability, a basic audio receiver, and a crude chemical sniffer.
 
@@ -596,7 +636,9 @@ Purchase DC: 17.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class IV Sensor System (PL 6)
+### Class IV Sensor System
+
+[PL 6]
 
 This sensor system includes hi-res video sensors, a hi-fidelity audio sensor, a chemical vapor scanner, and a pressure sensor that enables the robot to perform tasks requiring manual dexterity.
 
@@ -608,7 +650,9 @@ Purchase DC: 17.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class V Sensor System (PL 6)
+### Class V Sensor System
+
+[PL 6]
 
 This sensor system includes hi-res video sensors with darkvision (out to 60 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure sensors, and either a ladar or sonar system. Ladar uses laser detectors and ranging sensors to rapidly play low-powered laser beams across the robot's surroundings, allowing it to locate targets. Sonar sensors are used mostly in subaquatic environments, but the technology works almost as well in the air.
 
@@ -622,7 +666,9 @@ Purchase DC: 19.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class VI Sensor System (PL 6)
+### Class VI Sensor System
+
+[PL 6]
 
 This sensor system includes hi-res video sensors with darkvision (out to 120 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure sensors, and short-range radar that allows a robot to not only perceive its surroundings but also target more effectively.
 
@@ -634,7 +680,9 @@ Purchase DC: 22.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class VII Sensor System (PL 7)
+### Class VII Sensor System
+
+[PL 7]
 
 This sensor system includes hi-definition video sensors with darkvision (out to 120 feet), acoustic audio sensors, a chemical vapor scanner, pressure sensors, and multiband radar that uses multiple concurrent radar signals in different frequencies to gather more data.
 
@@ -646,7 +694,9 @@ Purchase DC: 22.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class VIII Sensor System (PL 7)
+### Class VIII Sensor System
+
+[PL 7]
 
 This sensor system includes hi-definition video sensors with darkvision (out to 120 feet), acoustic audio sensors, a sophisticated olfactory sensor, a tactile sensor array, and multiband radar.
 
@@ -658,7 +708,9 @@ Purchase DC: 25.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class IX Sensor System (PL 8)
+### Class IX Sensor System
+
+[PL 8]
 
 This sensor system includes a full-spectrum eye with darkvision (out to 180 feet), a full-frequency ear, a sophisticated olfactory sensor, a tactile sensor array, and multiband radar.
 
@@ -670,7 +722,9 @@ Purchase DC: 26.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Nerve Web (PL 8)
+### Nerve Web
+
+[PL 8]
 
 The nerve web is an advanced sensor array that simulates the function of an organic nervous system. This sensor system includes a full-spectrum eye with darkvision (out to 180 feet), a full-frequency ear, a sophisticated olfactory sensor, tactile and gustatory sensors, and multiband radar.
 
@@ -684,13 +738,23 @@ Purchase DC: 28.
 
 ## Skills
 
-Robots can gain skill software such as Skill Chip (PL 5), Language Chip, Skill Progit (PL 6), Skill Net (PL 7), and Skill Web (PL 8).
+Robots can gain skill software such as
+
+- Skill Chip [PL 5]
+- Language Chip
+- Skill Progit [PL 6]
+- Skill Net [PL 7]
+- Skill Web [PL 8]
 
 [Return to Table of Contents](#table-of-contents)
 
 ## Feat Software
 
-Feat software allows robots to emulate feats: Feat Progit (PL 6), Feat Net (PL 7), Feat Web (PL 8).
+Feat software allows robots to emulate feats:
+
+- Feat Progit [PL 6]
+- Feat Net [PL 7]
+- Feat Web [PL 8].
 
 [Return to Table of Contents](#table-of-contents)
 
@@ -708,7 +772,9 @@ Accessories are presented by PL with individual accessory pages. Import them one
 
 [Return to Table of Contents](#table-of-contents)
 
-### Robot Repair Unit (PL 8)
+### Robot Repair Unit
+
+[PL 8]
 
 The RRU enables a robot to repair itself or another robot by replacing damaged parts with replicated new ones. In the latter case, the robot making the repairs must be adjacent to the damaged robot. The robot must spend a full-round action to repair itself or another robot; this automatically restores 1d10 points of damage (no Repair check necessary).
 
@@ -718,7 +784,9 @@ Restriction: Licensed (+1).
 
 [Return to Table of Contents](#table-of-contents)
 
-### AV Recorder (PL 5)
+### AV Recorder
+
+[PL 5]
 
 This audio and video recorder unit uses the robot’s video and audio sensors to record and store up to 8 hours of information.
 
@@ -728,7 +796,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### AV Transmitter (PL 5)
+### AV Transmitter
+
+[PL 5]
 
 A remote audio-visual transmitter sends the robot’s camera and microphone feed to a remote receiver (effective range about 1,000 feet). It allows an operator to see and hear what the robot perceives but does not by itself permit remote control.
 
@@ -738,7 +808,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Vocalizer (PL 5)
+### Vocalizer
+
+[PL 5]
 
 Enables a robot to speak any language it knows (requires the robot to have the appropriate Speak Language skill via levels or skill software).
 
@@ -748,7 +820,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Fire Extinguisher (PL 5)
+### Fire Extinguisher
+
+[PL 5]
 
 Ejects extinguishing chemicals to put out fires in a 10×10 ft. square. Tank holds shots based on frame size (Small 2, Medium 4, Large 8, Huge 16, Gargantuan 32, Colossal 64).
 
@@ -758,7 +832,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Holo Screen (PL 7)
+### Holo Screen
+
+[PL 7]
 
 Projects a holographic image around the robot to disguise its appearance; physical objects pass through the projection. Provides about 20% concealment against attacks.
 
@@ -768,7 +844,9 @@ Restriction: Licensed (+1).
 
 [Return to Table of Contents](#table-of-contents)
 
-### Inertial Inhibitor (PL 7)
+### Inertial Inhibitor
+
+[PL 7]
 
 Generates a field that reduces incoming kinetic damage (DR 5/energy). Powered by the robot’s internal source.
 
@@ -778,7 +856,9 @@ Restriction: Military (+3).
 
 [Return to Table of Contents](#table-of-contents)
 
-### Integrated Cell Phone (PL 5)
+### Integrated Cell Phone
+
+[PL 5]
 
 A built-in cell phone module providing standard cellular communications.
 
@@ -788,7 +868,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Internal Storage Unit (PL 5)
+### Internal Storage Unit
+
+[PL 5]
 
 Insulated compartment for storing objects (stores items up to two size categories smaller than the robot). See the included table for weight limits and Purchase DCs by frame size.
 
@@ -798,7 +880,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Loading Mechanism (PL 5)
+### Loading Mechanism
+
+[PL 5]
 
 Allows a robot to reload a handheld weapon as a full-round action; holds enough ammunition for three reloads. Robots may have multiple mechanisms (one per weapon).
 
@@ -808,7 +892,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Magnetic Feet (PL 5)
+### Magnetic Feet
+
+[PL 5]
 
 Magnetic adhesion system enabling robots to cling to ferrous surfaces and gain improved climb or anchoring capabilities.
 
@@ -818,7 +904,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Photon Screen (PL 8)
+### Photon Screen
+
+[PL 8]
 
 Bends light around the robot to render it invisible; grants large Hide bonuses when immobile or moving and confers partial concealment when located by opponents.
 
@@ -828,7 +916,9 @@ Restriction: Restricted (+2).
 
 [Return to Table of Contents](#table-of-contents)
 
-### Polyvox (PL 5)
+### Polyvox
+
+[PL 5]
 
 A language and voice synthesis unit that enables translation and speech synthesis for multiple languages.
 
@@ -838,7 +928,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Remote Control Unit (PL 5)
+### Remote Control Unit
+
+[PL 5]
 
 Allows an operator to control a robot remotely when used in conjunction with an AV transmitter and robolink; provides remote operator control features.
 
@@ -848,7 +940,9 @@ Restriction: None.
 
 [Return to Table of Contents](#table-of-contents)
 
-### Robolink (PL 5)
+### Robolink
+
+[PL 5]
 
 A transmitter/receiver system that enables limited remote control of non-intelligent robots over ranges up to about 1,000 feet when paired with compatible remote control systems.
 
@@ -876,7 +970,11 @@ A robot armed with multiple mounted weapons gains one primary attack with a moun
 
 [Return to Table of Contents](#table-of-contents)
 
-### "Spot" Security Robot (PL 6)
+## Sample Robots
+
+### "Spot" Security Robot
+
+[PL 6]
 
 This robot looks like a man-sized, mechanical guard dog with four powerful legs, wicked jaws, and resilium armor covering its body. It growls and barks at intruders with the aid of a vocalizer. "Spot" functions as a robotic watchdog and can only be mistaken for an actual dog at distances of 100 feet or more.
 
@@ -902,7 +1000,9 @@ Systems and accessories:
 
 [Return to Table of Contents](#table-of-contents)
 
-### "Nuyu" Doppelganger Robot (PL 7)
+### "Nuyu" Doppelganger Robot
+
+[PL 7]
 
 Each doppelganger robot is modeled after a specific person. "Nuyu" bioreplicas are often used as doubles for politicians and movie stars during high-risk public appearances. Government agencies also use them as spies and infiltrators. A "Nuyu" is usually programmed with enough knowledge of its biological counterpart to maintain the charade for a period of a few hours or days.
 
@@ -928,7 +1028,9 @@ Systems and accessories:
 
 [Return to Table of Contents](#table-of-contents)
 
-### APE Police Robot (PL 6)
+### APE Police Robot
+
+[PL 6]
 
 The Armed Police Escort (APE) robot is designed to help police deal with civil disobedience and unrest in the urban jungle. This robot resembles a hulking, apelike man with thick arms and legs, clad head-to-toe in interlocking duralloy plates. The robot's hands can be used for grappling or carrying items. It usually carries an OICW assault rifle. In addition, it has a mini-grenade launcher (with a compartment for concussion grenades) mounted in its left forearm and a laser pistol mounted in its right forearm. The APE robot cannot use its mounted weapons if it is grappling.
 

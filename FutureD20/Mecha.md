@@ -1,7 +1,7 @@
 
 # Mecha
 
-[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Mecha](./Mecha.md)
+[Index](../readme.md) > [Future](./Future.md) > [Mecha](./Mecha.md)
 
 Mecha technology can be found in societies of PL 6 or higher.
 

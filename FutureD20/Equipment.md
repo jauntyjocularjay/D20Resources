@@ -1,5 +1,7 @@
 # The Gadget System
 
+[Index](../../readme.md) > [Future](./Future.md) > [Equipment](../Equipment.md)
+
 The gadget system is a way to customize weapons, armor, and equipment to more appropriately fit a given campaign or character. Since each campaign will likely use very different items based on its unique setting, the gadget system allows total freedom in designing specific models of equipment from the generic base items found throughout this chapter.
 
 Using the gadget system is a simple matter of mixing and matching various elements of a piece of gear until it fits what is needed.

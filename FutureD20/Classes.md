@@ -1,6 +1,6 @@
 # Classes
 
-[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Classes](../Classes.md)
+[Index](../../readme.md) > [Future](./Future.md) > [Classes](../Classes.md)
 
 This page consolidates all Future d20 advanced class entries into one reference.
 

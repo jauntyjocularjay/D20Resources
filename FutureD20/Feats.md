@@ -1,6 +1,6 @@
 # Feats
 
-[Index](../../readme.md) > [Future d20 SRD](./readme.md) > [Feats](./feats.md)
+[Index](../../readme.md) > [Future](./Future.md) > [Feats](./feats.md)
 
 ## Table of Contents
 

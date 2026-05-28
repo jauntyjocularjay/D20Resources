@@ -1,6 +1,6 @@
 # Cybernetics
 
-[Index](../readme.md) > [Future d20 SRD](./readme.md) > [Cybernetics](./Cybernetics.md)
+[Index](../readme.md) > [Future](./Future.md) > [Cybernetics](./Cybernetics.md)
 
 ## Table of Contents
 

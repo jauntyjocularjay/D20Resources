@@ -5,6 +5,62 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
 ## Table of Contents
 
 - [Skills](./Skills.md)
+- [Arcana](./ArcanaD20/Arcana.md)
+  - Advanced Classes
+  - Occupations
+  - Creatures
+  - Organizations
+  - Equipment
+  - Prestige Classes
+  - Feats
+  - FX Items
+  - Incantations
+  - Psionics
+  - Shadowkind
+  - Spells
+- [Future](./FutureD20/Future.md)
+  - [Classes](./FutureD20/Classes.md)
+  - [Cybernetics](./FutureD20/Cybernetics.md)
+  - [Environments](./FutureD20/Environments.md)
+  - [Equipment](./FutureD20/Equipment.md)
+  - [Feats](./FutureD20/Feats.md)
+  - [Mecha](./FutureD20/Mecha.md)
+  - [Mutations](./FutureD20/Mutations.md)
+  - Progress Levels
+  - [Robots](./FutureD20/Robots.md)
+  - Scientific Engineering
+  - Starships
+  - Starting Occupations
+  - Traveler Science
+  - Vehicles
+  - Xenobiology
+- [Modern](./ModernD20/Modern.md)
+  - Basics
+  - Classes
+  - Combat
+  - Condition Summary
+  - Creature Types
+  - Creatures
+  - Environment & Hazards
+  - Equipment
+  - Feats
+  - FX
+  - FX Items
+  - Ordinaries
+  - Psionics
+  - Reputation
+  - Skills
+  - Special Abilities
+  - Starting Occupation
+  - Vehicle Movement and Combat
+  - Wealth
+- [Menaces](./MenacesD20/Menaces.md)
+  - Buying Services
+  - Feats
+  - Menaces (List)
+- **AliensVPredator**
+  - [Yautja - Predator](AliensVPredator/Races/Yautja.md)
+- [Brendan's Note](#brendans-note)
 
 ## Brendan's Note
 
