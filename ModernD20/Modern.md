@@ -5,7 +5,7 @@ This section contains the System Reference Document (SRD) for the Modern d20 rul
 ## Table of Contents
 
 - Basics
-- Classes
+- [Classes](./ModernAdvClasses.md)
 - Combat
 - Condition Summary
 - Creature Types

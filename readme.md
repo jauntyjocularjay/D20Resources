@@ -4,6 +4,8 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
 
 ## Table of Contents
 
+- [Basic Classes](./Classes/Basic.md)
+- [Multiclassing](./Classes/Multiclassing.md)
 - [Skills](./Skills.md)
 - [Arcana](./ArcanaD20/Arcana.md)
   - Advanced Classes

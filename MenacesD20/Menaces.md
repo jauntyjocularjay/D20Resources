@@ -4,6 +4,6 @@ This section contains the d20 Menaces rules and resources, converted from the or
 
 ## Table of Contents
 
-- Buying Services
-- Feats
+- [Buying Services](./BuyingServices.md)
+- [Feats](./Feats.md)
 - Menaces
