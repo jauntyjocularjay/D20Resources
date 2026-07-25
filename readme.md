@@ -7,7 +7,7 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
 - [Basic Classes](./Classes/Basic.md)
 - [Multiclassing](./Classes/Multiclassing.md)
 - [Skills](./Skills.md)
-- [Arcana](./ArcanaD20/Arcana.md)
+- [Arcana](./Arcana/Arcana.md)
   - Advanced Classes
   - Occupations
   - Creatures
@@ -20,25 +20,25 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Psionics
   - Shadowkind
   - Spells
-- [Future](./FutureD20/Future.md)
-  - [Classes](./FutureD20/Classes.md)
-  - [Cybernetics](./FutureD20/Cybernetics.md)
-  - [Environments](./FutureD20/Environments.md)
-  - [Equipment](./FutureD20/Equipment.md)
-  - [Feats](./FutureD20/Feats.md)
-  - [Mecha](./FutureD20/Mecha.md)
-  - [Mutations](./FutureD20/Mutations.md)
+- [Future](./Future/Future.md)
+  - [Classes](./Future/Classes.md)
+  - [Cybernetics](./Future/Cybernetics.md)
+  - [Environments](./Future/Environments.md)
+  - [Equipment](./Future/Equipment.md)
+  - [Feats](./Future/Feats.md)
+  - [Mecha](./Future/Mecha.md)
+  - [Mutations](./Future/Mutations.md)
   - Progress Levels
-  - [Robots](./FutureD20/Robots.md)
+  - [Robots](./Future/Robots.md)
   - Scientific Engineering
   - Starships
   - Starting Occupations
   - Traveler Science
   - Vehicles
   - Xenobiology
-- [Modern](./ModernD20/Modern.md)
+- [Modern](./Modern/Modern.md)
   - Basics
-  - Classes
+  - [Classes](./Modern/ModernAdvClasses.md)
   - Combat
   - Condition Summary
   - Creature Types
@@ -56,7 +56,7 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Starting Occupation
   - Vehicle Movement and Combat
   - Wealth
-- [Menaces](./MenacesD20/Menaces.md)
+- [Menaces](./Menaces/Menaces.md)
   - Buying Services
   - Feats
   - Menaces (List)
