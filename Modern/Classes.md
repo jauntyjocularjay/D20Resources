@@ -9,238 +9,238 @@
   - [Class Information](#class-information)
   - [Hit Die](#hit-die)
   - [Action Points](#action-points)
-  - [Class Skills](#class-skills)
-  - [Class Features](#class-features)
-  - [Divine Skills](#divine-skills)
-  - [Divine Spells](#divine-spells)
-  - [Turn or Rebuke Undead](#turn-or-rebuke-undead)
-  - [Bonus Feats](#bonus-feats)
-  - [Spontaneous Casting](#spontaneous-casting)
-  - [Combat Casting](#combat-casting)
-  - [Turn or Rebuke Magical Beast](#turn-or-rebuke-magical-beast)
-  - [Turn or Rebuke Outsider](#turn-or-rebuke-outsider)
-  - [Maximize Spell](#maximize-spell)
+  - [Acolyte Skills](#class-skills)
+  - [Acolyte Feats](#class-feats)
+    - [Divine Skills](#divine-skills)
+    - [Divine Spells](#divine-spells)
+    - [Turn or Rebuke Undead](#turn-or-rebuke-undead)
+    - [Bonus Feats](#bonus-feats)
+    - [Spontaneous Casting](#spontaneous-casting)
+    - [Combat Casting](#combat-casting)
+    - [Turn or Rebuke Magical Beast](#turn-or-rebuke-magical-beast)
+    - [Turn or Rebuke Outsider](#turn-or-rebuke-outsider)
+    - [Maximize Spell](#maximize-spell)
 - [Battle Mind](#battle-mind)
   - [Battle Mind Requirements](#battle-mind-requirements)
   - [Battle Mind Class Information](#battle-mind-class-information)
   - [Battle Mind Hit Die](#battle-mind-hit-die)
   - [Battle Mind Action Points](#battle-mind-action-points)
   - [Battle Mind Class Skills](#battle-mind-class-skills)
-  - [Battle Mind Class Features](#battle-mind-class-features)
+  - [Battle Mind Class Feats](#battle-mind-class-feats)
   - [Battle Mind Psionic Skills](#battle-mind-psionic-skills)
   - [Battle Mind Psionic Powers](#battle-mind-psionic-powers)
-  - [Psi-Blade](#psi-blade)
-  - [Imprint Tattoo](#imprint-tattoo)
-  - [Battle Mind Bonus Feats](#battle-mind-bonus-feats)
-  - [Psychic Shield](#psychic-shield)
-  - [Combat Manifestation](#combat-manifestation)
-  - [Improved Psi-Blade](#improved-psi-blade)
-  - [Improved Psychic Shield](#improved-psychic-shield)
-  - [Ultimate Psi-Blade](#ultimate-psi-blade)
+    - [Psi-Blade](#psi-blade)
+    - [Imprint Tattoo](#imprint-tattoo)
+    - [Battle Mind Bonus Feats](#battle-mind-bonus-feats)
+    - [Psychic Shield](#psychic-shield)
+    - [Combat Manifestation](#combat-manifestation)
+    - [Improved Psi-Blade](#improved-psi-blade)
+    - [Improved Psychic Shield](#improved-psychic-shield)
+    - [Ultimate Psi-Blade](#ultimate-psi-blade)
 - [Bodyguard](#bodyguard)
   - [Bodyguard Requirements](#bodyguard-requirements)
   - [Bodyguard Class Information](#bodyguard-class-information)
   - [Bodyguard Class Skills](#bodyguard-class-skills)
-  - [Bodyguard Class Features](#bodyguard-class-features)
-  - [Harm's Way](#harms-way)
-  - [Combat Sense](#combat-sense)
-  - [Bodyguard Bonus Feats](#bodyguard-bonus-feats)
-  - [Sudden Action](#sudden-action)
-  - [Improved Charge](#improved-charge)
-  - [Defensive Strike](#defensive-strike)
-  - [Blanket Protection](#blanket-protection)
+  - [Bodyguard Class Feats](#bodyguard-class-feats)
+    - [Harm's Way](#harms-way)
+    - [Combat Sense](#combat-sense)
+    - [Bodyguard Bonus Feats](#bodyguard-bonus-feats)
+    - [Sudden Action](#sudden-action)
+    - [Improved Charge](#improved-charge)
+    - [Defensive Strike](#defensive-strike)
+    - [Blanket Protection](#blanket-protection)
 - [Daredevil](#daredevil)
   - [Daredevil Requirements](#daredevil-requirements)
   - [Daredevil Class Information](#daredevil-class-information)
   - [Daredevil Class Skills](#daredevil-class-skills)
-  - [Daredevil Class Features](#daredevil-class-features)
+  - [Daredevil Class Feats](#daredevil-class-feats)
   - [Fearless](#fearless)
   - [Nip-Up](#nip-up)
-  - [Daredevil Bonus Feats](#daredevil-bonus-feats)
-  - [Action Boost](#action-boost)
-  - [Adrenaline Rush](#adrenaline-rush)
-  - [Delay Damage](#delay-damage)
-  - [Damage Threshold](#damage-threshold)
+  - [Daredevil Feats](#daredevil-bonus-feats)
+    - [Action Boost](#action-boost)
+    - [Adrenaline Rush](#adrenaline-rush)
+    - [Delay Damage](#delay-damage)
+    - [Damage Threshold](#damage-threshold)
 - [Field Medic](#field-medic)
   - [Field Medic Requirements](#field-medic-requirements)
   - [Field Medic Class Information](#field-medic-class-information)
   - [Field Medic Class Skills](#field-medic-class-skills)
-  - [Field Medic Class Features](#field-medic-class-features)
-  - [Medical Specialist](#medical-specialist)
-  - [Expert Healer](#expert-healer)
-  - [Field Medic Bonus Feats](#field-medic-bonus-feats)
-  - [Medical Mastery](#medical-mastery)
-  - [Minor Medical Miracle](#minor-medical-miracle)
-  - [Medical Miracle](#medical-miracle)
+  - [Field Medic Class Feats](#field-medic-class-feats)
+    - [Medical Specialist](#medical-specialist)
+    - [Expert Healer](#expert-healer)
+    - [Field Medic Bonus Feats](#field-medic-bonus-feats)
+    - [Medical Mastery](#medical-mastery)
+    - [Minor Medical Miracle](#minor-medical-miracle)
+    - [Medical Miracle](#medical-miracle)
 - [Field Scientist](#field-scientist)
   - [Field Scientist Requirements](#field-scientist-requirements)
   - [Field Scientist Class Information](#field-scientist-class-information)
   - [Field Scientist Class Skills](#field-scientist-class-skills)
-  - [Field Scientist Class Features](#field-scientist-class-features)
-  - [Smart Defense](#smart-defense)
-  - [Scientific Improvisation](#scientific-improvisation)
-  - [Field Scientist Bonus Feats](#field-scientist-bonus-feats)
-  - [Infiltrator Skill Mastery](#infiltrator-skill-mastery)
-  - [Minor Breakthrough](#minor-breakthrough)
-  - [Smart Survival](#smart-survival)
-  - [Smart Weapon](#smart-weapon)
-  - [Major Breakthrough](#major-breakthrough)
+  - [Field Scientist Class Feats](#field-scientist-class-feats)
+    - [Smart Defense](#smart-defense)
+    - [Scientific Improvisation](#scientific-improvisation)
+    - [Field Scientist Bonus Feats](#field-scientist-bonus-feats)
+    - [Infiltrator Skill Mastery](#infiltrator-skill-mastery)
+    - [Minor Breakthrough](#minor-breakthrough)
+    - [Smart Survival](#smart-survival)
+    - [Smart Weapon](#smart-weapon)
+    - [Major Breakthrough](#major-breakthrough)
 - [Gunslinger](#gunslinger)
   - [Gunslinger Requirements](#gunslinger-requirements)
   - [Gunslinger Class Information](#gunslinger-class-information)
   - [Gunslinger Class Skills](#gunslinger-class-skills)
-  - [Gunslinger Class Features](#gunslinger-class-features)
-  - [Close Combat Shot](#close-combat-shot)
-  - [Weapon Focus](#weapon-focus)
-  - [Gunslinger Bonus Feats](#gunslinger-bonus-feats)
-  - [Defensive Position](#defensive-position)
-  - [Lightning Shot](#lightning-shot)
-  - [Sharp-Shooting](#sharp-shooting)
-  - [Greater Weapon Focus](#greater-weapon-focus)
-  - [Bullseye](#bullseye)
+  - [Gunslinger Class Feats](#gunslinger-class-feats)
+    - [Close Combat Shot](#close-combat-shot)
+    - [Weapon Focus](#weapon-focus)
+    - [Gunslinger Bonus Feats](#gunslinger-bonus-feats)
+    - [Defensive Position](#defensive-position)
+    - [Lightning Shot](#lightning-shot)
+    - [Sharp-Shooting](#sharp-shooting)
+    - [Greater Weapon Focus](#greater-weapon-focus)
+    - [Bullseye](#bullseye)
 - [Infiltrator](#infiltrator)
   - [Infiltrator Requirements](#infiltrator-requirements)
   - [Infiltrator Class Information](#infiltrator-class-information)
   - [Infiltrator Class Skills](#infiltrator-class-skills)
-  - [Infiltrator Class Features](#infiltrator-class-features)
-  - [Sweep](#sweep)
-  - [Improvised Implements](#improvised-implements)
-  - [Infiltrator Bonus Feats](#infiltrator-bonus-feats)
-  - [Improved Evasion](#improved-evasion)
-  - [Skill Mastery](#skill-mastery)
-  - [Improvised Weapon Damage](#improvised-weapon-damage)
-  - [Improved Sweep](#improved-sweep)
-  - [Without a Trace](#without-a-trace)
+  - [Infiltrator Class Feats](#infiltrator-class-feats)
+    - [Sweep](#sweep)
+    - [Improvised Implements](#improvised-implements)
+    - [Infiltrator Bonus Feats](#infiltrator-bonus-feats)
+    - [Improved Evasion](#improved-evasion)
+    - [Skill Mastery](#skill-mastery)
+    - [Improvised Weapon Damage](#improvised-weapon-damage)
+    - [Improved Sweep](#improved-sweep)
+    - [Without a Trace](#without-a-trace)
 - [Investigator](#investigator)
   - [Investigator Requirements](#investigator-requirements)
   - [Investigator Class Information](#investigator-class-information)
   - [Investigator Class Skills](#investigator-class-skills)
-  - [Investigator Class Features](#investigator-class-features)
-  - [Profile](#profile)
-  - [Contact](#contact)
-  - [Investigator Bonus Feats](#investigator-bonus-feats)
-  - [Nonlethal Force](#nonlethal-force)
-  - [Discern Lie](#discern-lie)
-  - [Sixth Sense](#sixth-sense)
+  - [Investigator Class Feats](#investigator-class-feats)
+    - [Profile](#profile)
+    - [Contact](#contact)
+    - [Investigator Bonus Feats](#investigator-bonus-feats)
+    - [Nonlethal Force](#nonlethal-force)
+    - [Discern Lie](#discern-lie)
+    - [Sixth Sense](#sixth-sense)
 - [Mage](#mage)
   - [Mage Requirements](#mage-requirements)
   - [Mage Class Information](#mage-class-information)
   - [Mage Hit Die](#mage-hit-die)
   - [Mage Action Points](#mage-action-points)
   - [Mage Class Skills](#mage-class-skills)
-  - [Mage Class Features](#mage-class-features)
-  - [Arcane Skills](#arcane-skills)
-  - [Arcane Spells](#arcane-spells)
-  - [Arcane Spells and Armor](#arcane-spells-and-armor)
-  - [Spellbooks](#spellbooks)
-  - [Summon Familiar](#summon-familiar)
-  - [Scribe Scroll](#scribe-scroll)
-  - [Mage Bonus Feats](#mage-bonus-feats)
-  - [Brew Potion](#brew-potion)
-  - [Scribe Tattoo](#scribe-tattoo)
-  - [Spell Mastery](#spell-mastery)
-  - [Mage Combat Casting](#mage-combat-casting)
-  - [Mage Maximize Spell](#mage-maximize-spell)
+  - [Mage Class Feats](#mage-class-feats)
+    - [Arcane Skills](#arcane-skills)
+    - [Arcane Spells](#arcane-spells)
+    - [Arcane Spells and Armor](#arcane-spells-and-armor)
+    - [Spellbooks](#spellbooks)
+    - [Summon Familiar](#summon-familiar)
+    - [Scribe Scroll](#scribe-scroll)
+    - [Mage Bonus Feats](#mage-bonus-feats)
+    - [Brew Potion](#brew-potion)
+    - [Scribe Tattoo](#scribe-tattoo)
+    - [Spell Mastery](#spell-mastery)
+    - [Mage Combat Casting](#mage-combat-casting)
+    - [Mage Maximize Spell](#mage-maximize-spell)
 - [Martial Artist](#martial-artist)
   - [Martial Artist Requirements](#martial-artist-requirements)
   - [Martial Artist Class Information](#martial-artist-class-information)
   - [Martial Artist Class Skills](#martial-artist-class-skills)
-  - [Martial Artist Class Features](#martial-artist-class-features)
-  - [Living Weapon](#living-weapon)
-  - [Flying Kick](#flying-kick)
-  - [Martial Artist Bonus Feats](#martial-artist-bonus-feats)
-  - [Iron Fist](#iron-fist)
-  - [Flurry of Blows](#flurry-of-blows)
+  - [Martial Artist Class Feats](#martial-artist-class-feats)
+    - [Living Weapon](#living-weapon)
+    - [Flying Kick](#flying-kick)
+    - [Martial Artist Bonus Feats](#martial-artist-bonus-feats)
+    - [Iron Fist](#iron-fist)
+    - [Flurry of Blows](#flurry-of-blows)
 - [Negotiator](#negotiator)
   - [Negotiator Requirements](#negotiator-requirements)
   - [Negotiator Class Information](#negotiator-class-information)
   - [Negotiator Class Skills](#negotiator-class-skills)
-  - [Negotiator Class Features](#negotiator-class-features)
-  - [Conceal Motive](#conceal-motive)
-  - [React First](#react-first)
-  - [Negotiator Bonus Feats](#negotiator-bonus-feats)
-  - [Talk Down](#talk-down)
-  - [No Sweat](#no-sweat)
-  - [Sow Distrust](#sow-distrust)
+  - [Negotiator Class Feats](#negotiator-class-feats)
+    - [Conceal Motive](#conceal-motive)
+    - [React First](#react-first)
+    - [Negotiator Bonus Feats](#negotiator-bonus-feats)
+    - [Talk Down](#talk-down)
+    - [No Sweat](#no-sweat)
+    - [Sow Distrust](#sow-distrust)
 - [Occultist](#occultist)
   - [Occultist Requirements](#occultist-requirements)
   - [Occultist Class Information](#occultist-class-information)
   - [Occultist Hit Die](#occultist-hit-die)
   - [Occultist Action Points](#occultist-action-points)
   - [Occultist Class Skills](#occultist-class-skills)
-  - [Occultist Class Features](#occultist-class-features)
-  - [Occultist Arcane Skills](#occultist-arcane-skills)
-  - [Occultist Use Magic Device](#occultist-use-magic-device)
-  - [Occultist Spell Resistance](#occultist-spell-resistance)
-  - [Occultist Arcane Research (Scrolls)](#occultist-arcane-research-scrolls)
-  - [Occultist Bonus Feats](#occultist-bonus-feats)
-  - [Shadow Contact](#shadow-contact)
-  - [Bind Shadow Creature](#bind-shadow-creature)
-  - [Occultist Arcane Research (Items)](#occultist-arcane-research-items)
-  - [Banish](#banish)
+  - [Occultist Class Feats](#occultist-class-feats)
+    - [Occultist Arcane Skills](#occultist-arcane-skills)
+    - [Occultist Use Magic Device](#occultist-use-magic-device)
+    - [Occultist Spell Resistance](#occultist-spell-resistance)
+    - [Occultist Arcane Research (Scrolls)](#occultist-arcane-research-scrolls)
+    - [Occultist Bonus Feats](#occultist-bonus-feats)
+    - [Shadow Contact](#shadow-contact)
+    - [Bind Shadow Creature](#bind-shadow-creature)
+    - [Occultist Arcane Research (Items)](#occultist-arcane-research-items)
+    - [Banish](#banish)
 - [Personality](#personality)
   - [Personality Requirements](#personality-requirements)
   - [Personality Class Information](#personality-class-information)
   - [Personality Class Skills](#personality-class-skills)
-  - [Personality Class Features](#personality-class-features)
-  - [Unlimited Access](#unlimited-access)
-  - [Bonus Class Skill](#bonus-class-skill)
-  - [Personality Bonus Feats](#personality-bonus-feats)
-  - [Royalty](#royalty)
-  - [Winning Smile](#winning-smile)
-  - [Compelling Performance](#compelling-performance)
+  - [Personality Class Feats](#personality-class-feats)
+    - [Unlimited Access](#unlimited-access)
+    - [Bonus Class Skill](#bonus-class-skill)
+    - [Personality Bonus Feats](#personality-bonus-feats)
+    - [Royalty](#royalty)
+    - [Winning Smile](#winning-smile)
+    - [Compelling Performance](#compelling-performance)
 - [Shadow Slayer](#shadow-slayer)
   - [Shadow Slayer Requirements](#shadow-slayer-requirements)
   - [Shadow Slayer Class Information](#shadow-slayer-class-information)
   - [Shadow Slayer Hit Die](#shadow-slayer-hit-die)
   - [Shadow Slayer Action Points](#shadow-slayer-action-points)
   - [Shadow Slayer Class Skills](#shadow-slayer-class-skills)
-  - [Shadow Slayer Class Features](#shadow-slayer-class-features)
-  - [Detect Shadow](#detect-shadow)
-  - [Shadow Immunity](#shadow-immunity)
-  - [Shadow Slayer Bonus Feats](#shadow-slayer-bonus-feats)
-  - [Slayer Weapon](#slayer-weapon)
-  - [Shadow Enemy](#shadow-enemy)
-  - [Shadow Enemy Types](#shadow-enemy-types)
-  - [Fast Healing](#fast-healing)
-  - [Word of Slaying](#word-of-slaying)
+  - [Shadow Slayer Class Feats](#shadow-slayer-class-feats)
+    - [Detect Shadow](#detect-shadow)
+    - [Shadow Immunity](#shadow-immunity)
+    - [Shadow Slayer Bonus Feats](#shadow-slayer-bonus-feats)
+    - [Slayer Weapon](#slayer-weapon)
+    - [Shadow Enemy](#shadow-enemy)
+    - [Shadow Enemy Types](#shadow-enemy-types)
+    - [Fast Healing](#fast-healing)
+    - [Word of Slaying](#word-of-slaying)
 - [Soldier](#soldier)
   - [Soldier Requirements](#soldier-requirements)
   - [Soldier Class Information](#soldier-class-information)
   - [Soldier Class Skills](#soldier-class-skills)
-  - [Soldier Class Features](#soldier-class-features)
+  - [Soldier Class Feats](#soldier-class-feats)
   - [Soldier Weapon Focus](#soldier-weapon-focus)
   - [Soldier Weapon Specialization](#soldier-weapon-specialization)
   - [Soldier Bonus Feats](#soldier-bonus-feats)
-  - [Tactical Aid](#tactical-aid)
-  - [Improved Critical](#improved-critical)
-  - [Improved Reaction](#improved-reaction)
-  - [Greater Weapon Specialization](#greater-weapon-specialization)
-  - [Critical Strike](#critical-strike)
+    - [Tactical Aid](#tactical-aid)
+    - [Improved Critical](#improved-critical)
+    - [Improved Reaction](#improved-reaction)
+    - [Greater Weapon Specialization](#greater-weapon-specialization)
+    - [Critical Strike](#critical-strike)
 - [Techie](#techie)
   - [Techie Requirements](#techie-requirements)
   - [Techie Class Information](#techie-class-information)
   - [Techie Class Skills](#techie-class-skills)
-  - [Techie Class Features](#techie-class-features)
-  - [Jury-Rig](#jury-rig)
-  - [Extreme Machine](#extreme-machine)
-  - [Techie Bonus Feats](#techie-bonus-feats)
-  - [Build Robot](#build-robot)
-  - [Mastercraft](#mastercraft)
+  - [Techie Class Feats](#techie-class-feats)
+    - [Jury-Rig](#jury-rig)
+    - [Extreme Machine](#extreme-machine)
+    - [Techie Bonus Feats](#techie-bonus-feats)
+      - [Build Robot](#build-robot)
+      - [Mastercraft](#mastercraft)
 - [Telepath](#telepath)
   - [Telepath Requirements](#telepath-requirements)
   - [Telepath Class Information](#telepath-class-information)
   - [Telepath Hit Die](#telepath-hit-die)
   - [Telepath Action Points](#telepath-action-points)
   - [Telepath Class Skills](#telepath-class-skills)
-  - [Telepath Class Features](#telepath-class-features)
   - [Telepath Psionic Skills](#telepath-psionic-skills)
   - [Telepath Psionic Powers](#telepath-psionic-powers)
-  - [Trigger Power](#trigger-power)
-  - [Telepath Bonus Feats](#telepath-bonus-feats)
-  - [Power Crystal](#power-crystal)
-  - [Telepath Combat Manifestation](#telepath-combat-manifestation)
-  - [Maximize Power](#maximize-power)
+  - [Telepath Class Feats](#telepath-class-feats)
+    - [Trigger Power](#trigger-power)
+    - [Telepath Bonus Feats](#telepath-bonus-feats)
+    - [Power Crystal](#power-crystal)
+    - [Telepath Combat Manifestation](#telepath-combat-manifestation)
+    - [Maximize Power](#maximize-power)
 
 ## Acolyte
 
@@ -306,7 +306,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Acolyte
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +2 | +0 | +2 | Divine skills, divine spells | +1 | +2 |
 | 2nd | +1 | +3 | +0 | +3 | Turn or rebuke undead, divine spells | +1 | +2 |
@@ -321,7 +321,7 @@ Table: The Acolyte
 
 [Return to Table of Contents](#table-of-contents)
 
-### Class Features
+### Class Feats
 
 All of the following features pertain to the Acolyte advanced class.
 
@@ -565,7 +565,7 @@ Skill Points at Each Level: 3 + Int modifier.
 
 Table: The Battle Mind
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +2 | +0 | +0 | Psionic skills, psionic powers | +1 | +0 |
 | 2nd | +1 | +3 | +0 | +0 | Psi-blade, imprint tattoo, psionic powers | +2 | +0 |
@@ -580,7 +580,7 @@ Table: The Battle Mind
 
 [Return to Table of Contents](#table-of-contents)
 
-### Battle Mind Class Features
+### Battle Mind Class Feats
 
 All of the following features pertain to the Battle Mind advanced class.
 
@@ -780,7 +780,7 @@ Skill Points at Each Level: 3 + Int modifier.
 
 Table: The Bodyguard
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +1 | +2 | +0 | Harm's way | +1 | +0 |
 | 2nd | +1 | +2 | +3 | +0 | Combat sense +1 | +1 | +0 |
@@ -795,7 +795,7 @@ Table: The Bodyguard
 
 [Return to Table of Contents](#table-of-contents)
 
-### Bodyguard Class Features
+### Bodyguard Class Feats
 
 The following features pertain to the Bodyguard advanced class.
 
@@ -919,7 +919,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Daredevil
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +2 | +0 | +0 | Fearless | +1 | +0 |
 | 2nd | +1 | +3 | +0 | +0 | Nip-up | +2 | +0 |
@@ -934,7 +934,7 @@ Table: The Daredevil
 
 [Return to Table of Contents](#table-of-contents)
 
-### Daredevil Class Features
+### Daredevil Class Feats
 
 The following features pertain to the Daredevil advanced class.
 
@@ -1057,7 +1057,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Field Medic
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +2 | +0 | +1 | Medical specialist +1 | +1 | +1 |
 | 2nd | +1 | +3 | +0 | +2 | Expert healer | +1 | +1 |
@@ -1072,7 +1072,7 @@ Table: The Field Medic
 
 [Return to Table of Contents](#table-of-contents)
 
-### Field Medic Class Features
+### Field Medic Class Feats
 
 The following features pertain to the Field Medic advanced class.
 
@@ -1182,7 +1182,7 @@ Skill Points at Each Level: 7 + Int modifier.
 
 Table: The Field Scientist
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +1 | +1 | +0 | Smart defense | +0 | +0 |
 | 2nd | +1 | +2 | +2 | +0 | Scientific improvisation | +1 | +0 |
@@ -1197,7 +1197,7 @@ Table: The Field Scientist
 
 [Return to Table of Contents](#table-of-contents)
 
-### Field Scientist Class Features
+### Field Scientist Class Feats
 
 The following features pertain to the Field Scientist advanced class.
 
@@ -1324,7 +1324,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Gunslinger
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +1 | +1 | Close combat shot | +1 | +0 |
 | 2nd | +1 | +0 | +2 | +2 | Weapon focus | +1 | +0 |
@@ -1339,7 +1339,7 @@ Table: The Gunslinger
 
 [Return to Table of Contents](#table-of-contents)
 
-### Gunslinger Class Features
+### Gunslinger Class Feats
 
 The following features pertain to the Gunslinger advanced class.
 
@@ -1464,7 +1464,7 @@ Skill Points at Each Level: 7 + Int modifier.
 
 Table: The Infiltrator
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +2 | +0 | Sweep | +1 | +1 |
 | 2nd | +1 | +0 | +3 | +0 | Improvised implements | +2 | +1 |
@@ -1479,7 +1479,7 @@ Table: The Infiltrator
 
 [Return to Table of Contents](#table-of-contents)
 
-### Infiltrator Class Features
+### Infiltrator Class Feats
 
 The following features pertain to the Infiltrator advanced class.
 
@@ -1606,7 +1606,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Investigator
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +1 | +1 | Profile | +1 | +1 |
 | 2nd | +1 | +0 | +2 | +2 | Contact, low-level | +1 | +1 |
@@ -1621,7 +1621,7 @@ Table: The Investigator
 
 [Return to Table of Contents](#table-of-contents)
 
-### Investigator Class Features
+### Investigator Class Feats
 
 The following features pertain to the Investigator advanced class.
 
@@ -1749,7 +1749,7 @@ Skill Points at Each Level: 7 + Int modifier.
 
 Table: The Mage
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +0 | +2 | Arcane skills, arcane spells, summon familiar | +1 | +1 |
 | 2nd | +1 | +0 | +0 | +3 | Scribe scroll, arcane spells | +1 | +1 |
@@ -1764,7 +1764,7 @@ Table: The Mage
 
 [Return to Table of Contents](#table-of-contents)
 
-### Mage Class Features
+### Mage Class Feats
 
 All of the following features pertain to the Mage advanced class.
 
@@ -2053,7 +2053,7 @@ Skill Points at Each Level: 3 + Int modifier.
 
 Table: The Martial Artist
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +1 | +0 | +2 | +0 | Living weapon 1d6 | +1 | +0 |
 | 2nd | +2 | +0 | +3 | +0 | Flying kick | +2 | +0 |
@@ -2068,7 +2068,7 @@ Table: The Martial Artist
 
 [Return to Table of Contents](#table-of-contents)
 
-### Martial Artist Class Features
+### Martial Artist Class Feats
 
 The following features pertain to the Martial Artist advanced class.
 
@@ -2172,7 +2172,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Negotiator
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +1 | +0 | +2 | Conceal motive | +0 | +1 |
 | 2nd | +1 | +2 | +0 | +3 | React first | +1 | +1 |
@@ -2187,7 +2187,7 @@ Table: The Negotiator
 
 [Return to Table of Contents](#table-of-contents)
 
-### Negotiator Class Features
+### Negotiator Class Feats
 
 All of the following are features of the Negotiator advanced class.
 
@@ -2317,7 +2317,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Occultist
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +0 | +1 | Arcane skills, spell resistance | +0 | +0 |
 | 2nd | +1 | +0 | +0 | +2 | Arcane research (scrolls) | +1 | +0 |
@@ -2332,7 +2332,7 @@ Table: The Occultist
 
 [Return to Table of Contents](#table-of-contents)
 
-### Occultist Class Features
+### Occultist Class Feats
 
 The following features pertain to the Occultist advanced class.
 
@@ -2372,7 +2372,7 @@ Use Magic Device (Cha): Trained only.
 
 Use this skill to activate magic devices, including scrolls and wands, that you could not otherwise activate.
 
-Check: You can use this skill to read a spell from a scroll or spellbook or activate a magic item. This skill lets you use a magic item as if you had the spell ability or class features of another class or a different allegiance.
+Check: You can use this skill to read a spell from a scroll or spellbook or activate a magic item. This skill lets you use a magic item as if you had the spell ability or Class Feats of another class or a different allegiance.
 
 When you are attempting to activate a magic item using this skill, you do so as an attack action. However, the checks you make to determine whether you are successful at activating the item take no time by themselves and are included in the activate magic item attack action.
 
@@ -2541,7 +2541,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Personality
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +1 | +1 | +0 | Unlimited access | +0 | +2 |
 | 2nd | +1 | +2 | +2 | +0 | Bonus class skill | +1 | +2 |
@@ -2556,7 +2556,7 @@ Table: The Personality
 
 [Return to Table of Contents](#table-of-contents)
 
-### Personality Class Features
+### Personality Class Feats
 
 The following features pertain to the Personality advanced class.
 
@@ -2689,7 +2689,7 @@ Skill Points at Each Level: 3 + Int modifier.
 
 Table: The Shadow Slayer
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +1 | +1 | +1 | +1 | Detect Shadow | +1 | +0 |
 | 2nd | +2 | +2 | +2 | +2 | Shadow immunity | +1 | +0 |
@@ -2704,7 +2704,7 @@ Table: The Shadow Slayer
 
 [Return to Table of Contents](#table-of-contents)
 
-### Shadow Slayer Class Features
+### Shadow Slayer Class Feats
 
 The following features pertain to the Shadow Slayer advanced class.
 
@@ -2879,7 +2879,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Soldier
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +1 | +1 | +0 | Weapon Focus | +1 | +0 |
 | 2nd | +1 | +2 | +2 | +0 | Weapon specialization | +1 | +0 |
@@ -2894,7 +2894,7 @@ Table: The Soldier
 
 [Return to Table of Contents](#table-of-contents)
 
-### Soldier Class Features
+### Soldier Class Feats
 
 The following features pertain to the Soldier advanced class.
 
@@ -3019,7 +3019,7 @@ Skill Points at Each Level: 7 + Int modifier.
 
 Table: The Techie
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +0 | +2 | Jury-rig +2 | +1 | +0 |
 | 2nd | +1 | +0 | +0 | +3 | Extreme machine | +1 | +0 |
@@ -3034,7 +3034,7 @@ Table: The Techie
 
 [Return to Table of Contents](#table-of-contents)
 
-### Techie Class Features
+### Techie Class Feats
 
 The following features pertain to the Techie advanced class.
 
@@ -3233,7 +3233,7 @@ Skill Points at Each Level: 5 + Int modifier.
 
 Table: The Telepath
 
-| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Features | Defense Bonus | Reputation Bonus |
+| Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Class Feats | Defense Bonus | Reputation Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +0 | +2 | Psionic skills, psionic powers | +0 | +1 |
 | 2nd | +1 | +0 | +0 | +3 | Trigger power, psionic powers | +1 | +1 |
@@ -3248,7 +3248,7 @@ Table: The Telepath
 
 [Return to Table of Contents](#table-of-contents)
 
-### Telepath Class Features
+### Telepath Class Feats
 
 All of the following features pertain to the Telepath advanced class.
 
