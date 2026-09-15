@@ -37,7 +37,7 @@
 
 ## Hunter's Orbit
 
-![Hunter's Orbit](./aliensvpredator/WeaponsAdv/hunters-orbit.png)
+![Hunter's Orbit](/aliensvpredator/WeaponsAdv/hunters-orbit.png)
 
 The **Hunter's Orbit** or *Yautja smart-flail* is an Elite-grade pred-tech flail built around mathematical control of momentum. Its bio-mask interface calculates the striking head's velocity, rebound angle, tether tension, and return path in real time.
 
