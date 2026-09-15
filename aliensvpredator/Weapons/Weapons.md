@@ -2,11 +2,21 @@
 
 ## Table of Contents
 
+- [Hunter's Coil](#hunters-coil)
+  - [Hunter's Coil Statistics](#hunters-coil-statistics)
+  - [Standard Functions](#standard-functions)
+  - [Grappling and Mobility Functions](#grappling-and-mobility-functions)
+  - [Blooded Pattern](#blooded-pattern)
+  - [Elite Pattern](#elite-pattern)
+  - [Smart-Lash Array](#smart-lash-array)
+  - [Pack Leader Pattern](#pack-leader-pattern)
+  - [Weapon Limitations](#weapon-limitations)
+  - [Naming and Classification](#naming-and-classification)
 - [Hunter's Orbit](#hunters-orbit)
   - [Weapon Statistics](#weapon-statistics)
   - [Smart Guidance](#smart-guidance)
   - [Variable Reach](#variable-reach)
-  - [Standard Functions](#standard-functions)
+  - [Standard Functions](#standard-functions-1)
   - [Programmed Combat Functions](#programmed-combat-functions)
   - [Elite Functions](#elite-functions)
   - [Durability](#durability)
