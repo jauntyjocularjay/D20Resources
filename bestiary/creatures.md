@@ -14,7 +14,7 @@ A creature's type determines many of its characteristics and abilities: physical
 
 A creature belongs to one of the fifteen types described below. A single creature cannot have more than one type.
 
-### Creature Type by name
+### Creature Type by Name
 
 - Aberration
 - Animal
@@ -36,34 +36,43 @@ A creature belongs to one of the fifteen types described below. A single creatur
 
 The table below provides the modifiers to a creature's saving throws and attack rolls based on its type and Hit Dice.
 
-| Creature's Hit Dice | Good Save Bonus | Poor Save Bonus | Base Attack Bonus (A) | Base Attack Bonus (B) | Base Attack Bonus (C) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 or less | +2 | +0 | +0 | +1 | +0 |
-| 2 | +3 | +0 | +1 | +2 | +0 |
-| 3 | +3 | +1 | +2 | +3 | +1 |
-| 4 | +4 | +1 | +3 | +4 | +1 |
-| 5 | +4 | +1 | +3 | +5 | +2 |
-| 6 | +5 | +2 | +4 | +6/+1 | +2 |
-| 7 | +5 | +2 | +5 | +7/+2 | +3 |
-| 8 | +6 | +2 | +6/+1 | +8/+3 | +4 |
-| 9 | +6 | +3 | +6/+1 | +9/+4 | +4 |
-| 10 | +7 | +3 | +7/+2 | +10/+5 | +5 |
-| 11 | +7 | +3 | +8/+3 | +11/+6/+1 | +5 |
-| 12 | +8 | +4 | +9/+4 | +12/+7/+2 | +6/+1 |
-| 13 | +8 | +4 | +9/+4 | +13/+8/+3 | +6/+1 |
-| 14 | +9 | +4 | +10/+5 | +14/+9/+4 | +7/+2 |
-| 15 | +9 | +5 | +11/+6/+1 | +15/+10/+5 | +7/+2 |
-| 16 | +10 | +5 | +12/+7/+2 | +16/+11/+6/+1 | +8/+3 |
-| 17 | +10 | +5 | +12/+7/+2 | +17/+12/+7/+2 | +8/+3 |
-| 18 | +11 | +6 | +13/+8/+3 | +18/+13/+8/+3 | +9/+4 |
-| 19 | +11 | +6 | +14/+9/+4 | +19/+14/+9/+4 | +9/+4 |
-| 20 | +12 | +6 | +15/+10/+5 | +20/+15/+10/+5 | +10/+5 |
+| Creature's Hit Dice   | Good Save Bonus   | Poor Save Bonus   | Base Attack Bonus (A) | Base Attack Bonus (B) | Base Attack Bonus (C) |
+|:---------------------:|:-----------------:|:-----------------:|:---------------------:|:---------------------:|:---------------------:|
+| 1 or less             | +2                | +0                | +0                    | +1                    | +0                    |
+| 2                     | +3                | +0                | +1                    | +2                    | +0                    |
+| 3                     | +3                | +1                | +2                    | +3                    | +1                    |
+| 4                     | +4                | +1                | +3                    | +4                    | +1                    |
+| 5                     | +4                | +1                | +3                    | +5                    | +2                    |
+| 6                     | +5                | +2                | +4                    | +6/+1                 | +2                    |
+| 7                     | +5                | +2                | +5                    | +7/+2                 | +3                    |
+| 8                     | +6                | +2                | +6/+1                 | +8/+3                 | +4                    |
+| 9                     | +6                | +3                | +6/+1                 | +9/+4                 | +4                    |
+| 10                    | +7                | +3                | +7/+2                 | +10/+5                | +5                    |
+| 11                    | +7                | +3                | +8/+3                 | +11/+6/+1             | +5                    |
+| 12                    | +8                | +4                | +9/+4                 | +12/+7/+2             | +6/+1                 |
+| 13                    | +8                | +4                | +9/+4                 | +13/+8/+3             | +6/+1                 |
+| 14                    | +9                | +4                | +10/+5                | +14/+9/+4             | +7/+2                 |
+| 15                    | +9                | +5                | +11/+6/+1             | +15/+10/+5            | +7/+2                 |
+| 16                    | +10               | +5                | +12/+7/+2             | +16/+11/+6/+1         | +8/+3                 |
+| 17                    | +10               | +5                | +12/+7/+2             | +17/+12/+7/+2         | +8/+3                 |
+| 18                    | +11               | +6                | +13/+8/+3             | +18/+13/+8/+3         | +9/+4                 |
+| 19                    | +11               | +6                | +14/+9/+4             | +19/+14/+9/+4         | +9/+4                 |
+| 20                    | +12               | +6                | +15/+10/+5            | +20/+15/+10/+5        | +10/+5                |
 
-**Attack Bonus column**
 
-- **Base Attack Bonus (A):** Aberrations, animals, constructs, elementals, giants, humanoids, oozes, plants, and vermin.
-- **Base Attack Bonus (B):** Dragons, magical beasts, monstrous humanoids, and outsiders.
-- **Base Attack Bonus (C):** Fey and undead.
+### Creature Type by Bonus
+
+| Attack Bonus A    | Attack Bonus B        | Attack Bonus C    |
+| ----------------- | --------------------- | ----------------- |
+| aberrations       | dragon                | fey               |
+| animals           | magical beasts        | undead            |
+| constructs        | monstrous humanoids   |                   |
+| elementals        | outsiders             |                   |
+| giants            |                       |                   |
+| humanoids         |                       |                   |
+| oozes             |                       |                   |
+| plants            |                       |                   |
+| vermin            |                       |                   |
 
 <!-- ## Creatures
 
