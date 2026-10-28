@@ -61,6 +61,8 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Buying Services
   - Feats
   - Menaces (List)
+- [Bestiary](./bestiary/bestiary.md)
+  - [Creatures](./bestiary/creatures.md)
 - **AliensVPredator**
   - [Yautja - Predator](AliensVPredator/Races/Yautja.md)
 - [Brendan's Note](#brendans-note)
