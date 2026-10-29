@@ -63,9 +63,8 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Feats
   - Menaces (List)
 - **AliensVPredator**
-  - Races
-    - [Yautja aka Predators](./aliensvpredator/yautja/race.md)
-      - [Yautja Weapons](./aliensvpredator/yautja/weapons.md)
+  - [Yautja aka Predators](./aliensvpredator/yautja/race.md)
+    - [Yautja Weapons](./aliensvpredator/yautja/weapons.md)
 - [Brendan's Note](#brendans-note)
 
 ## Brendan's Note
