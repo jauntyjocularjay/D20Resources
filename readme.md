@@ -5,13 +5,14 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
 ## Table of Contents
 
 - [Basics](./Basics/Basics.md)
+- [Bestiary](./bestiary/bestiary.md)
+- [Creature Rules](./bestiary/creatures.md)
 - [Basic Classes](./Basics/Classes.md)
 - [Multiclassing](./Basics/Multiclassing.md)
 - [Skills](./Skills.md)
 - [Arcana](./Arcana/Arcana.md)
   - [Arcana Classes](./Arcana/ArcanaAdvClasses.md)
   - Occupations
-  - Creatures
   - Organizations
   - Equipment
   - Prestige Classes
@@ -61,10 +62,10 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Buying Services
   - Feats
   - Menaces (List)
-- [Bestiary](./bestiary/bestiary.md)
-  - [Creatures](./bestiary/creatures.md)
 - **AliensVPredator**
-  - [Yautja - Predator](AliensVPredator/Races/Yautja.md)
+  - Races
+    - [Yautja aka Predators](./aliensvpredator/yautja/race.md)
+      - [Yautja Weapons](./aliensvpredator/yautja/weapons.md)
 - [Brendan's Note](#brendans-note)
 
 ## Brendan's Note
