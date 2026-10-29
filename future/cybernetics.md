@@ -1,7 +1,5 @@
 # Cybernetics
 
-[Index](../readme.md) > [Future](./Future.md) > [Cybernetics](./Cybernetics.md)
-
 ## Table of Contents
 
 - [Cybernetics](#cybernetics)

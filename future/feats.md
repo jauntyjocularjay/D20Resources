@@ -1,7 +1,5 @@
 # Feats
 
-[Index](../../readme.md) > [Future](./Future.md) > [Feats](./feats.md)
-
 ## Table of Contents
 
 - [Feats](#feats)

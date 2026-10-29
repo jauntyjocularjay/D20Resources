@@ -1,7 +1,5 @@
 # Modern Advanced Classes
 
-[Index](../../readme.md) > [Modern](./Modern.md) > [Modern Advanced Classes](../ModernAdvClasses.md)
-
 ## Table of Contents
 
 - [Acolyte](#acolyte)

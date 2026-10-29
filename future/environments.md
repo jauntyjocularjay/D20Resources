@@ -1,7 +1,5 @@
 # Environments
 
-[Index](../readme.md) > [Future](./Future.md) > [Environments](./Environments.md)
-
 This section covers environments in the Future d20 SRD. Each entry links to a detailed page for specific environmental hazards and conditions.
 
 ## Table of Contents

@@ -1,7 +1,5 @@
 # Robots
 
-[Index](../readme.md) > [Future](./Future.md) > [Robots](./Robots.md)
-
 ## Table of Contents
 
 - [Robots](#robots)

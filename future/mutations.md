@@ -1,7 +1,5 @@
 # Mutations
 
-[Index](../readme.md) > [Future](./Future.md) > [Mutations](./Mutations.md)
-
 ## Table of Contents
 
 - [Mutations](#mutations)

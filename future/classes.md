@@ -1,7 +1,5 @@
 # Classes
 
-[Index](../../readme.md) > [Future](./Future.md) > [Classes](../FutureAdvClasses.md)
-
 ## Table of Contents
 
 - [Classes](#classes)
