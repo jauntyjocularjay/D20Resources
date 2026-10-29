@@ -4,14 +4,14 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
 
 ## Table of Contents
 
-- [Basics](./Basics/Basics.md)
+- [Basics](./basics/basics.md)
+  - [Basic Classes](./basics/classes.md)
+  - [Multiclassing](./basics/multiclassing.md)
 - [Bestiary](./bestiary/bestiary.md)
-- [Creature Rules](./bestiary/creatures.md)
-- [Basic Classes](./Basics/Classes.md)
-- [Multiclassing](./Basics/Multiclassing.md)
-- [Skills](./Skills.md)
-- [Arcana](./Arcana/Arcana.md)
-  - [Arcana Classes](./Arcana/ArcanaAdvClasses.md)
+  - [Creature Rules](./bestiary/creatures.md)
+- [Skills](./skills.md)
+- Arcana
+  - [Arcana Classes](./arcana/classes.md)
   - Occupations
   - Organizations
   - Equipment
@@ -22,25 +22,24 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Psionics
   - Shadowkind
   - Spells
-- [Future](./Future/Future.md)
-  - [Classes](./Future/Classes.md)
-  - [Cybernetics](./Future/Cybernetics.md)
-  - [Environments](./Future/Environments.md)
-  - [Equipment](./Future/Equipment.md)
-  - [Feats](./Future/Feats.md)
-  - [Mecha](./Future/Mecha.md)
-  - [Mutations](./Future/Mutations.md)
+- Future
+  - [Classes](./future/classes.md)
+  - [Cybernetics](./future/cybernetics.md)
+  - [Environments](./future/environments.md)
+  - [Equipment](./future/equipment.md)
+  - [Feats](./future/feats.md)
+  - [Mecha](./future/mecha.md)
+  - [Mutations](./future/mutations.md)
   - Progress Levels
-  - [Robots](./Future/Robots.md)
+  - [Robots](./future/robots.md)
   - Scientific Engineering
   - Starships
   - Starting Occupations
   - Traveler Science
   - Vehicles
   - Xenobiology
-- [Modern](./Modern/Modern.md)
-  - Basics
-  - [Classes](./Modern/ModernAdvClasses.md)
+- Modern
+  - [Classes](./modern/classes.md)
   - Combat
   - Condition Summary
   - Creature Types
@@ -58,11 +57,11 @@ D20 Resources preservation is a porting over and update of the D20 Resources sit
   - Starting Occupation
   - Vehicle Movement and Combat
   - Wealth
-- [Menaces](./Menaces/Menaces.md)
+- [Menaces](./menaces/menaces.md)
   - Buying Services
   - Feats
   - Menaces (List)
-- **AliensVPredator**
+- AliensVPredator
   - [Yautja aka Predators](./aliensvpredator/yautja/race.md)
     - [Yautja Weapons](./aliensvpredator/yautja/weapons.md)
 - [Brendan's Note](#brendans-note)
